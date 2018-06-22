@@ -1,11 +1,13 @@
 Trends|Solutions|Agendas|Workspaces|Explorer
 |----|----|----|----|----
-|DXC 1.1.7|DXC 2.1.5|DXC 1.2.0|DXC 1.1.3|-
+|DXC 1.2.3|DXC 2.2.2|DXC 1.2.5|DXC 1.1.8|-
 
-### Release date : 
+### Release date : June 22nd 2018
 #### New
 **Major**
 - Agendas : detailed reporting page for internal programs (accounts with and without agendas)
+- Solutions : Markdown support for solution descriptions and value propositions text (https://jfcere.github.io/ngx-markdown/)
+- Solutions : Shareathon Dashboard
 
 **Minor**
 - Workspace : add scrolling when canvas is full

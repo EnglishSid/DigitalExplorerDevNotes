@@ -1,44 +1,49 @@
-# Data Model
+# Achievements
+Award achievements to users for submitting solutions and trends into the platform
 
-![image.png](model.png)
+## Model
+![datamodel](AchievementModel.png)
 
-# Admin Pages
-
-restricted to "platform admins"
-
-## Tag Management
-Paired page with backend code, allows platform admin to "promote" tags to be tracked as part of a solution tag.   also allows these tags to be assigned the required achievement image.
-
-![image.png](ManageTags.png)
-
-- Add Badge will allow the user to upload the badge image
-- remove badge will delete the attachment
-- To edit remove and add
-
-- "Add new" will add a new tag and achievement (if IsEvent is true) nodes into the system
+- [Awards Overview](awards.md)
+- [User Profile](Profile.md)
+- [Achievement Page](Achievement.md)
 
 
-## Achievements
-
-![image.png](Achievements.png)
-
-Paired page with backend code, aim is to allow admins to upload/change the badge image for system level achievements
-delete should be protected and a clear warning given.
+## Approach 
+- Track and recognize contribution within the platform via achievements and badges.
+- Allow "tags" to be used within Solutions as a means to create "events/Challenges"
+- New platform event upon saving content
 
 
-# Events
+### Q: How will existing content be reviewed?
 
-|Module|Event|Check|Award
-|----|----|----|----|
-|Solutions|Save solution|Person solution count|Solution badges (1,5,10)
-|Solutions|Save Solution|Feature type check|Keep it in the family <br> We are all friends here <br> It’s not what I do, it’s how I do it
-|Solutions|Save Solution|Trend check|Innovator
-|Solutions|Save Solution|Industry check|Industrialist
-|Solutions|Save Solution|Check if challenge tag|Event badges (specials)
-|Trends|Trend approved|trend count|Trend Badge (1,10)
-|Trends|Trend approved|industry check|Industrialist
-|Agendas|Save Agenda|Person 2 agenda count|Agenda badge
-|Agendas|Save Template|as template is saved|Helping hands|
-|Agendas|Create strategic initative|as program is saved|Taking the next step
-|Workspaces|Create Workspace|as workspace is created|workspace badge
-|Workspaces|Add person to a workspace|as person is added|workspace member badge
+The majority of content was bulk loaded via PPT2CSV, thus only new content with a submission date after Nov 2017 will be included within the initial data scan to award achievements.
+
+---
+## Approach
+
+1. Prep
+    - preload Badge Nodes
+    - create the support image files
+
+1. Solution Save Event
+
+1. Revise User Profiles
+
+1. Trend Approval Event
+
+1. Agenda
+    - Save Event 
+    - Template Save Event
+    - Create Initiative Event
+
+1. Workspace 
+     - Create event
+     - Membership event
+
+1. New Tag management Module
+     - New Tag management endpoint (add, edit delete)
+     - New tag GET endpoint (name, IsEvent, BadgeURI)
+     - New GET tag count endpoint (tagid, relationship count)
+     - New tag management UI
+     - Update Solution save to support events
