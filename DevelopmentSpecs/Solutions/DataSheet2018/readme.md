@@ -10,4 +10,5 @@ content and values remain the same as current datasheet.
 - [features](images/features.png)
 - [model](images/model.png)
 - [media](images/media.png)
+- [Contacts](contacts.md)
 - [other](images/other.png)
