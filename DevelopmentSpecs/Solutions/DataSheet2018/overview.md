@@ -1,3 +1,3 @@
-![model](images/overview.png)
+![model](images/Overview.png)
 
 - note new side bar
