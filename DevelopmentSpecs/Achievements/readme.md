@@ -2,7 +2,7 @@
 Award achievements to users for submitting solutions and trends into the platform
 
 ## Model
-![datamodel](AchievementModel.png)
+![datamodel](model.png)
 
 - [Awards Overview](awards.md)
 - [User Profile](Profile.md)

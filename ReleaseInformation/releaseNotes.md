@@ -2,7 +2,27 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 |----|----|----|----|----
 |DXC 1.2.3|DXC 2.2.2|DXC 1.2.5|DXC 1.1.8|-
 
-### Release date : June 22nd 2018
+### Release date : 
+#### New
+**Major**
+- 
+
+**Minor**
+- 
+
+
+**Fixes**
+- Agendas : Allow empty program groups to be edited
+- Agendas : Program group word change (start time to start date)
+
+----
+
+
+Trends|Solutions|Agendas|Workspaces|Explorer
+|----|----|----|----|----
+|DXC 1.2.3|DXC 2.2.2|DXC 1.2.5|DXC 1.1.8|-
+
+### Release date : June 25th 2018
 #### New
 **Major**
 - Agendas : detailed reporting page for internal programs (accounts with and without agendas)
