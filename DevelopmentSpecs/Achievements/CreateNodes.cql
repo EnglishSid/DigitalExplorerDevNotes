@@ -1,5 +1,5 @@
 //CONSTRAINT
-MERGE CONSTRAINT ON (a:Achievement) ASSERT a.name IS UNIQUE
+CREATE CONSTRAINT ON (a:Achievement) ASSERT a.name IS UNIQUE
 
 //1st Solution
 MERGE (a:Achievement {name:'OnboardSolutions', shortName:'Onboard Solutions', description:'Submitted first solution', badgeImageURL:'assets/images/badges/onboardsolutions.png', module:'Solutions'})
