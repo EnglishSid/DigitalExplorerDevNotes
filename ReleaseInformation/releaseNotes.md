@@ -8,12 +8,14 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 - 
 
 **Minor**
-- 
+- Added supporting information for Markdown styling
 
 
 **Fixes**
+- Agendas : Stakeholder and account contact text correctly positioned.
 - Agendas : Allow empty program groups to be edited
 - Agendas : Program group word change (start time to start date)
+- Solutions :Allow copy and paste of links from the mouse menu
 
 ----
 
