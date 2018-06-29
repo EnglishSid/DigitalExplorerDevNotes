@@ -5,7 +5,7 @@
 
 List all the available achievements available within Digital Explorer
 
-**new property required within achievement `module:` **
+**new property required within achievement `module:`**
 
 list all achievements, grouped by module
 Plus a counter of the total awarded
