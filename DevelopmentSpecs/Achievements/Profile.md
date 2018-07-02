@@ -2,7 +2,7 @@
 
 revise the existing user profile to show the achievements awarded to a person
 
-![profile_2018.png](profile_2018.png)
+![profile_2018.png](images/profile_2018.png)
 
 ## Recent submissions
 - Last 5

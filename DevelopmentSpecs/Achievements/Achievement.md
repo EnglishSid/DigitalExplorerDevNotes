@@ -2,7 +2,7 @@
 
 Detailed page for each Achievement
 
-![profile_2018.png](achievement_detail.png)
+![profile_2018.png](images/achievement_detail.png)
 
 ## title
 show the details and also the achievement image
