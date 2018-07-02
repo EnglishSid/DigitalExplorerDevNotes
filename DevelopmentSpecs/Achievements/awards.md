@@ -15,8 +15,8 @@
 |Solutions|Save Solution|event tag included|EventName|EventName|EventDescription
 |Trends|Trend Approved|1st Trend|OnboardTrends|Onboard Trends|Submitted first trend
 |Trends|Trend Approved|10th Trend|ThoughtLeader|ThoughtLeader|Submitted 10th trend
-|Trends|Trend Approved|Trend 2 Industry|TrendIndustrialist|Trend Industrialist|Submit your first trend for a named industry
 |Trends|Trend Approved|Trend 2 Industry|TrendIndustrialist`<name>`|Trend Industrialist `<name>`|Submit your first trend for a named industry
+|Trends|Trend Approved|Trend 2 Technology|Trend Technologist|Trend Technologist|Submit your first trend for a technology group
 |Agendas|Save Agenda|people assigned to account at time of save|OnboardAgendas|Onboard Agendas|Member of an account team with an innovation agenda
 |Agendas|Save Template|created template|Helpinghands|Helping hands|Create your first agenda template
 |Agenda|Create Initiative|people assigned to an account at the time a inititive is created|TakingTheNextStep|Taking the next step|Member of an account team who have created a strategic initiative

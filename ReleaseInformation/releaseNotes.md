@@ -5,10 +5,11 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 ### Release date : 
 #### New
 **Major**
-- 
+- Solutions : revised datasheet layout
 
 **Minor**
-- Added supporting information for Markdown styling
+- Solutions : Added supporting information for Markdown styling
+- Solutions : Minor improvements to Shareathon dashboard (click to view trend details)
 
 
 **Fixes**
