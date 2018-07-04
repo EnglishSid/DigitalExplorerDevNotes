@@ -30,6 +30,7 @@ MERGE (a:Achievement {name:'TrendIndustrialistManufacturing', shortName:'Trend I
 with count(*) as dummy
 //Industry Insurance
 MERGE (a:Achievement {name:'TrendIndustrialistInsurance', shortName:'Trend Industrialist : Insurance' , description:'Submitted your first trend for the Insurance industry', badgeImageURL:'assets/images/badges/TrendIndustrialistinsurance.png', industry:'Insurance', module:'Trends'})
+with count(*) as dummy
 //Technology Trend
 MERGE (a:Achievement {name:'TrendTechnologist', shortName:'Trend Technologist' , description:'Submit your first trend for a technology group', badgeImageURL:'assets/images/badges/TrendTechnologist.png', module:'Trends'})
 ---
