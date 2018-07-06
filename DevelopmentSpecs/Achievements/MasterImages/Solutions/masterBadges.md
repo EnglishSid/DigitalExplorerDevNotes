@@ -8,7 +8,7 @@
 |innovator|![](innovator.png)<br>`innovator.png`|
 |family|![](family.png)<br>`family.png`|
 |familyanalytics|![](familyanalytics.png)<br>`familyanalytics.png`|
-|FamilyApplicationServices|![](familyapplicationservices.png)<br>`familyapplicationservices.png`|
+|familyappsservices |![](familyappsservices.png)<br>`familyappsservices.png`|
 |familysecurity|![](familysecurity.png)<br>`familysecurity.png`|
 |familybps|![](familybps.png)<br>`familybps.png`|
 |familycps|![](familycps.png)<br>`familycps.png`|
@@ -24,3 +24,9 @@
 |solutionindustrialisttravel|![](solutionindustrialisttravel.png)<br>`solutionindustrialisttravel.png`|
 |solutionindustrialistmanufacturing|![](solutionindustrialistmanufacturing.png)<br>`solutionindustrialistmanufacturing.png`|
 |solutionindustrialistinsurance|![](solutionindustrialistinsurance.png)<br>`solutionindustrialistinsurance.png`|
+|familybanking|![](familybanking.png)<br>`familybanking.png`|
+|familycloudapps|![](familycloudapps.png)<br>`familycloudapps.png`|
+|familyhealthcare|![](familyhealthcare.png)<br>`familyhealthcare.png`|
+|familyinsurance|![](familyinsurance.png)<br>`familyinsurance.png`|
+|familytravel|![](familytravel.png)<br>`familytravel.png`|
+|solutionindustrialistpanindustry|![](solutionindustrialistpanindustry.png)<br>`solutionindustrialistpanindustry.png`|
