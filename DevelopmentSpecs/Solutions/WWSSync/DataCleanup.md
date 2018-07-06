@@ -1,6 +1,8 @@
 # Initial Load
 Initial load will match against feature name, if match found update with WWS ID (solution and feature)
 
+- if match not found add and consider new and correct feature from WWS master
+
 ## for features without WWS ID's
 
 - if **no** relationship to other solutions - delete
