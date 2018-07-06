@@ -53,7 +53,7 @@ with count(*) as dummy
 MERGE (a:Achievement {name:'FamilyAppsServices', shortName:'Keep it in the family : Apps Services and Program Excellence', description:'Submitted a solution using a DXC Apps Services and Program Excellence offering', badgeImageURL:'assets/images/badges/familyappsservices.png', family:'Apps Services and Program Excellence', module:'Solutions'})
 with count(*) as dummy
 //Family IS&S Insurance
-MERGE (a:Achievement {name:'FamilyInsurance', shortName:'Keep it in the family : IS&S Insurance', description:'Submitted a solution using a DXC IS&S Insurance offering', badgeImageURL:'assets/images/badges/familyisurance.png', family:'IS&S Insurance', module:'Solutions'})
+MERGE (a:Achievement {name:'FamilyInsurance', shortName:'Keep it in the family : IS&S Insurance', description:'Submitted a solution using a DXC IS&S Insurance offering', badgeImageURL:'assets/images/badges/familyinsurance.png', family:'IS&S Insurance', module:'Solutions'})
 with count(*) as dummy
 //Family IS&S Healthcare & Life Sciences
 MERGE (a:Achievement {name:'FamilyHealthcare', shortName:'Keep it in the family : IS&S Healthcare & Life Sciences', description:'Submitted a solution using a DXC IS&S Healthcare & Life Sciences offering', badgeImageURL:'assets/images/badges/familyhealthcare.png', family:'IS&S Healthcare & Life Sciences', module:'Solutions'})

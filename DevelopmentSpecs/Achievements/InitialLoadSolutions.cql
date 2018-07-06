@@ -8,8 +8,8 @@ delete r
 
 //1st Solution
 MATCH  (p:Person)-[r:ASSIGNED]->(s:Solution),(a:Achievement {name:'OnboardSolutions'})
-WITH p,count(r) as Counter, a
-MERGE (p)-[:HAS {Counter:Counter}]->(a)
+WITH p,count(r) as counter, a
+MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:ASSIGNED]->(s:Solution),(p)-[r2:HAS]->(a:Achievement {name:'OnboardSolutions'})
 SET r2.creationDate=s.creationDate
@@ -17,9 +17,9 @@ with count(*) as dummy
 //5th Solution
 
 MATCH  (p:Person)-[r:ASSIGNED]->(s:Solution),(a:Achievement {name:'Journeyman'})
-WITH p,count(r) as Counter, a
-WHERE Counter > 5
-MERGE (p)-[:HAS {Counter:Counter}]->(a)
+WITH p,count(r) as counter, a
+WHERE counter > 5
+MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:ASSIGNED]->(s:Solution),(p)-[r2:HAS]->(a:Achievement {name:'Journeyman'})
 SET r2.creationDate=s.creationDate
@@ -29,9 +29,9 @@ with count(*) as dummy
 //10th Solution
 
 MATCH  (p:Person)-[r:ASSIGNED]->(s:Solution),(a:Achievement {name:'Master'})
-WITH p,count(r) as Counter, a
-WHERE Counter > 10
-MERGE (p)-[:HAS {Counter:Counter}]->(a)
+WITH p,count(r) as counter, a
+WHERE counter > 10
+MERGE (p)-[:HAS {counter:counter}]->(a)
 
 with count(*) as dummy
 MATCH (p:Person)-[r:ASSIGNED]->(s:Solution),(p)-[r2:HAS]->(a:Achievement {name:'Master'})

@@ -7,9 +7,13 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 **Major**
 - Solutions : revised datasheet layout
 
+
 **Minor**
+- Solutions : Improved failed validation warnings
 - Solutions : Added supporting information for Markdown styling
 - Solutions : Minor improvements to Shareathon dashboard (click to view trend details)
+- Agendas : Give warning if users exit canvas page without saving
+- Agendas : clear message within trend dock when no trends are found based on selected filters
 
 
 **Fixes**
