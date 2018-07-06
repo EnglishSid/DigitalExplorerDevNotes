@@ -125,6 +125,7 @@ MATCH (a:Achievement {name:'SolutionIndustrialistTravel'})
 Set a.order='8'
 with count(*) as dummy
 //Industry Manufacturing
+MATCH (a:Achievement {name:'SolutionIndustrialistManufacturing'}) 
 Set a.order='8'
 with count(*) as dummy
 //Industry Pan Industry
