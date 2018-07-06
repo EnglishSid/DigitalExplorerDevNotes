@@ -1,83 +1,71 @@
-MATCH (f:Feature {name:''})
-set f.name=""
+MATCH (f:Feature {name:'Classification'})
+set f.name="Data Classification Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'Data Classification Services'})
-set f.name="Classification"
+MATCH (f:Feature {name:'Enterprise Data Warehousing'})
+set f.name="Enterprise Data Warehousing Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'Enterprise Data Warehousing Services'})
-set f.name="Enterprise Data Warehousing"
+MATCH (f:Feature {name:'Master Data Management'})
+set f.name="Master Data Management Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'Master Data Management Services'})
-set f.name="Master Data Management"
+MATCH (f:Feature {name:'Applications Security'})
+set f.name="Comprehensive Applications Threat Analysis Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'Comprehensive Applications Threat Analysis ServicesMigrating'})
-set f.name="Applications Security"
+MATCH (f:Feature {name:'Applications Management'})
+set f.name="Applications Management Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'Applications Management Services'})
-set f.name="Applications Management"
+MATCH (f:Feature {name:'AWS Cloud Services'})
+set f.name="DXC Managed Services for AWS"
 with count(*) as dummy
-MATCH (f:Feature {name:'DXC Managed Services for AWS'})
-set f.name="AWS Cloud Services"
+MATCH (f:Feature {name:'Managed Services for Microsoft Azure'})
+set f.name="DXC Managed Services for Microsoft Azure"
 with count(*) as dummy
-MATCH (f:Feature {name:'DXC Managed Services for Microsoft Azure'})
-set f.name="Managed Services for Microsoft Azure"
+MATCH (f:Feature {name:'SPLIT - Applications Modernization and Transformation'})
+set f.name="Applications Modernization and Transformation"
 with count(*) as dummy
-MATCH (f:Feature {name:'Applications Modernization and Transformation'})
-set f.name="SPLIT - Applications Modernization and Transformation"
+MATCH (f:Feature {name:'Multisupplier Integration and ITSM-ESM Services'})
+set f.name="Service Integration and Management"
 with count(*) as dummy
-MATCH (f:Feature {name:'Service Integration and Management'})
-set f.name="Multisupplier Integration and ITSM-ESM Services"
+MATCH (f:Feature {name:'PaaS for SAP'})
+set f.name="DXC Platform as a Service for SAP"
 with count(*) as dummy
-MATCH (f:Feature {name:'DXC Platform as a Service for SAP'})
-set f.name="PaaS for SAP"
+MATCH (f:Feature {name:'DXC Digital Workforce for Oracle Cloud'})
+set f.name="DXC Digital Workforce for Oracle Cloud Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'DXC Digital Workforce for Oracle Cloud Services'})
-set f.name="DXC Digital Workforce for Oracle Cloud"
+MATCH (f:Feature {name:'DXC Mobile Enterprise Services'})
+set f.name="Mobile Enterprise Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'Mobile Enterprise Services'})
-set f.name="DXC Mobile Enterprise Services"
+MATCH (f:Feature {name:'DXC Collaboration Services'})
+set f.name="Collaboration Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'Collaboration Services'})
-set f.name="DXC Collaboration Services"
+MATCH (f:Feature {name:'Enterprise Services for Google Apps for Work'})
+set f.name="Enterprise Services for Google G Suite: Legacy"
 with count(*) as dummy
-MATCH (f:Feature {name:'Hewlett Packard Enterprise Services for Office 365 Migrating'})
-set f.name="DXC Services for Office 365"
+MATCH (f:Feature {name:'DXC File Sync and Share Services'})
+set f.name="File Sync and Share Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'Enterprise Services for Google G Suite'})
-set f.name="Enterprise Services for Google Apps for Work"
+MATCH (f:Feature {name:'DXC Messaging Services'})
+set f.name="Messaging Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'File Sync and Share Services'})
-set f.name="DXC File Sync and Share Services"
+MATCH (f:Feature {name:'DXC Virtual Desktop and Applications Services'})
+set f.name="Virtual Desktop and Applications Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'Messaging Services'})
-set f.name="DXC Messaging Services"
+MATCH (f:Feature {name:'Content and Records Management'})
+set f.name="Content and Records Management Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'Virtual Desktop and Applications Services'})
-set f.name="DXC Virtual Desktop and Applications Services"
+MATCH (f:Feature {name:'Archiving'})
+set f.name="Archiving Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'Content and Records Management Services'})
-set f.name="Content and Records Management"
-with count(*) as dummy
-MATCH (f:Feature {name:'Archiving Services'})
-set f.name="Archiving"
-with count(*) as dummy
-MATCH (f:Feature {name:'DXC Omnilocation'})
-set f.name="OmniLocation"
+MATCH (f:Feature {name:'Omnilocation'})
+set f.name="DXC OmniLocation"
 with count(*) as dummy
 MATCH (f:Feature {name:'Platforms - Cloud and On Prem'})
-set f.name="Platforms - Cloud and On Prem"
+set f.name="Platforms - Cloud and On Prem: Legacy"
 with count(*) as dummy
-MATCH (f:Feature {name:'DXC Analytics Platform'})
-set f.name="Analytics Platform"
+MATCH (f:Feature {name:'Analytics Platform'})
+set f.name="DXC Analytics Platform"
 with count(*) as dummy
-MATCH (f:Feature {name:'Data Workload Optimization Services'})
-set f.name="Data Workload Optimization"
+MATCH (f:Feature {name:'Data Workload Optimization'})
+set f.name="Data Workload Optimization Services"
 with count(*) as dummy
-MATCH (f:Feature {name:'As a Service Solution for Hadoop'})
-set f.name="Hadoop Solutions"
-with count(*) as dummy
-MATCH (f:Feature {name:'Business Intelligence Modernization Workshop Services'})
-set f.name="Data Discovery Experience"
-with count(*) as dummy
-MATCH (f:Feature {name:'Big Data Discovery Experience Services'})
-set f.name="Data Discovery Experience"
+MATCH (f:Feature {name:'Data Discovery Experience'})
+set f.name="Big Data Discovery Experience Service"
