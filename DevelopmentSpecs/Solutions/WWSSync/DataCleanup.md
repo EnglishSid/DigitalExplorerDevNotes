@@ -4,12 +4,12 @@ Initial load will match against feature name, if match found update with WWS ID 
 ## for features without WWS ID's
 
 - if **no** relationship to other solutions - delete
-- if relationship to other solution - review
+- if relationship to other solution - :mag: review
 
 ## for solutions without WWS ID's
 - if **no** features delete
 - if **no** features map to other solutions - delete
-- if features map to other solutions - review
+- if features map to other solutions - :mag: review
 
 
 ### Relationship to Practice nodes
