@@ -73,7 +73,7 @@ with count(*) as dummy
 
 //step 4
 MATCH (p:Person)-[r:ASSIGNED]->(s:Solution)--(tt:TechnologyTrend),(p)-[r2:HAS]->(a:Achievement {name:'Innovator'})
-
+SET r2.creationDate=s.creationDate
 
 //**********************************
 //***  OFFERING FAMILIES 
