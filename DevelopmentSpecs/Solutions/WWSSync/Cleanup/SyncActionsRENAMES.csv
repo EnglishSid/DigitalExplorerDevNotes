@@ -1,0 +1,53 @@
+ACTION,OldName,newName
+RENAME,BI Modernization Advisory,Analytics Consulting
+RENAME,Data Discovery Experience,Big Data Discovery Experience Services
+RENAME,Procurement Analytics,Spend Analytics
+RENAME,Social Analytics,Customer Analytics
+RENAME,Analytics Platform,Platforms - Cloud and On Prem
+RENAME,Data Workload Optimization,Data Workload Optimization Services
+RENAME,Hadoop Solutions,As a Service Solution for Hadoop
+RENAME,OmniLocation,DXC OmniLocation
+RENAME,Archiving,Archiving Services
+RENAME,Classification,Data Classification Services
+RENAME,Content and Records Management,Content and Records Management Services
+RENAME,Enterprise Data Warehousing,Enterprise Data Warehousing Services
+RENAME,Master Data Management,Master Data Management Services
+RENAME,Application Performance Management,Testing and Digital Assurance
+RENAME,Applications Management,Applications Management Services
+RENAME,Cards and Payment Services,Commercial Cards Services
+RENAME,AWS Cloud Services,DXC Managed Services for AWS
+RENAME,Managed Services for Microsoft Azure,DXC Managed Services for Microsoft Azure
+RENAME,Business and Application Integration Services,Applications Modernization and Transformation
+RENAME,Managed Container Platform as a Service,DXC Managed Container PaaS powered by Red Hat OpenShift
+RENAME,Multisupplier Integration and ITSM-ESM Services,Enterprise Service Management Cross Functional Services
+RENAME,Public Cloud Development Services,Application Services for Public Clouds
+RENAME,Storage Services,Storage as a Service
+RENAME,Cloud Compute,DXC Managed Services for VMware
+RENAME,DXC Cognitive Solutions with IBM Watson,DXC Digital Data Solutions for IBM Platforms
+RENAME,DXC Digital Transformation Solutions for Banking,Digital Transformation Solutions for Banking for Dynamics 365
+RENAME,DXC Solutions for Microsof Dynamics 365,DXC Solutions for Microsoft Dynamics 365
+RENAME,DXC Digital Transformation Assessment for Oracle,DXC Digital Transformation Assessment for Oracle Cloud
+RENAME,DXC Digital Consumer Products Solutions for SAP,SAP Industry Transformation Services
+RENAME,DXC ServiceNow ITAM/ITOM Implementation and Transformation,DXC ServiceNow Run
+RENAME,CSC Boomerang,DXC Boomerang
+RENAME,Open Health Connect,DXC Open Health Connect
+RENAME,Xchanging Insurance Claims,Colossus
+RENAME,DXC Business Process Services: Life and Wealth,Workers Comp as a Service
+RENAME,Classical Life and Annuity,Life & Annuity Administration
+RENAME,DXC Integral,Integral
+RENAME,Classical Property and Casualty,General Insurance Administration
+RENAME,Classical Reinsurance,SICS
+RENAME,On-Demand Workload Protection (OWP),Managed Cloud Access Security Broker
+RENAME,Assured Identity - Identity Management As a Service,Identity Management as a Service
+RENAME,DXC Campus and Connectivity Networks,Campus and Connectivity Networks
+RENAME,DXC Mobile Enterprise Services,Mobile Enterprise Services
+RENAME,DXC Workplace IOT,Mobile & IoT Cloud Services
+RENAME,DXC Collaboration Services,Collaboration Services
+RENAME,DXC Software Licensing and Management Solutions,Software Licensing and Management Solutions
+RENAME,DXC Support Services,Support Services
+RENAME,DXC Virtual Desktop and Applications Services,Virtual Desktop and Applications Services
+RENAME,DXC Workplace Device Services,Workplace Management Services
+RENAME,DXC Workplace and Mobility Advisory Services,Workplace and Mobility Advisory Services
+RENAME,Cloud Native Applications Development,Agile Applications Development
+RENAME,Service Automation,Applications Management Services
+RENAME,Capital Markets & Investment Services Transformation,Digital Industries and Analytics Consulting

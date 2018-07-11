@@ -1,0 +1,18 @@
+ACTION,OldName,newName
+MERGE,Data Discovery Diagnostic,Big Data Discovery Experience Services
+MERGE,Data Workload Optimization Diagnostic,Data Workload Optimization Services
+MERGE,ClearTransformation IT Operating Model,Cloud and Workload Advisory Services
+MERGE,Service Integration and Management Advisory,Service Integration and Management
+MERGE,Application Transformation Factories,Applications Modernization and Transformation
+MERGE,Capital Markets & Investment Services Transformation,Digital Industries and Analytics Consulting
+MERGE,Consumer Retail & Transportation Transformation,Digital Industries and Analytics Consulting
+MERGE,Industry Consulting - Classical,Digital Industries and Analytics Consulting
+MERGE,Industry Consulting - Next Gen,Digital Industries and Analytics Consulting
+MERGE,Insurance Transformation,Digital Industries and Analytics Consulting
+MERGE,Pubic Sector Transformation,Digital Industries and Analytics Consulting
+MERGE,DXC Digital Utilities Solutions for SAP,SAP Industry Transformation Services
+MERGE,DXC ServiceNow ITSM Implementation and Transformation,DXC ServiceNow Run
+MERGE,Industry Consulting - Classical,Digital Industries and Analytics Consulting
+MERGE,Industry Consulting - Next Gen,Digital Industries and Analytics Consulting
+MERGE,Insurance Transformation,Digital Industries and Analytics Consulting
+MERGE,Pubic Sector Transformation,Digital Industries and Analytics Consulting
