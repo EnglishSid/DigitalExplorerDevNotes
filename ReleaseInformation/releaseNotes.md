@@ -1,14 +1,16 @@
 Trends|Solutions|Agendas|Workspaces|Explorer
 |----|----|----|----|----
-|DXC 1.2.3|DXC 2.2.2|DXC 1.2.5|DXC 1.1.8|-
+|DXC 1.2.4|DXC 2.2.3|DXC 1.2.6|DXC 1.1.9|-
 
 ### Release date : 
 #### New
 **Major**
+- Platform : APOC plugin installed
 - Solutions : revised datasheet layout
-
+- Solutions : Achievements
 
 **Minor**
+- Solutions : Allow any role to be assigned to a contact (removed the dependency on `Solution Owner`)
 - Solutions : Improved failed validation warnings
 - Solutions : Added supporting information for Markdown styling
 - Solutions : Minor improvements to Shareathon dashboard (click to view trend details)
@@ -17,7 +19,7 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 
 
 **Fixes**
-- Agendas : Stakeholder and account contact text correctly positioned.
+- Agendas : Stakeholder and account contact text correctly positioned within summary view.
 - Agendas : Allow empty program groups to be edited
 - Agendas : Program group word change (start time to start date)
 - Solutions :Allow copy and paste of links from the mouse menu
