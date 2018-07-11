@@ -6,9 +6,9 @@
 
 `match (P:Practice {name:'Apps Services and Program Excellence'})detach delete p`
 
-
 ## name check
 ~~~
+//remove space before : 
 MATCH (a:Achievement) 
 WITH a AS acv, a.shortName AS before
 SET acv.shortName = replace(acv.shortName, " :", ":") 
