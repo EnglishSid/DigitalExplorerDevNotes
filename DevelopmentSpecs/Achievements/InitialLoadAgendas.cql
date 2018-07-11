@@ -7,7 +7,6 @@ return p,ac
 
 MATCH (ia:InnovationAgenda)--(a:Account)--(p:Person),(p)-[r2:HAS]->(ac:Achievement {name:'OnboardAgendas'})
 SET r2.creationDate=ia.creationDate
-with count(*) as dummy
 
 
 
