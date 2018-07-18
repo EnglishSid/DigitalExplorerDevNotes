@@ -1,9 +1,12 @@
 # Digital Explorer Developer notes
 
-## :page_facing_up: Working documentation for the development team of Digital Explorer
+## :pencil: Working documentation for the development team of Digital Explorer :pencil: 
 
+- Please feel free to explore our working notes, designs, code snippets and other non-production related topics.
 
-- [Please review the main Digital Explorer SDK page for details of released features, datamodels and training material](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs)
+- You can access the released SDK [here](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs)
+
+- To raise an enhancement or defect please click [here](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues)
 
 ---
 
