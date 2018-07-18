@@ -3,7 +3,7 @@
 ## :page_facing_up: Working documentation for the development team of Digital Explorer
 
 
-
+[Please review the main Digital Explorer SDK page for details of released features, datamodels and training material](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs)
 
 ---
 
