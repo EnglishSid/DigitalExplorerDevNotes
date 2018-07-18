@@ -1,0 +1,3 @@
+match (f:Feature)
+where f.name contains 'QuickStart'
+detach delete f

@@ -1,6 +1,6 @@
-# Digital Explorer Developer only notes
+# Digital Explorer Developer notes
 
-## :lock: Restricted git documentation for the development team of Digital Explorer
+## :page_facing_up: Working documentation for the development team of Digital Explorer
 
 
 

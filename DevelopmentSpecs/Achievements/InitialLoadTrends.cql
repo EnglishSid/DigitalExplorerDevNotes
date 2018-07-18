@@ -9,7 +9,7 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(btl:BusinessTrendLink),(p)-[r2:HAS]->(a:Achievement {name:'OnboardTrends'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 
 //10th Trend
 
@@ -20,7 +20,7 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(btl:BusinessTrendLink),(p)-[r2:HAS]->(a:Achievement {name:'ThoughtLeader'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 
 //Technology Trend
 MATCH  (p:Person)-[r:CREATED]->(tt:TechnologyTrend),(a:Achievement {name:'TrendTechnologist'})
@@ -29,7 +29,7 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(tt:TechnologyTrend),(p)-[r2:HAS]->(a:Achievement {name:'TrendTechnologist'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 
 
 
@@ -45,7 +45,7 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(btl:BusinessTrendLink)--(ba:BusinessArea)--(si:SubIndustry)--(I:Industry {name:'Banking & Capital Markets'}),(p)-[r2:HAS]->(a:Achievement {name:'TrendIndustrialistBanking'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 
 
 //Industry Communications, Media & Entertainment
@@ -55,7 +55,7 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(btl:BusinessTrendLink)--(ba:BusinessArea)--(si:SubIndustry)--(I:Industry {name:'Communications, Media & Entertainment'}),(p)-[r2:HAS]->(a:Achievement {name:'TrendIndustrialistCommunications'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 
 //Industry Consumer Industries & Retail
 
@@ -65,7 +65,7 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(btl:BusinessTrendLink)--(ba:BusinessArea)--(si:SubIndustry)--(I:Industry {name:'Consumer Industries & Retail'}),(p)-[r2:HAS]->(a:Achievement {name:'TrendIndustrialistConsumer'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 
 
 
@@ -76,7 +76,7 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(btl:BusinessTrendLink)--(ba:BusinessArea)--(si:SubIndustry)--(I:Industry {name:'Energy'}),(p)-[r2:HAS]->(a:Achievement {name:'TrendIndustrialistEnergy'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 
 //Industry Healthcare & Life Sciences
 
@@ -86,7 +86,7 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(btl:BusinessTrendLink)--(ba:BusinessArea)--(si:SubIndustry)--(I:Industry {name:'Healthcare & Life Sciences'}),(p)-[r2:HAS]->(a:Achievement {name:'TrendIndustrialistHealthcare'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 
 
 //Industry Public Sector
@@ -97,7 +97,7 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(btl:BusinessTrendLink)--(ba:BusinessArea)--(si:SubIndustry)--(I:Industry {name:'Public Sector'}),(p)-[r2:HAS]->(a:Achievement {name:'TrendIndustrialistPublicSector'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 
 
 //Industry Travel & Transportation
@@ -107,7 +107,7 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(btl:BusinessTrendLink)--(ba:BusinessArea)--(si:SubIndustry)--(I:Industry {name:'Travel & Transportation'}),(p)-[r2:HAS]->(a:Achievement {name:'TrendIndustrialistTravel'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 
 
 //Industry Manufacturing
@@ -117,7 +117,7 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(btl:BusinessTrendLink)--(ba:BusinessArea)--(si:SubIndustry)--(I:Industry {name:'Manufacturing'}),(p)-[r2:HAS]->(a:Achievement {name:'TrendIndustrialistManufacturing'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 
 //Industry Insurance
 MATCH  (p:Person)-[r:CREATED]->(btl:BusinessTrendLink)--(ba:BusinessArea)--(si:SubIndustry)--(I:Industry {name:'Insurance'}),(a:Achievement {name:'TrendIndustrialistInsurance'})
@@ -126,5 +126,5 @@ MERGE (p)-[:HAS {counter:counter}]->(a)
 with count(*) as dummy
 MATCH (p:Person)-[r:CREATED]->(btl:BusinessTrendLink)--(ba:BusinessArea)--(si:SubIndustry)--(I:Industry {name:'Insurance'}),(p)-[r2:HAS]->(a:Achievement {name:'TrendIndustrialistInsurance'})
 SET r2.creationDate=r.createDate
-return p,a
+with count(*) as dummy
 

@@ -14,5 +14,3 @@ MATCH (s:Solution)--(f:Feature)
 where f.name contains 'QuickStart'
 detach delete f
 ~~~
-
-
