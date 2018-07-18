@@ -33,4 +33,4 @@ Similarity and WordNet should be used and detect potential matches within 2 conn
 ### Requirements
 - Exact matches to be returned first
 - Similarity matches are shown with clear information to the user - i.e.  **Missing : ~~word~~ (similar word)**
-- **Use the filters to refine the results based on `Type`, `Offering family`, `tag`, `industry`, `status`**
+- Use the filters to refine the results based on `Type`, `Offering family`, `tag`, `industry`, `status`
