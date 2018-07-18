@@ -63,5 +63,13 @@ Initial load will match against feature name, if match found update with WWS ID 
     DETACH DELETE f
     ~~~
 
+7. Quick Starts
+~~~
+match (f:Feature)
+where f.name contains 'QuickStart'
+detach delete f
+~~~
+
+8 . remove non offering to practice nodes.
 
 

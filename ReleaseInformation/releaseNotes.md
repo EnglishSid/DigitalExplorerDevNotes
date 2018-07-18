@@ -1,13 +1,35 @@
 Trends|Solutions|Agendas|Workspaces|Explorer
 |----|----|----|----|----
-|DXC 1.2.4|DXC 2.2.3|DXC 1.2.6|DXC 1.1.9|-
+|DXC 1.2.4|DXC 2.2.3|DXC 1.2.5|DXC 1.1.9|-
 
 ### Release date : 
 #### New
 **Major**
+- Achievements : Agendas and Workspaces
+- Solutions : WWS data sync
+
+
+**Minor**
+- 
+
+
+**Fixes**
+- 
+
+----
+
+
+
+Trends|Solutions|Agendas|Workspaces|Explorer
+|----|----|----|----|----
+|DXC 1.2.4|DXC 2.2.3|DXC 1.2.5|DXC 1.1.9|-
+
+### Release date : July 13rh
+#### New
+**Major**
+- Achievements : Solutions and Trends
 - Platform : APOC plugin installed
 - Solutions : revised datasheet layout
-- Solutions : Achievements
 
 **Minor**
 - Solutions : Allow any role to be assigned to a contact (removed the dependency on `Solution Owner`)

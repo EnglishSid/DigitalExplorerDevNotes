@@ -1,6 +1,7 @@
 ACTION,OldName,newName
 RENAME,BI Modernization Advisory,Analytics Consulting
 RENAME,Data Discovery Experience,Big Data Discovery Experience Services
+RENAME,Data Discovery Experience Service,Big Data Discovery Experience Services
 RENAME,Procurement Analytics,Spend Analytics
 RENAME,Social Analytics,Customer Analytics
 RENAME,Analytics Platform,Platforms - Cloud and On Prem
