@@ -13,7 +13,6 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 
 **Fixes**
 - Solutions : industry icons
-- Solutions : corrected offering family search against revised WWS model
 - Solutions : ensure only reference solutions are shown to non-authenticated users
 
 

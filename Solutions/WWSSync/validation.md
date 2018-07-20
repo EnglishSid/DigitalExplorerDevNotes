@@ -6,11 +6,3 @@ RETURN p.name as offeringFamily, s.name as majorOffering, f.name as subOffering
 ORDER BY offeringFamily, majorOffering, subOffering
 ~~~
 
-# Fixes 
-
-## Remove QuickStarts
-~~~
-MATCH (s:Solution)--(f:Feature)
-where f.name contains 'QuickStart'
-detach delete f
-~~~
