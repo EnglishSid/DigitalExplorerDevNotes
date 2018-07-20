@@ -8,6 +8,10 @@
 
 - To raise an enhancement or defect please click [here](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues)
 
+## Roadmap
+
+![](roadmap.png)
+
 ---
 
 ### Useful Links
