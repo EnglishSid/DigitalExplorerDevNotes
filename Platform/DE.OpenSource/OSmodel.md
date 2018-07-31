@@ -1,6 +1,6 @@
 # Digital Explorer Open Source Model
 
-The opensource digital Explorer platform provides a defined base platform and datamodel for Digital innovation and roadmaps.
+The opensource Digital Explorer platform provides a defined base platform and datamodel for Digital innovation and roadmaps.
 
 The master datamodel defines the following core data entities
 
@@ -24,7 +24,8 @@ The master datamodel defines the following core data entities
 |Agenda Module|Y|Y|Y|-
 |Explorer Module|Y|Y|Y|-
 |Trends Content packs |Y|Y|Y|-
-|Solution Content pack| | Y | |-
+|Solution Content pack| | Y |TBC |-
+|Partner Solution Content pack| | TBC |TBC |-
 |Agenda Content pack | | | |-
 |Achievements|Y|Y|Y|-
-
+|Delivery Explorer Data Model|N|Y|N|N|N
