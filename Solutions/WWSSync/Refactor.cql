@@ -13,7 +13,7 @@ with count(*) as dummy
 //
 MATCH (s:Solution)--(f:Feature)-[:OFCATEGORY]->(fc:FeatureCategory {name:'Offering'})
 with s,f
-MATCH (p:Practice {name:'IS&S Travel, Transportation &amp; Hospitality'})--(s2:Solution)--(f)
+MATCH (p:Practice {name:'IS&S Travel, Transportation & Hospitality'})--(s2:Solution)--(f)
 MERGE (s)-[:INFLUENCE]->(p)
 with count(*) as dummy
 //
