@@ -1,24 +1,47 @@
+
 Trends|Solutions|Agendas|Workspaces|Explorer
 |----|----|----|----|----
-|DXC 1.1.7|DXC 2.1.5|DXC 1.2.0|DXC 1.1.3|-
+|DXC 1.2.4|DXC 2.2.4|DXC 1.2.6|DXC 1.1.9|-
 
 ### Release date : 
+
 #### New
 **Major**
-- 
+- Trends : Achievement awards
+- Agendas : Achievement awards
+- Workspaces : Achievement awards
+- Solutions : clear header for Partner Solutions
+- Trends : added Partner solutions to trend information page
+- Agendas - Revised layout of sunray diagram within the PDF export
 
 **Minor**
-- 
+- Workspaces : Updated Profile page
+- Agenda : Updated Profile page
+- Workspace : Achievement detail page
+- Agenda : Achievement detail page
+- Solutions : calculate relationship to DXC offering family
+
+**Fixes**
+- Link to workplace group within footer
+- Solutions filter on offering families with double &'s in their name
+
+
+----
+
+Trends|Solutions|Agendas|Workspaces|Explorer
+|----|----|----|----|----
+|DXC 1.2.4|DXC 2.2.4|DXC 1.2.6|DXC 1.1.9|-
+
+### Release date : 23rd July 2018
+#### New
+- WWS data Sync (Major Offerings (DE solutions) and Sub Offering (DE features) data load from WWS master)
 
 
 **Fixes**
 - Solutions : industry icons
 - Solutions : ensure only reference solutions are shown to non-authenticated users
 
-
-
 ----
-
 
 
 Trends|Solutions|Agendas|Workspaces|Explorer
