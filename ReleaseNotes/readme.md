@@ -7,12 +7,14 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 
 #### New
 **Major**
-- Trends : Achievement awards
+- Agendas : New Insights Module
 - Agendas : Achievement awards
-- Workspaces : Achievement awards
+- Agendas - Revised layout of sunray diagram within the PDF export
 - Solutions : clear header for Partner Solutions
 - Trends : added Partner solutions to trend information page
-- Agendas - Revised layout of sunray diagram within the PDF export
+- Trends : Achievement awards
+- Workspaces : Achievement awards
+
 
 **Minor**
 - Workspaces : Updated Profile page
