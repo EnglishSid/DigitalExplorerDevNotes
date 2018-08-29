@@ -9,23 +9,29 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 **Major**
 - Agendas : New Insights Module
 - Agendas : Achievement awards
-- Agendas - Revised layout of sunray diagram within the PDF export
-- Solutions : clear header for Partner Solutions
-- Trends : added Partner solutions to trend information page
+- Agendas : Revised layout of sunray diagram within the PDF export
+- Solutions : Clear header for Partner Solutions
+- Trends : Added Partner solutions to trend information page
 - Trends : Achievement awards
 - Workspaces : Achievement awards
 
-
 **Minor**
+- Agendas : Use Industry description within cards, not generic description
+- Agendas : Updated Profile page
+- Agendas : Achievement detail page
 - Workspaces : Updated Profile page
-- Agenda : Updated Profile page
 - Workspace : Achievement detail page
-- Agenda : Achievement detail page
 - Solutions : calculate relationship to DXC offering family
+- Trends : Search now includes Digital Stories
+- Platform : Angular.js updates
 
 **Fixes**
-- Link to workplace group within footer
-- Solutions filter on offering families with double &'s in their name
+- Platform : Link to workplace group within footer
+- Agendas : Removed incorrect error when saving new account
+- Agendas : "add new Signal" UI check
+- Agendas : Fixed selection of cards within full canvas (DE-97)
+- Solutions : filter on offering families with double &'s in their name
+- Trends : layout fix for story banners
 
 
 ----
