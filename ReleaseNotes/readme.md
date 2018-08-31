@@ -1,9 +1,26 @@
 
 Trends|Solutions|Agendas|Workspaces|Explorer
 |----|----|----|----|----
-|DXC 1.2.4|DXC 2.2.4|DXC 1.2.6|DXC 1.1.9|-
+|DXC 1.2.4|DXC 2.2.5|DXC 1.2.7|DXC 1.1.9|-
 
 ### Release date : 
+
+#### New
+**Major**
+- Solutions : Allow any user to add a comment against a solution
+- Solutions : Added new busines values to solution datamodel
+- Solutions : Technical Excellence landing page and dashboard
+
+**Fixes**
+- Agendas : Ensure recommendations work with industry descriptions
+
+----
+
+Trends|Solutions|Agendas|Workspaces|Explorer
+|----|----|----|----|----
+|DXC 1.2.4|DXC 2.2.4|DXC 1.2.6|DXC 1.1.9|-
+
+### Release date : August 29th
 
 #### New
 **Major**
@@ -28,7 +45,7 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 **Fixes**
 - Platform : Link to workplace group within footer
 - Agendas : Removed incorrect error when saving new account
-- Agendas : "add new Signal" UI check
+- Agendas : "add new Signal" UI fix
 - Agendas : Fixed selection of cards within full canvas (DE-97)
 - Solutions : filter on offering families with double &'s in their name
 - Trends : layout fix for story banners
