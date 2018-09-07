@@ -3,7 +3,32 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 |----|----|----|----|----
 |DXC 1.2.4|DXC 2.2.5|DXC 1.2.7|DXC 1.1.9|-
 
-### Release date : 
+### Release date : August 31st
+
+#### New
+**Major**
+- Roadmaps : Allow users to add/remove others from their accounts
+- Roadmaps : Renamed module from Agendas to Roadmaps
+
+
+**Minor**
+- Platform : Updated about page with new team members
+- 
+
+**Fixes**
+- Roadmaps : ensure user assignments are not duplicated when adding internal programs
+
+- 
+
+----
+
+
+
+Trends|Solutions|Agendas|Workspaces|Explorer
+|----|----|----|----|----
+|DXC 1.2.4|DXC 2.2.5|DXC 1.2.7|DXC 1.1.9|-
+
+### Release date : August 31st
 
 #### New
 **Major**
