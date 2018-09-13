@@ -22,8 +22,6 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 
 ----
 
-
-
 Trends|Solutions|Agendas|Workspaces|Explorer
 |----|----|----|----|----
 |DXC 1.2.4|DXC 2.2.5|DXC 1.2.7|DXC 1.1.9|-
