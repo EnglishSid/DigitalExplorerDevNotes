@@ -1,23 +1,39 @@
 
+merge (p:Person {name:'Attila Takacs', email:'attila.takacs@dxc.com'})
+with count(*) as dummy
 
 
-merge (p:Person {name:'Javier González Sánchez', email:'jgonzalezsan@dxc.com'})
+merge (p:Person {name:'Samyukta Kota', email:'samyuktha.kota-sudhakar@dxc.com'})
+with count(*) as dummy
+
+
+merge (p:Person {name:'Suresh Yemineni', email:'suresh.yemineni@dxc.com'})
+with count(*) as dummy
+
+
+merge (p:Person {name:'Preeti Tiwari', email:'preeti.tiwari@dxc.com'})
+with count(*) as dummy
+
+merge (p:Person {name:'Veeravadivel Raja Balasubramanian', email:'veeravadivel.balasubramanian@dxc.com'})
+with count(*) as dummy
+
+merge (p:Person {name:'Vinoth Krishnan', email:'vinoth.krishnan@dxc.com'})
+with count(*) as dummy
+
+merge (p:Person {name:'Rajeshwari Rajendran', email:'rajeshwarir@dxc.com'})
+with count(*) as dummy
+
+merge (p:Person {name:'Sathiyaseelan Raveendran', email:'sathiyaseelan.raveendran@dxc.com'})
+with count(*) as dummy
+
+    
+merge (p:Person {name:'Istvan Nagy', email:'inagy@dxc.com'})
 return p
-
-merge (p:Person {name:'Itziar Rayo Vaquero', email:'irayovaquero@dxc.com'})
-return p
-
-
-
+ 
+   
+   
+   
 
 
 
- Alonso Redondo, Daniel <dalonsoredon@csc.com>
-Soria Anton, Ruben <rsoriaanton@csc.com>; 
-Sanz Gonzalez, Tania <tsanzgonzal2@csc.com>; 
-Arman Alvarez-Buylla, Conchita <carmanalvar2@csc.com>; 
-Villabrille Sampedro, Carlos <cvillabrille@csc.com>; 
-Castro Tollar, Javier <javier.castro-tollar@dxc.com>; 
-Rato, Cesar <crato@csc.com>; ,; 
-Saraf, Nitin <nsaraf@csc.com>
-Rayo Vaquero, Itziar <irayovaquero@csc.com>
+

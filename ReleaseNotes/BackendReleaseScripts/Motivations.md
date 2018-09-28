@@ -62,26 +62,20 @@ RETURN s,driver,m
 
 ####4 : remove the Constraints
  ~~~~
-match (s:Solution) where s.name="Digital Explorer HoloLens Edition"
-with s
-MATCH (constraint:Constraint)-[]-(s)
+MATCH (constraint:Constraint)-[]-(s:Solution)
 detach delete constraint
  ~~~~
 
 #### 5: remove the goals
 ~~~~
-match (s:Solution) where s.name="Digital Explorer HoloLens Edition"
-with s
-MATCH (goal:Goal)-[]-(s)
-detach delete goal
+MATCH (g:Goal)-[:INFLUENCE]->(s:Solution)
+detach delete g
 ~~~~
 
 #### 6: remove the drivers
 ~~~~
-match (s:Solution) where s.name="Digital Explorer HoloLens Edition"
-with s
-MATCH (goal:Driver)-[]-(s)
-detach delete goal
+MATCH (d:Driver)-[:INFLUENCE]->(s:Solution)
+detach delete d
 ~~~~
 
 **Step 4, 5 & 6 only after updates made to SE frontend**

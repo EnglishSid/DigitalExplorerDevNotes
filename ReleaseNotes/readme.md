@@ -1,5 +1,5 @@
 
-Trends|Solutions|Agendas|Workspaces|Explorer
+Trends|Solutions|Roadmaps|Workspaces|Explorer
 |----|----|----|----|----
 |DXC 1.2.4|DXC 2.2.5|DXC 1.2.7|DXC 1.1.9|-
 
@@ -7,18 +7,22 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 
 #### New
 **Major**
-- Roadmaps : Allow users to add/remove others from their accounts
-- Roadmaps : Renamed module from Agendas to Roadmaps
-
+- Agendas : Renamed module from Agendas to Roadmaps
+- Roadmaps : Improved management of accounts
+    - Present a list of the users accounts with and without roadmaps
+    - Allow users to add/remove others from their accounts
+    - Revised DXC design on the summary page
+- Solutions : Allow users to create new solutions from the output of an Strategic Initiative (ASD release 1)
 
 **Minor**
 - Platform : Updated about page with new team members
-- 
+- Stats : Removed the deprecated code from the Stats module
+- Solutions : Introduced Sub-Types to support Accelerated Solution Development method
+- Solutions : Allow text boxes to be resized on add/edit screens
 
 **Fixes**
 - Roadmaps : ensure user assignments are not duplicated when adding internal programs
-
-- 
+- Roadmaps : issue with logout and header refresh
 
 ----
 

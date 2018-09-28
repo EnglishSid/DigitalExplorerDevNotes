@@ -5,11 +5,11 @@
 |Solutions|Save Solution|1st Solution|OnboardSolutions|Onboard Solutions|Submitted first solution
 |Solutions|Save Solution|5th Solution|Journeyman|Journeyman|Submitted 5th solution
 |Solutions|Save Solution|10th Solution|Master|Master|Submitted 10th solution
-|Solutions|Save Solution|Feature include an Offering|Family|Keep it in the family|TDB
-|Solutions|Save Solution|Feature include an Offering|Family`<name>`|Keep it in the family `<name of family>`|TDB
-|Solutions|Save Solution|Feature include a partner|Friends|We are all friends here|TDB
+|Solutions|Save Solution|Feature include an Offering|Family|Keep it in the family|Submitted a solution using a DXC offering
+|Solutions|Save Solution|Feature include an Offering|Family`<name>`|Keep it in the family `<name of family>`|Submitted a solution using a DXC offering `<name of family>`
+|Solutions|Save Solution|Feature include a partner|Friends|We are all friends here|Submitted a solution with a partner feature
 |Solutions|Save Solution|Feature include a method|Methods|Methods|It’s not what I do, it’s how I do it
-|Solutions|Save Solution|Trend included in solution|Innovator|Innovator|TBD
+|Solutions|Save Solution|Trend included in solution|Innovator|Innovator|Submitted a solution with a business or technology trend
 |Solutions|Save Solution|Assigned industry to solution|SolutionIndustrialist|Solution Industrialist|Submit your first solution for a named industry
 |Solutions|Save Solution|Assigned industry to solution|SolutionIndustrialist`<name>`|Solution Industrialist `<name>`|Submit your first solution for a named industry
 |Solutions|Save Solution|event tag included|EventName|EventName|EventDescription
