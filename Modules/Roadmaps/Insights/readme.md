@@ -29,4 +29,5 @@ Requirements
 --- 
 ## Examples
 
-http://mbostock.github.io/d3/talk/20111116/pack-hierarchy.html
+heatmaps : http://mbostock.github.io/d3/talk/20111018/treemap.html
+cluster report : http://mbostock.github.io/d3/talk/20111116/pack-hierarchy.html
