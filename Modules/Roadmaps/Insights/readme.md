@@ -25,9 +25,17 @@ Requirements
 
 ![](images/insightsCoreModel.png)
 
+---
+
+## Mockups
+
+- [Heatmap of trends](images/dashboard1.png)
+- [Heatmap of signals](images/dashboard2.png)
+- [Heatmap of initiatives](images/dashboard3.png)
+
 
 --- 
-## Examples
+## d3 examples
 
 heatmaps : http://mbostock.github.io/d3/talk/20111018/treemap.html
 cluster report : http://mbostock.github.io/d3/talk/20111116/pack-hierarchy.html
