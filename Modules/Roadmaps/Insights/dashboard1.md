@@ -1,0 +1,1 @@
+![Heatmap of trends](images/dashboard1.png)

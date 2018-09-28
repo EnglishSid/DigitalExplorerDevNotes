@@ -29,9 +29,9 @@ Requirements
 
 ## Mockups
 
-- [Heatmap of trends](images/dashboard1.png)
-- [Heatmap of signals](images/dashboard2.png)
-- [Heatmap of initiatives](images/dashboard3.png)
+- [Heatmap of trends](dashboard1.md)
+- [Heatmap of signals](dashboard2.md)
+- [Heatmap of initiatives](dashboard3.md)
 
 
 --- 
