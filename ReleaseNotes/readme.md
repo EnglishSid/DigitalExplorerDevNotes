@@ -3,7 +3,7 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer
 |----|----|----|----|----
 |DXC 1.2.4|DXC 2.2.5|DXC 1.2.7|DXC 1.1.9|-
 
-### Release date : August 31st
+### Release date : 
 
 #### New
 **Major**
@@ -13,6 +13,9 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer
     - Allow users to add/remove others from their accounts
     - Revised DXC design on the summary page
 - Solutions : Allow users to create new solutions from the output of an Strategic Initiative (ASD release 1)
+- Solutions : Smart-lookup for matching trends based on description and value proposition text
+- Solutions : Performance improvement for save/edit solution event (+1000% improvement)
+- Platform : Rehosted on Azure
 
 **Minor**
 - Platform : Updated about page with new team members

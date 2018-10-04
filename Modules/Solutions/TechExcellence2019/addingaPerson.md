@@ -27,11 +27,11 @@ merge (p:Person {name:'Sathiyaseelan Raveendran', email:'sathiyaseelan.raveendra
 with count(*) as dummy
 
     
-merge (p:Person {name:'Istvan Nagy', email:'inagy@dxc.com'})
+merge (p:Person {name:'Hugh Malcolm', email:'hugh.malcolm@dxc.com'})
 return p
  
    
-   
+   ,  <>
    
 
 
