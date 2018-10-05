@@ -7,11 +7,13 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer
 
 #### New
 **Major**
+- Platform : New external users authenication approach
 - Agendas : Renamed module from Agendas to Roadmaps
 - Roadmaps : Improved management of accounts
     - Present a list of the users accounts with and without roadmaps
     - Allow users to add/remove others from their accounts
-    - Revised DXC design on the summary page
+    - Revised DXC design on the output pages
+    - New account business framework summary page
 - Solutions : Allow users to create new solutions from the output of an Strategic Initiative (ASD release 1)
 - Solutions : Smart-lookup for matching trends based on description and value proposition text
 - Solutions : Performance improvement for save/edit solution event (+1000% improvement)

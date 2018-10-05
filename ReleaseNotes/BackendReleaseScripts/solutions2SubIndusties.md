@@ -7,3 +7,9 @@ MERGE (si)-[:INFLUENCE]->(s)
 DELETE r
 return s,si
 ~~~
+
+## incorrect subindustry mapping
+~~~
+match (s:Solution)-[r:INFLUENCE]->(si:SubIndustry)
+delete r
+~~~

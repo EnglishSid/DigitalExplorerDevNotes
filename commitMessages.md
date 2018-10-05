@@ -26,6 +26,7 @@
 | crown                      | :crown: `:crown:`
 | tips                       | :bulb: `:bulb:`
 | restricted                 | :lock: `:lock:`
+| trophy                     | :trophy: `:trophy:`
 
 #### References
 * https://gitmoji.carloscuesta.me/
