@@ -49,5 +49,3 @@ match (a:Achievement {name:'Shareathon2018Winner'})
 MERGE (p)-[r:HAS  {creationDate:1522281600000}]->(a)
 return p,a
 ~~~
-
-

@@ -75,6 +75,8 @@ MERGE (p)-[r:HAS  {creationDate:s.creationDate}]->(a)
 return p,a
 ~~~
 
+
+** TO DO ONCE PROGRAM ANNOUNCES AND SOLUTIONS ARE TAGGED)
 ~~~
 ///TC2019 Winner
 match (p:Person)-[r:ASSIGNED]-(s:Solution)-[:DESCRIBEDBY]-(t:Tag {name:'Technical Excellence 2019 Winner'})

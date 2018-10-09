@@ -45,6 +45,10 @@ MERGE (a:Achievement {name:'TechnicalExcellence2018', shortName:'Technical Excel
 
 ### Uploading the badge image
 
+copy the required files to the `home` directory on the target server
+
+`sudo cp /home/dxcdedevs/*.png /opt/tomcat/webapps/se/assets/images/badges`  
+
 /tomcat/webapps/se/assets/images/badge
 
 
