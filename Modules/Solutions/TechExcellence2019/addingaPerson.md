@@ -27,18 +27,18 @@ merge (p:Person {name:'Kyle Ainsley', email:'kyle.ainsley@dxc.com'})
 with count(*) as dummy
 
     
-merge (p:Person {name:'Ann-Marie Batten', email:'ann-marie.watson@dxc.com'})
-return p
- 
+merge (p:Person {name:'Ruedi Kieferle', email:'ruedi.kieferle@dxc.com'})
+with count(*) as dummy
+
+ merge (p:Person {name:'Rafal Wawrzynczyk', email:'rafal.wawrzynczyk@dxc.com'})
+with count(*) as dummy
    
-   ,  <>
-   
+    merge (p:Person {name:'Rafael Perez', email:'rafael.perez.luna@dxc.com'})
+with count(*) as dummy
+         merge (p:Person {name:'Michael Gehbauer', email:'michael.gehbauer@dxc.com'})
+with count(*) as dummy
+         merge (p:Person {name:'Elia Perenzin', email:'eperenzin@dxc.com'})
+with count(*) as dummy
 
-
-
-Ann-Marie Batten,  
- 
- 
- 
  
  
