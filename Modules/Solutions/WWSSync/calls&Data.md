@@ -26,22 +26,22 @@
 
 #### Feature technology groups
 
-|offering family|technology group
-|---|---|
-|Analytics|Data & Analytics
-|Application Services|Applications
-|Business Process Services|Business Process & Information
-|Cloud and Platform Services|Infrastructure
-|Security|Security
-|Workplace and Mobility|Physical meets Digital
-|Cross-Offering Solutions|Business Process & Information
-|Consulting|Business Technical Assessment & Design
-|IS&S Insurance|Business Process & Information
-|IS&S Healthcare & Life Sciences|Business Process & Information
-|IS&S Banking|Business Process & Information
-|IS&S Travel and Transportation|Business Process & Information
-|Enterprise and Cloud Apps|Applications
-|Apps Services and Program Excellence|Applications
+|offering family|technology group| AO Canvas
+|---|---|---|
+|Analytics|Data & Analytics|Foundational Core
+|Application Services|Applications|Foundational Core
+|Business Process Services|Business Process & Information|Transactional Core
+|Cloud and Platform Services|Infrastructure|Infrastructure
+|Security|Security|Security
+|Workplace and Mobility|Physical meets Digital|Foundational Core
+|Cross-Offering Solutions|Business Process & Information|Transactional Core
+|Consulting|Business Technical Assessment & Design|Transactional Core
+|IS&S Insurance|Business Process & Information|Transactional Core
+|IS&S Healthcare & Life Sciences|Business Process & Information|Transactional Core
+|IS&S Banking|Business Process & Information|Transactional Core
+|IS&S Travel and Transportation|Business Process & Information|Transactional Core
+|Enterprise and Cloud Apps|Applications|Transactional Core|Transactional Core
+|Apps Services and Program Excellence|Applications|Transactional Core
 
 
 
