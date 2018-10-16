@@ -1,6 +1,21 @@
 
 Segment widths for the sunray diagrams
 
+## 7 segments
+|segment|percentage|width
+|---|---|---|
+1|17|1000px
+2|16|840px
+3|14|700px
+4|13|570px
+5|12|450px
+6|11|340px
+7|10|240px
+8|7|170px<- empty element
+
+
+- [7segments.png](7segments.png)
+
 ## 6 segments
 |segment|percentage|width
 |---|---|---|
