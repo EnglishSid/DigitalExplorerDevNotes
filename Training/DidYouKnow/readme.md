@@ -49,5 +49,27 @@ tags : didyouknow digital explorer
 
 ### workplace post
 
-# Digital Explorer #DidYouKnow #4
-description
+# #DigitalExplorer #DidYouKnow #5
+**Manage your accounts**
+https://video.dxc.com/media/t/1_wwoqoe6m
+
+# #DigitalExplorer #DidYouKnow #6
+**Add colleagues to your account**
+https://video.dxc.com/media/t/1_52dna0vg
+
+# #DigitalExplorer #DidYouKnow #7
+**Client access to roadmaps**
+https://video.dxc.com/media/t/1_4poqqim1
+
+# #DigitalExplorer #DidYouKnow #8
+**Achievements**
+https://video.dxc.com/media/t/1_e2nho6bm
+
+# #DigitalExplorer #DidYouKnow #9
+**Idea 2 Solution**
+https://video.dxc.com/media/t/1_u3qfkxt0
+
+
+# #DigitalExplorer #DidYouKnow #10
+**Roadmap insights**
+https://video.dxc.com/media/t/1_u7at1fqs
