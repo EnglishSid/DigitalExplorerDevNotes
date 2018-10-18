@@ -7,6 +7,22 @@ Dedicated playlist on video.dxc and posted into workplace
 #DidYouKnow #DigitalExplorer
 
 
+| # | Description
+|---|---|
+| 1 | Export trends to a PDF
+| 2 | edit trends via the viewer
+| 3 | create a roadmap template
+| 4 | learn more about a trend
+| 5 | Manage your accounts
+| 6 | Add colleagues to your account
+| 7 | client access to roadmaps
+| 8 | Achievements
+| 9 | Idea 2 Solution 
+| 10 | Roadmap insights
+
+
+
+
 ## Initial Videos
 
 - Export trends to PDF

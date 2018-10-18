@@ -32,7 +32,7 @@
 ## Creation Script
 
 ~~~
-CREATE (st:META_SolutionType {name:'Accelerated Solution Developer'})
+CREATE (st:META_SolutionType {name:'Accelerated Solution Development'})
 WITH st
 MERGE (st)-[:SubType]->(sst1:META_SolutionSubType {name:'Concept'})
 MERGE (st)-[:SubType]->(sst2:META_SolutionSubType {name:'Prototype'})
