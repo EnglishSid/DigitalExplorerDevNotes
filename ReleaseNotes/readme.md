@@ -1,3 +1,20 @@
+Trends|Solutions|Agendas|Workspaces|Explorer
+|----|----|----|----|----
+|DXC 1.2.4|DXC 2.2.5|DXC 1.2.7|DXC 1.1.9|-
+
+### Release date : August 31st
+
+#### New
+**Major**
+- Roadmaps : Customize `number of` and `names` of roadmap time segments
+- Roadmaps : Choice of roadmap type
+- Solutions : Improved search performance
+
+**Minor**
+
+**Fixes**
+
+----
 
 Trends|Solutions|Roadmaps|Workspaces|Explorer
 |----|----|----|----|----
