@@ -1,18 +1,32 @@
 Trends|Solutions|Agendas|Workspaces|Explorer
 |----|----|----|----|----
-|DXC 1.2.4|DXC 2.2.5|DXC 1.2.7|DXC 1.1.9|-
+|DXC 2.0.1|DXC 3.0.1|DXC 2.0.1|DXC 2.0.1|
 
-### Release date : August 31st
+### Release date : 
 
 #### New
 **Major**
 - Roadmaps : Customize `number of` and `names` of roadmap time segments
-- Roadmaps : Choice of roadmap type
+- Roadmaps : Choice of roadmap type `DXC innovation Agenda` or `DXC Digital Transformation Map`
+- Roadmaps : Capture **Ideas**
 - Solutions : Improved search performance
+- Solutions : Allow solutions to be related to one or more delivery centres
+- Trends : Markdown support for trend descriptions
+
 
 **Minor**
+- Explorer : View solutions by `Delivery Centre`
+- Platform : Alignment of technology groups to align with the DXC AO Canvas.
+- Platform : inform DXC employees to use global pass and not register for a "guest" account
+- Platform : Allow non-dxc employees the means to change their password
+- Solutions : links from solution datasheets (markdown text) open in new tab
+- Trends : Improved capture form (character count)
 
 **Fixes**
+- Platform : link to DXC videos
+- Solutions : redirect back to solution after login/tour for first time users
+- Solutions : Allow motivations with the same name
+- 
 
 ----
 

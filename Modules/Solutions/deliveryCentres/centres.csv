@@ -1,0 +1,40 @@
+city,country,type,description
+Bratislava,Slovakia,RDC,Regional Delivery Center
+Newcastle,United Kingdom,CoE,Service Centers of Excellence: Scaled to an industry vertical
+Copenhagen,Denmark,IRDC,In-Country Restricted Delivery Center
+Aviles,Spain,RDC,Regional Delivery Center
+Vilnius,Lithuania,RDC,Regional Delivery Center
+Wroclaw,Poland,RDC,Regional Delivery Center
+Sofia,Bulgaria,RDC,Regional Delivery Center
+Cairo,Egypt,RDC,Regional Delivery Center
+Hyderabad,India,GDC,Global Delivery Centers
+Chennai,India,GDC,Global Delivery Centers
+Bangalore,India,GDC,Global Delivery Centers
+Dalian,China,RDC,Regional Delivery Center
+Kuala Lumpur,Malaysia,GDC,Global Delivery Centers
+Ho Chi Minh City,Vietnam,GDC,Global Delivery Centers
+Manila,Philippines,GDC,Global Delivery Centers
+Christchurch,New Zealand,IRDC,In-Country Restricted Delivery Center
+Hobart,Australia,IRDC,In-Country Restricted Delivery Center
+Adelaide,Australia,IRDC,In-Country Restricted Delivery Center
+El Paso,United States,IRDC,In-Country Restricted Delivery Center
+New Orleans,United States,IRDC,In-Country Restricted Delivery Center
+San Jose,Costa Rica,RDC,Regional Delivery Center
+Puerto Rico,Puerto Rico,IRDC,In-Country Restricted Delivery Center
+Araraquara,Brazil,IRDC,In-Country Restricted Delivery Center
+Cordoba,Argentina,RDC,Regional Delivery Center
+New Orleans,United States,DTC,Digital Transformation Centers are incubators and concentrations of skills that are aligned to our new Digital offerings and growth for the company.
+Newcastle,United Kingdom,DTC,Digital Transformation Centers are incubators and concentrations of skills that are aligned to our new Digital offerings and growth for the company.
+Tysons,United States,CBC,"Customer Briefing Centers help build client relationships, showcase our offerings and products, what we can do, and how we can help companies with their digital transformation journey."
+London,United Kingdom,CBC,"Customer Briefing Centers help build client relationships, showcase our offerings and products, what we can do, and how we can help companies with their digital transformation journey."
+Singapore,The Republic of Singapore,CBC,"Customer Briefing Centers help build client relationships, showcase our offerings and products, what we can do, and how we can help companies with their digital transformation journey."
+Macquarie Park,Australia,CBC,"Customer Briefing Centers help build client relationships, showcase our offerings and products, what we can do, and how we can help companies with their digital transformation journey."
+Warwick,United States,CoE,Service Centers of Excellence: Scaled to an industry vertical
+Blythewood,United States,CoE,Service Centers of Excellence: Scaled to an industry vertical
+Nashville,United States,CoE,Service Centers of Excellence: Scaled to an industry vertical
+Tulsa,United States,CoE,Service Centers of Excellence: Scaled to an industry vertical
+Vilnius,Lithuania,RDC,Regional Delivery Center
+Malaga,Spain,CoE,Service Centers of Excellence: Scaled to an industry vertical
+Indore,India,CoE,Service Centers of Excellence: Scaled to an industry vertical
+NCR,India,GDC,Global Delivery Centers
+Melbourne,Australia,CoE,Service Centers of Excellence: Scaled to an industry vertical
