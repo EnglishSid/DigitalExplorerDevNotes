@@ -6,6 +6,25 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 
 #### New
 **Major**
+- 
+
+
+**Minor**
+- 
+
+**Fixes**
+-
+
+----
+
+Trends|Solutions|Agendas|Workspaces|Explorer
+|----|----|----|----|----
+|DXC 2.0.1|DXC 3.0.1|DXC 2.0.1|DXC 2.0.1|
+
+### Release date : Nov 1st 2018
+
+#### New
+**Major**
 - Roadmaps : Customize `number of` and `names` of roadmap time segments
 - Roadmaps : Choice of roadmap type `DXC innovation Agenda` or `DXC Digital Transformation Map`
 - Roadmaps : Capture **Ideas**
@@ -26,7 +45,6 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 - Platform : link to DXC videos
 - Solutions : redirect back to solution after login/tour for first time users
 - Solutions : Allow motivations with the same name
-- 
 
 ----
 
