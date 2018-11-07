@@ -17,7 +17,6 @@ ad-hoc script to assign a new achievement to the contacts of a solution for a gi
 
 
 
-
 ### Example badges
 
 ![](images/example.png)
@@ -42,14 +41,19 @@ MERGE (a:Achievement {name:'TechnicalExcellence2018', shortName:'Technical Excel
 2. find the people with `ASSIGNED` relationships
 
 
+### Including with the DE codeset
 
-### Uploading the badge image
+- Create a new "badges" branch on each of the main module repos
+- upload the new .png file into `src/assets/images/badges`
+    ":trophy: new badges for solution events"
+- create a new pull request `badges` > `development`
+"7 badge images related to the solution events.
+ensure these show on user profiles within each module"
 
-copy the required files to the `home` directory on the target server
+#### Repos to update
 
-`sudo cp /home/dxcdedevs/*.png /opt/tomcat/webapps/se/assets/images/badges`  
-
-/tomcat/webapps/se/assets/images/badge
-
-
+- [ ] dxc-digitalexplorer-roadmaps`
+- [ ] dxc-digitalexplorer-trends`
+- [ ] dxc-digitalexplorer-workspaces`
+- [ ] dxc-digitalexplorer-solutions`
 
