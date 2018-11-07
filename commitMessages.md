@@ -27,6 +27,7 @@
 | tips                       | :bulb: `:bulb:`
 | restricted                 | :lock: `:lock:`
 | trophy                     | :trophy: `:trophy:`
+| Mag                        | :mag: `:mag:`
 
 #### References
 * https://gitmoji.carloscuesta.me/

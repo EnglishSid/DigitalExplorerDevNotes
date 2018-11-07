@@ -1,0 +1,489 @@
+AgendaTemplatename,KPICVC,KPIname,KPImeasure
+iBVF aligned template for Aerospace & Defense,Design & Development,Time to market,TBD
+iBVF aligned template for Aerospace & Defense,Design & Development,Adherence to customer needs and acceptance,TBD
+iBVF aligned template for Aerospace & Defense,Design & Development,Conformance to standards,TBD
+iBVF aligned template for Aerospace & Defense,Design & Development,Concept development cycle,TBD
+iBVF aligned template for Aerospace & Defense,Design & Development,Total material costs,TBD
+iBVF aligned template for Aerospace & Defense,Design & Development,Inventory costs,TBD
+iBVF aligned template for Aerospace & Defense,Design & Development,Discounted break-even time,TBD
+iBVF aligned template for Aerospace & Defense,Design & Development,Material quality,TBD
+iBVF aligned template for Aerospace & Defense,Design & Development,Forecast accuracy,TBD
+iBVF aligned template for Aerospace & Defense,Design & Development,Forecast bias,TBD
+iBVF aligned template for Aerospace & Defense,Solution Integration,Timely Project Deliveries,TBD
+iBVF aligned template for Aerospace & Defense,Solution Integration,Cost Effective Solutions,TBD
+iBVF aligned template for Aerospace & Defense,Solution Integration,Service Ticket Escalations,TBD
+iBVF aligned template for Aerospace & Defense,Solution Integration,Hiring & Promotions,TBD
+iBVF aligned template for Aerospace & Defense,Solution Integration,Employee Compensations,TBD
+iBVF aligned template for Aerospace & Defense,Solution Integration,Performance Appraisals,TBD
+iBVF aligned template for Aerospace & Defense,Solution Integration,Employee Benefits,TBD
+iBVF aligned template for Aerospace & Defense,Solution Integration,ETR,TBD
+iBVF aligned template for Aerospace & Defense,Prototyping & Production,Material costs,TBD
+iBVF aligned template for Aerospace & Defense,Prototyping & Production,Total costs of purchasing and revenue,TBD
+iBVF aligned template for Aerospace & Defense,Prototyping & Production,Percentage of rejected materials,TBD
+iBVF aligned template for Aerospace & Defense,Prototyping & Production,Number of suppliers,TBD
+iBVF aligned template for Aerospace & Defense,Prototyping & Production,Accuracy and timeliness of decisions,TBD
+iBVF aligned template for Aerospace & Defense,Prototyping & Production,Quick decision,TBD
+iBVF aligned template for Aerospace & Defense,Prototyping & Production,Internal customer satisfaction,TBD
+iBVF aligned template for Aerospace & Defense,Prototyping & Production,Cost per unit ,TBD
+iBVF aligned template for Aerospace & Defense,Sales & Distribution,Maintenance Costs,TBD
+iBVF aligned template for Aerospace & Defense,Sales & Distribution,Material costs,TBD
+iBVF aligned template for Aerospace & Defense,Sales & Distribution,Labor costs and overheads,TBD
+iBVF aligned template for Aerospace & Defense,Sales & Distribution,Production process costs,TBD
+iBVF aligned template for Aerospace & Defense,Sales & Distribution,Percentage of scrap & rework,TBD
+iBVF aligned template for Aerospace & Defense,Sales & Distribution,Market share,TBD
+iBVF aligned template for Aerospace & Defense,Sales & Distribution,Customer retention rate,TBD
+iBVF aligned template for Aerospace & Defense,Sales & Distribution,Customer feedback,TBD
+iBVF aligned template for Aerospace & Defense,Sales & Distribution,sales Targets,TBD
+iBVF aligned template for Aerospace & Defense,Sales & Distribution,Sales lead to close cycle time,TBD
+iBVF aligned template for Aerospace & Defense,Aftermarket Services,Customer Satisfaction,TBD
+iBVF aligned template for Aerospace & Defense,Aftermarket Services,Order fulfillment lead time,TBD
+iBVF aligned template for Aerospace & Defense,Aftermarket Services,Order fill rate,TBD
+iBVF aligned template for Aerospace & Defense,Aftermarket Services,Rate of returns,TBD
+iBVF aligned template for Aerospace & Defense,Aftermarket Services,Percentage of on time & canceled orders,TBD
+iBVF aligned template for Aerospace & Defense,Aftermarket Services,Inventory Turnover,TBD
+iBVF aligned template for Aerospace & Defense,Aftermarket Services,Scheduled Compliance,TBD
+iBVF aligned template for Aerospace & Defense,Aftermarket Services,Mean Time Failure,TBD
+iBVF aligned template for Aerospace & Defense,Aftermarket Services,Stock outs,TBD
+iBVF aligned template for Airlines,Inbound Logistics,ASM,TBD
+iBVF aligned template for Airlines,Inbound Logistics,RPM,TBD
+iBVF aligned template for Airlines,Inbound Logistics,Booked Load Factor,TBD
+iBVF aligned template for Airlines,Inbound Logistics,CASM,TBD
+iBVF aligned template for Airlines,Inbound Logistics,# of Pax Carried,TBD
+iBVF aligned template for Airlines,Inbound Logistics,Expected Yield,TBD
+iBVF aligned template for Airlines,Inbound Logistics,Spill Rate,TBD
+iBVF aligned template for Airlines,Inbound Logistics,Closing Rate,TBD
+iBVF aligned template for Airlines,Operations,Passengers Boarded (PB),TBD
+iBVF aligned template for Airlines,Operations,Oversale Rate,TBD
+iBVF aligned template for Airlines,Operations,Preventative vs Corrective Maintenance ,TBD
+iBVF aligned template for Airlines,Operations,Closing Rate,TBD
+iBVF aligned template for Airlines,Operations,Spoilage Rate,TBD
+iBVF aligned template for Airlines,Operations,Revenue per Employee,TBD
+iBVF aligned template for Airlines,Outbound Logistics,On-Time Performance (OTP),TBD
+iBVF aligned template for Airlines,Outbound Logistics,Aircraft Turnaround Time,TBD
+iBVF aligned template for Airlines,Outbound Logistics,Revenue per Passenger,TBD
+iBVF aligned template for Airlines,Outbound Logistics,# of Alliances & Codeshare,TBD
+iBVF aligned template for Airlines,Marketing & Sales,% of Traffic Revenue,TBD
+iBVF aligned template for Airlines,Marketing & Sales,Marketing $ Spent,TBD
+iBVF aligned template for Airlines,Marketing & Sales,# of Social Media Interactions,TBD
+iBVF aligned template for Airlines,Marketing & Sales,# of Distribution Channels,TBD
+iBVF aligned template for Airlines,Service,Time spent in Security,TBD
+iBVF aligned template for Airlines,Service,# of enquiries,TBD
+iBVF aligned template for Airlines,Service,Wait time and resolution time,TBD
+iBVF aligned template for Airlines,Service,% of Pax with Lost Baggage,TBD
+iBVF aligned template for Airlines,Service,# of Pax Interaction Touchpoints,TBD
+iBVF aligned template for Airlines,Admin,% Outsourced,TBD
+iBVF aligned template for Airlines,Admin,IT Utilization,TBD
+iBVF aligned template for Airlines,Admin,% Disputed Invoices,TBD
+iBVF aligned template for Airlines,Admin,# of Employees,TBD
+iBVF aligned template for Airlines,Admin,# of Automated Processes,TBD
+iBVF aligned template for Airlines,Admin,Service Level Agreements,TBD
+iBVF aligned template for Banking,Channels,% of digital applications vs total applications,TBD
+iBVF aligned template for Banking,Channels,Total expense: online banking,TBD
+iBVF aligned template for Banking,Channels,Total employees: online banking,TBD
+iBVF aligned template for Banking,Channels,Total volume: online banking transactions,TBD
+iBVF aligned template for Banking,Channels,Cost vs. revenue per channel,TBD
+iBVF aligned template for Banking,Lending & Collections,Loans closed per employee/branch,TBD
+iBVF aligned template for Banking,Lending & Collections,Cost of loan origination,TBD
+iBVF aligned template for Banking,Lending & Collections,Cost of loan servicing,TBD
+iBVF aligned template for Banking,Lending & Collections,Cost of loan recovery,TBD
+iBVF aligned template for Banking,Lending & Collections,Average mortgage loan value,TBD
+iBVF aligned template for Banking,Lending & Collections,Branch lending vs digital lending,TBD
+iBVF aligned template for Banking,Deposits,Total deposits per employee/branch,TBD
+iBVF aligned template for Banking,Deposits,Total volume: online deposit transactions,TBD
+iBVF aligned template for Banking,Deposits,New deposit accounts opened per branch,TBD
+iBVF aligned template for Banking,Deposits,Branch deposits vs digital deposits,TBD
+iBVF aligned template for Banking,Payments & Cards,Cost per new customer acquisition,TBD
+iBVF aligned template for Banking,Payments & Cards,Cost vs. revenue / transaction,TBD
+iBVF aligned template for Banking,Payments & Cards,Customer penetration per card,TBD
+iBVF aligned template for Banking,Payments & Cards,Each card offering  revenue ,TBD
+iBVF aligned template for Banking,Payments & Cards,Card customer attrition rate,TBD
+iBVF aligned template for Banking,Risk Management,Fraud prevention employee headcount ratio,TBD
+iBVF aligned template for Banking,Risk Management,# of trade security alerts,TBD
+iBVF aligned template for Banking,Risk Management,Loan loss provision as a % of revenue,TBD
+iBVF aligned template for Banking,Risk Management,# of employees within risk management,TBD
+iBVF aligned template for Banking,Security,Suspicious activity reports by product type,TBD
+iBVF aligned template for Banking,Security,Suspicious activity reports by transaction type,TBD
+iBVF aligned template for Banking,Security,# of attacks/ breaches/ year,TBD
+iBVF aligned template for Banking,Security,Total volume: suspicious account activity investigations,TBD
+iBVF aligned template for Banking,Trade & Treasury,Total employees: Treasury & cash management,TBD
+iBVF aligned template for Banking,Trade & Treasury,Treasury management customers as % of total customers,TBD
+iBVF aligned template for Banking,Trade & Treasury,Total revenue y-o-y: Treasury & cash management,TBD
+iBVF aligned template for Banking,Regulatory compliance,Anti-Money Laundering (AML) headcount ratio,TBD
+iBVF aligned template for Banking,Regulatory compliance,AML spending as % of compliance expense,TBD
+iBVF aligned template for Banking,Regulatory compliance,Y-o-y cost of compliance  ,TBD
+iBVF aligned template for Banking,Regulatory compliance,Cost to resolve violations across regions,TBD
+iBVF aligned template for Banking,Innovations,# new customers,TBD
+iBVF aligned template for Banking,Innovations,# new digital offerings,TBD
+iBVF aligned template for Banking,Innovations,Retention rate,TBD
+iBVF aligned template for Banking,Innovations,Fault rates,TBD
+iBVF aligned template for Banking,Innovations,Online banking users as % of online banking employees,TBD
+iBVF aligned template for Banking,"Finance, HR, IT ",% outsourced,TBD
+iBVF aligned template for Banking,"Finance, HR, IT ",IT utilization,TBD
+iBVF aligned template for Banking,"Finance, HR, IT ",% implementation on time & budget,TBD
+iBVF aligned template for Banking,"Finance, HR, IT ",% disputed invoices,TBD
+iBVF aligned template for Banking,"Finance, HR, IT ",# of employees,TBD
+iBVF aligned template for Banking,"Finance, HR, IT ",# of automated processes,TBD
+iBVF aligned template for Banking,"Finance, HR, IT ",Staff training index,TBD
+iBVF aligned template for Communication Service Providers,Network  and Engineering,Network deployment,TBD
+iBVF aligned template for Communication Service Providers,Network  and Engineering,xG coverage (mobile),TBD
+iBVF aligned template for Communication Service Providers,Network  and Engineering,Premises covered (fixed),TBD
+iBVF aligned template for Communication Service Providers,Network  and Engineering,Number of connections,TBD
+iBVF aligned template for Communication Service Providers,Network  and Engineering,Connection performance,TBD
+iBVF aligned template for Communication Service Providers,Network  and Engineering,Data penetration and usage,TBD
+iBVF aligned template for Communication Service Providers,Network  and Engineering,Adherence to network QoS parameters,TBD
+iBVF aligned template for Communication Service Providers,Product Management,New product development,TBD
+iBVF aligned template for Communication Service Providers,Product Management,Product adoption rate,TBD
+iBVF aligned template for Communication Service Providers,Product Management,Product differentiation (Innovation Index),TBD
+iBVF aligned template for Communication Service Providers,Product Management,Digital brand relevance,TBD
+iBVF aligned template for Communication Service Providers,Product Management,Product revenue monetization ,TBD
+iBVF aligned template for Communication Service Providers,Sales & Marketing,Opportunity development,TBD
+iBVF aligned template for Communication Service Providers,Sales & Marketing,Scalability,TBD
+iBVF aligned template for Communication Service Providers,Sales & Marketing,Revenue growth/distribution,TBD
+iBVF aligned template for Communication Service Providers,Sales & Marketing,Service line margins,TBD
+iBVF aligned template for Communication Service Providers,Sales & Marketing,Capital intensity ,TBD
+iBVF aligned template for Communication Service Providers,Sales & Marketing,Strategic partnering,TBD
+iBVF aligned template for Communication Service Providers,Delivery & Assurance,Idea cultivation (TTM),TBD
+iBVF aligned template for Communication Service Providers,Delivery & Assurance,Digital brand relevance,TBD
+iBVF aligned template for Communication Service Providers,Delivery & Assurance,Monetisation (ROI),TBD
+iBVF aligned template for Communication Service Providers,Delivery & Assurance,Open standards adoption,TBD
+iBVF aligned template for Communication Service Providers,Delivery & Assurance,SLA management,TBD
+iBVF aligned template for Communication Service Providers,Delivery & Assurance,Service provisioning and activation time,TBD
+iBVF aligned template for Communication Service Providers,Customer Service,Brand consideration,TBD
+iBVF aligned template for Communication Service Providers,Customer Service,Gross adds/attrition (churn),TBD
+iBVF aligned template for Communication Service Providers,Customer Service,Customer query response and resolution time,TBD
+iBVF aligned template for Communication Service Providers,Customer Service,"Brand engagement (ARPU, RGU/Household)",TBD
+iBVF aligned template for Communication Service Providers,Customer Service,Customer appreciation,TBD
+iBVF aligned template for Communication Service Providers,Customer Service,Advocacy (NPS),TBD
+iBVF aligned template for Communication Service Providers,"Finance, HR & IT",Fluidity (capacity for change),TBD
+iBVF aligned template for Communication Service Providers,"Finance, HR & IT",Leverage (asset utilisation),TBD
+iBVF aligned template for Communication Service Providers,"Finance, HR & IT",Digital/analytics skills index,TBD
+iBVF aligned template for Communication Service Providers,"Finance, HR & IT",Quality management,TBD
+iBVF aligned template for Communication Service Providers,"Finance, HR & IT",Employee productivity,TBD
+iBVF aligned template for Communication Service Providers,"Finance, HR & IT",Employee satisfaction,TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Forecast accuracy,TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Supplier fill rate,TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Finished goods inventory turns,TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Inventory obsolescence as a % of total inventory,TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Inventory levels,TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Customer equity (retention rate),TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Market share per product/channel,TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Mix of revenue (old vs new customer),TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Customer order frequency,TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Revenue per order,TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Number of new customers,TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Trade & promotion performance and return,TBD
+iBVF aligned template for Consumer Industries,Develop-to-Market,Expense per market analysis,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Maintenance cost,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Failure frequency,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Deviation rate,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Work order success rate,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Quality deficiency cost,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Downtime,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Average invoice value,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Time from invoice receipt until payment,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,No. of invoices with errors,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Total discounts lost,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Contract leakage rate,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Non-contract purchase rate ,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,PO cycle time,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,Return to vendor cost,TBD
+iBVF aligned template for Consumer Industries,Procure-to-Pay,PO purchases growth rate,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,% planned vs. emergency maintenance work orders,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Downtime,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Operating time,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Rate of new product introduction,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Average order value,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Order information error rate,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Average order size,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Time to ship,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Order fill rate,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Per item handling cost,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Return rate,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,No. of orders not delivered to customer,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Days sales outstanding,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,Transportation costs,TBD
+iBVF aligned template for Consumer Industries,Order-to-Cash,End of life inventory,TBD
+iBVF aligned template for Freight and Logistics,Inbound Logistics,Cost per mile/ km,TBD
+iBVF aligned template for Freight and Logistics,Inbound Logistics,Route Guide Compliance,TBD
+iBVF aligned template for Freight and Logistics,Inbound Logistics,On-time pickup & delivery,TBD
+iBVF aligned template for Freight and Logistics,Inbound Logistics,Yield,TBD
+iBVF aligned template for Freight and Logistics,Warehouse Operations,Stock Turnover,TBD
+iBVF aligned template for Freight and Logistics,Warehouse Operations,Maintenance costs,TBD
+iBVF aligned template for Freight and Logistics,Warehouse Operations,On-Time Shipping,TBD
+iBVF aligned template for Freight and Logistics,Warehouse Operations,Dock to Stock,TBD
+iBVF aligned template for Freight and Logistics,Warehouse Operations,Loading/ unloading time,TBD
+iBVF aligned template for Freight and Logistics,Outbound Logistics,Landed cost,TBD
+iBVF aligned template for Freight and Logistics,Outbound Logistics,Fuel Efficiency,TBD
+iBVF aligned template for Freight and Logistics,Outbound Logistics,Cost per mile/ km,TBD
+iBVF aligned template for Freight and Logistics,Outbound Logistics,Route Guide Compliance,TBD
+iBVF aligned template for Freight and Logistics,Outbound Logistics,Yield,TBD
+iBVF aligned template for Freight and Logistics,Marketing & Sales,On time in full (OTIF),TBD
+iBVF aligned template for Freight and Logistics,Marketing & Sales,Repeat business,TBD
+iBVF aligned template for Freight and Logistics,Marketing & Sales,Net Promoter Score,TBD
+iBVF aligned template for Freight and Logistics,Service,Customer Satisfaction,TBD
+iBVF aligned template for Freight and Logistics,Service,Rate of Return,TBD
+iBVF aligned template for Freight and Logistics,Service,% Claims,TBD
+iBVF aligned template for Freight and Logistics,Service,Damages/ Loss,TBD
+iBVF aligned template for Freight and Logistics,Service,% Accessorials,TBD
+iBVF aligned template for Industrial Manufacturing,Product Development,Time to market,TBD
+iBVF aligned template for Industrial Manufacturing,Product Development,Adherence to customer needs and acceptance,TBD
+iBVF aligned template for Industrial Manufacturing,Product Development,Conformance to standards,TBD
+iBVF aligned template for Industrial Manufacturing,Product Development,Concept development cycle time,TBD
+iBVF aligned template for Industrial Manufacturing,Product Development,Total material costs,TBD
+iBVF aligned template for Industrial Manufacturing,Product Development,Discounted break-even time,TBD
+iBVF aligned template for Industrial Manufacturing,Product Development,Product quality,TBD
+iBVF aligned template for Industrial Manufacturing,Procurement & Logistics,Order fulfillment lead time,TBD
+iBVF aligned template for Industrial Manufacturing,Procurement & Logistics,Order fill rate,TBD
+iBVF aligned template for Industrial Manufacturing,Procurement & Logistics,Percentage of returns,TBD
+iBVF aligned template for Industrial Manufacturing,Procurement & Logistics,Percentage of on time,TBD
+iBVF aligned template for Industrial Manufacturing,Procurement & Logistics,Percentage of canceled orders,TBD
+iBVF aligned template for Industrial Manufacturing,Procurement & Logistics,Inventory holding costs,TBD
+iBVF aligned template for Industrial Manufacturing,Manufacturing,Cost of maintenance,TBD
+iBVF aligned template for Industrial Manufacturing,Manufacturing,Material quality & costs,TBD
+iBVF aligned template for Industrial Manufacturing,Manufacturing,Labor costs and overhead,TBD
+iBVF aligned template for Industrial Manufacturing,Manufacturing,Production process costs,TBD
+iBVF aligned template for Industrial Manufacturing,Manufacturing,Safety ratings,TBD
+iBVF aligned template for Industrial Manufacturing,Manufacturing,Customer complaints & satisfaction ,TBD
+iBVF aligned template for Industrial Manufacturing,Manufacturing,Total warranty costs,TBD
+iBVF aligned template for Industrial Manufacturing,Manufacturing,Recalls & related costs,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Market share,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Customer experience rating Customer retention rate,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Customer complaints (things gone wrong) & satisfaction ,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Advertising & promotion spend,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Marketing expense per product and segment,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Customer experience rating Customer retention rate,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Customer serviceability,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Customer satisfaction,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Average repair time,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Total warranty costs,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Recalls & related costs,TBD
+iBVF aligned template for Industrial Manufacturing,Marketing Sales & Distribution,Inventory holding costs,TBD
+iBVF aligned template for Industrial Manufacturing,Admin,Accuracy and timeliness of information to make decisions,TBD
+iBVF aligned template for Industrial Manufacturing,Admin,Speed-to-decision,TBD
+iBVF aligned template for Industrial Manufacturing,Admin,Internal customer satisfaction,TBD
+iBVF aligned template for Industrial Manufacturing,Admin,Number of audits,TBD
+iBVF aligned template for Industrial Manufacturing,Admin,Cost per unit of measure,TBD
+iBVF aligned template for Industrial Manufacturing,Admin,Employee turnover rate,TBD
+iBVF aligned template for Insurance,Distribution,% of digital applications vs total applications,TBD
+iBVF aligned template for Insurance,Distribution,Revenue per channel,TBD
+iBVF aligned template for Insurance,Distribution,New Policies per Agent,TBD
+iBVF aligned template for Insurance,Distribution,Percentage of Premium Written Through Direct vs agency Channels,TBD
+iBVF aligned template for Insurance,Business Acquisition,Premiums from new policies ,TBD
+iBVF aligned template for Insurance,Business Acquisition,Speed of policy administration ,TBD
+iBVF aligned template for Insurance,Business Acquisition,#  of new policies & customers by channel,TBD
+iBVF aligned template for Insurance,Business Acquisition,Policies Issued per Month,TBD
+iBVF aligned template for Insurance,Business Acquisition,Unit Cost: New Business Application,TBD
+iBVF aligned template for Insurance,Actuarial & Underwriting,Underwriting Expense Ratio,TBD
+iBVF aligned template for Insurance,Actuarial & Underwriting,Unit Cost: Underwriting Decision,TBD
+iBVF aligned template for Insurance,Actuarial & Underwriting,Cycle Time: Underwriting / Actuarial Analysis,TBD
+iBVF aligned template for Insurance,Actuarial & Underwriting,Actuarial Headcount Ratio,TBD
+iBVF aligned template for Insurance,Actuarial & Underwriting,Underwriting Approval Rate,TBD
+iBVF aligned template for Insurance,Policy Administration,Policyholder Services Expense per Transaction,TBD
+iBVF aligned template for Insurance,Policy Administration,Complaint Tracking,TBD
+iBVF aligned template for Insurance,Policy Administration,Policyholders per Case Manager,TBD
+iBVF aligned template for Insurance,Policy Administration,Customer Service Days,TBD
+iBVF aligned template for Insurance,Policy Administration,Cycle Time: Premium Application,TBD
+iBVF aligned template for Insurance,Claims Management,Claims ratio,TBD
+iBVF aligned template for Insurance,Claims Management,Claims investigation expense,TBD
+iBVF aligned template for Insurance,Claims Management,Unit Cost: Claim Processing,TBD
+iBVF aligned template for Insurance,Claims Management,Cycle Time: Claims Settlement,TBD
+iBVF aligned template for Insurance,Claims Management,Validity of initiated claims,TBD
+iBVF aligned template for Insurance,Claims Management,Claims Denial Rate,TBD
+iBVF aligned template for Insurance,Customer Service,Book of business mix ,TBD
+iBVF aligned template for Insurance,Customer Service,Customer satisfaction ,TBD
+iBVF aligned template for Insurance,Customer Service,# of new policies ,TBD
+iBVF aligned template for Insurance,Customer Service,Premiums per customer,TBD
+iBVF aligned template for Insurance,Customer Service,Market share,TBD
+iBVF aligned template for Insurance,Customer Service,New customer segments,TBD
+iBVF aligned template for Insurance,Security / Risk Management,Suspicious activity reports by product type,TBD
+iBVF aligned template for Insurance,Security / Risk Management,Suspicious activity reports by transaction type,TBD
+iBVF aligned template for Insurance,Security / Risk Management,# of attacks/ breaches/ year,TBD
+iBVF aligned template for Insurance,Security / Risk Management,Total volume: suspicious account activity investigations,TBD
+iBVF aligned template for Insurance,Regulatory compliance,Statutory reserves,TBD
+iBVF aligned template for Insurance,Regulatory compliance,Y-o-y cost of compliance  ,TBD
+iBVF aligned template for Insurance,Regulatory compliance,Cost to resolve violations across regions,TBD
+iBVF aligned template for Insurance,Innovations / Product Dev,# new customers,TBD
+iBVF aligned template for Insurance,Innovations / Product Dev,# new digital offerings,TBD
+iBVF aligned template for Insurance,Innovations / Product Dev,New product success rate ,TBD
+iBVF aligned template for Insurance,Innovations / Product Dev,New needs identified ,TBD
+iBVF aligned template for Insurance,Innovations / Product Dev,Cycle Time: New Business Processing,TBD
+iBVF aligned template for Insurance,"Finance, HR, IT ",% outsourced,TBD
+iBVF aligned template for Insurance,"Finance, HR, IT ",IT utilization,TBD
+iBVF aligned template for Insurance,"Finance, HR, IT ",% implementation on time & budget,TBD
+iBVF aligned template for Insurance,"Finance, HR, IT ",% disputed invoices,TBD
+iBVF aligned template for Insurance,"Finance, HR, IT ",# of employees,TBD
+iBVF aligned template for Insurance,"Finance, HR, IT ",# of automated processes,TBD
+iBVF aligned template for Insurance,"Finance, HR, IT ",Staff training index,TBD
+iBVF aligned template for Oil & Gas,Upstream,Finding costs,TBD
+iBVF aligned template for Oil & Gas,Upstream,Project types,TBD
+iBVF aligned template for Oil & Gas,Upstream,Acquisitions & partnerships,TBD
+iBVF aligned template for Oil & Gas,Upstream,Reserve Replacement Ratio,TBD
+iBVF aligned template for Oil & Gas,Upstream,Reserves addition,TBD
+iBVF aligned template for Oil & Gas,Upstream,# of portfolios,TBD
+iBVF aligned template for Oil & Gas,Upstream,Recovery percentage,TBD
+iBVF aligned template for Oil & Gas,Upstream,Asset growth capacity,TBD
+iBVF aligned template for Oil & Gas,Upstream,Reserves to production,TBD
+iBVF aligned template for Oil & Gas,Upstream,Planned capacity,TBD
+iBVF aligned template for Oil & Gas,Upstream,Development costs/ well,TBD
+iBVF aligned template for Oil & Gas,Upstream,#of production wells ,TBD
+iBVF aligned template for Oil & Gas,Upstream,Contract tracking,TBD
+iBVF aligned template for Oil & Gas,Upstream,# unplanned downtime,TBD
+iBVF aligned template for Oil & Gas,Upstream,# of FIDs,TBD
+iBVF aligned template for Oil & Gas,Upstream,Injury Frequency,TBD
+iBVF aligned template for Oil & Gas,Upstream,"Spillage, effluents",TBD
+iBVF aligned template for Oil & Gas,Upstream,Production rate & cost,TBD
+iBVF aligned template for Oil & Gas,Upstream,Base decline,TBD
+iBVF aligned template for Oil & Gas,Upstream,Recovery rates ,TBD
+iBVF aligned template for Oil & Gas,Upstream,Annual average production,TBD
+iBVF aligned template for Oil & Gas,Upstream,Sales volume,TBD
+iBVF aligned template for Oil & Gas,Upstream,Capacity utilization,TBD
+iBVF aligned template for Oil & Gas,Midstream,"Storage, shipping, an pipeline costs ",TBD
+iBVF aligned template for Oil & Gas,Midstream,Long & short term trades,TBD
+iBVF aligned template for Oil & Gas,Midstream,Value at Risk,TBD
+iBVF aligned template for Oil & Gas,Midstream,Deal volume per trader,TBD
+iBVF aligned template for Oil & Gas,Midstream,Regulatory compliance,TBD
+iBVF aligned template for Oil & Gas,Downstream,Development costs per boe,TBD
+iBVF aligned template for Oil & Gas,Downstream,Barrels of oil processed/ day,TBD
+iBVF aligned template for Oil & Gas,Downstream,Yield ,TBD
+iBVF aligned template for Oil & Gas,Downstream,Crack Spreads,TBD
+iBVF aligned template for Oil & Gas,Downstream,Refining margins,TBD
+iBVF aligned template for Oil & Gas,Downstream,Capacity utilization,TBD
+iBVF aligned template for Oil & Gas,Downstream,Liquefaction costs ($/ mtpa),TBD
+iBVF aligned template for Oil & Gas,Downstream,Inventory levels,TBD
+iBVF aligned template for Oil & Gas,Downstream,Delivery disruptions,TBD
+iBVF aligned template for Oil & Gas,Downstream,Fuel forecast and delivery,TBD
+iBVF aligned template for Oil & Gas,Downstream,Contract compliance,TBD
+iBVF aligned template for Oil & Gas,Downstream,# of contractors,TBD
+iBVF aligned template for Oil & Gas,Retail,Market share,TBD
+iBVF aligned template for Oil & Gas,Retail,Unbilled revenue,TBD
+iBVF aligned template for Oil & Gas,Retail,Service quality,TBD
+iBVF aligned template for Oil & Gas,Retail,Pricing effectiveness,TBD
+iBVF aligned template for Oil & Gas,Retail,# of channels,TBD
+iBVF aligned template for Oil & Gas,Retail,Revenue by channel,TBD
+iBVF aligned template for Oil & Gas,Retail,Satisfaction statistics,TBD
+iBVF aligned template for Oil & Gas,Retail,# new customers,TBD
+iBVF aligned template for Oil & Gas,Retail,Retention rate,TBD
+iBVF aligned template for Oil & Gas,Retail,Fault rates,TBD
+iBVF aligned template for Oil & Gas,Retail,"# of enquiries, contacts, IVR calls",TBD
+iBVF aligned template for Oil & Gas,Retail,Wait time and resolution time,TBD
+iBVF aligned template for Oil & Gas,Retail,First call resolution,TBD
+iBVF aligned template for Oil & Gas,Admin,% outsourced,TBD
+iBVF aligned template for Oil & Gas,Admin,IT utilization,TBD
+iBVF aligned template for Oil & Gas,Admin,"% implementation on time, & budget",TBD
+iBVF aligned template for Oil & Gas,Admin,% disputed invoices,TBD
+iBVF aligned template for Oil & Gas,Admin,# of employees,TBD
+iBVF aligned template for Oil & Gas,Admin,# of automated processes,TBD
+iBVF aligned template for Rail,Operations,Avg. train speed (miles/ hr),TBD
+iBVF aligned template for Rail,Operations,Revenue ton miles,TBD
+iBVF aligned template for Rail,Operations,Personal injury rate,TBD
+iBVF aligned template for Rail,Operations,Asset utilization,TBD
+iBVF aligned template for Rail,Operations,Avg. terminal dwell time,TBD
+iBVF aligned template for Rail,Marketing & Sales,Revenue carloads,TBD
+iBVF aligned template for Rail,Marketing & Sales,New accounts,TBD
+iBVF aligned template for Rail,Marketing & Sales,Contract renewals,TBD
+iBVF aligned template for Rail,Marketing & Sales,New solutions,TBD
+iBVF aligned template for Rail,Marketing & Sales,Train length,TBD
+iBVF aligned template for Rail,Marketing & Sales,First/ last mile customer satisfaction,TBD
+iBVF aligned template for Rail,Maintenance & Engineering,Train velocity,TBD
+iBVF aligned template for Rail,Maintenance & Engineering,Cars online,TBD
+iBVF aligned template for Rail,Maintenance & Engineering,Rail equipment safety,TBD
+iBVF aligned template for Rail,Maintenance & Engineering,Locomotive efficiency,TBD
+iBVF aligned template for Rail,Maintenance & Engineering,Rail crossing accidents,TBD
+iBVF aligned template for Rail,Customer Service,Service Disruptions,TBD
+iBVF aligned template for Rail,Customer Service,Service improvement,TBD
+iBVF aligned template for Rail,Customer Service,Outages,TBD
+iBVF aligned template for Rail,Customer Service,Problem resolution,TBD
+iBVF aligned template for Rail,Customer Service,Repeat business,TBD
+iBVF aligned template for Rail,Customer Service,SLAs,TBD
+iBVF aligned template for Rail,Admin,% outsourced,TBD
+iBVF aligned template for Rail,Admin,IT utilization,TBD
+iBVF aligned template for Rail,Admin,Disputed invoices,TBD
+iBVF aligned template for Rail,Admin,% claims handled,TBD
+iBVF aligned template for Rail,Admin,# automated processes,TBD
+iBVF aligned template for Rail,Admin,Training spend,TBD
+iBVF aligned template for Rail,Admin,Contract Mgmt,TBD
+iBVF aligned template for Retail,Merchandising,New product success rate,TBD
+iBVF aligned template for Retail,Merchandising,Time to market,TBD
+iBVF aligned template for Retail,Merchandising,Forecast accuracy,TBD
+iBVF aligned template for Retail,Merchandising,"Assortment/ category productivity (sales, margin)",TBD
+iBVF aligned template for Retail,Merchandising,Stockout losses,TBD
+iBVF aligned template for Retail,Marketing,Productivity (GMROI) by marketing channel,TBD
+iBVF aligned template for Retail,Marketing,New customer acquisition rates ,TBD
+iBVF aligned template for Retail,Marketing,Activity response rate,TBD
+iBVF aligned template for Retail,Marketing,Increase in average basket value,TBD
+iBVF aligned template for Retail,Alternative Channels,Sales/Margin,TBD
+iBVF aligned template for Retail,Alternative Channels,Conversion rates,TBD
+iBVF aligned template for Retail,Alternative Channels,Time-on-site,TBD
+iBVF aligned template for Retail,Alternative Channels,Page-views,TBD
+iBVF aligned template for Retail,Alternative Channels,Site performance/ response,TBD
+iBVF aligned template for Retail,Alternative Channels,Number of site hits during promotion,TBD
+iBVF aligned template for Retail,Store Operations ,Customer interactions/,TBD
+iBVF aligned template for Retail,Store Operations ,    hour,TBD
+iBVF aligned template for Retail,Store Operations ,Checkout time,TBD
+iBVF aligned template for Retail,Store Operations ,Stockout losses,TBD
+iBVF aligned template for Retail,Store Operations ,Time to stock/replenish shelves,TBD
+iBVF aligned template for Retail,Store Operations ,Competitor price comparison,TBD
+iBVF aligned template for Retail,Distribution & Logistics,Warehouse handling damage rate ,TBD
+iBVF aligned template for Retail,Distribution & Logistics,Direct dispatch ratio,TBD
+iBVF aligned template for Retail,Distribution & Logistics,Order freight charge,TBD
+iBVF aligned template for Retail,Distribution & Logistics,Customer delivery return rate,TBD
+iBVF aligned template for Retail,Distribution & Logistics,Item count deviation rate,TBD
+iBVF aligned template for Retail,Customer Experience,% of customer requests met,TBD
+iBVF aligned template for Retail,Customer Experience,% of products purchased at full retail margin,TBD
+iBVF aligned template for Retail,Customer Experience,Share of sales generated from up-selling,TBD
+BVF aligned template for Utilities,Generation,Material cost,TBD
+BVF aligned template for Utilities,Generation,% of rejected material,TBD
+BVF aligned template for Utilities,Generation,Supplier management,TBD
+BVF aligned template for Utilities,Generation,Critical item,TBD
+BVF aligned template for Utilities,Generation,Spares,TBD
+BVF aligned template for Utilities,Generation,Procurement cycle,TBD
+BVF aligned template for Utilities,Generation,Peer-to-peer energy transfer ,TBD
+BVF aligned template for Utilities,Generation,Material forecasting and accuracy,TBD
+BVF aligned template for Utilities,Generation,Delivery timeliness,TBD
+BVF aligned template for Utilities,Generation,Rebuild & fabrication cost,TBD
+BVF aligned template for Utilities,Transmission,Generation mix ,TBD
+BVF aligned template for Utilities,Transmission,Unit Sales,TBD
+BVF aligned template for Utilities,Transmission,Capacity utilization,TBD
+BVF aligned template for Utilities,Transmission,SAIDI index,TBD
+BVF aligned template for Utilities,Transmission,Mean time between failure to repair,TBD
+BVF aligned template for Utilities,Transmission,Downtime & outages,TBD
+BVF aligned template for Utilities,Transmission,Service levels,TBD
+BVF aligned template for Utilities,Transmission,Dispatch effectiveness,TBD
+BVF aligned template for Utilities,Transmission,Fault rate,TBD
+BVF aligned template for Utilities,Transmission,Service call period,TBD
+BVF aligned template for Utilities,Transmission,Restoration interval,TBD
+BVF aligned template for Utilities,Transmission,Work tracking,TBD
+BVF aligned template for Utilities,Transmission,Repair time,TBD
+BVF aligned template for Utilities,Transmission,Rework,TBD
+BVF aligned template for Utilities,Transmission,Downtime,TBD
+BVF aligned template for Utilities,Transmission,Emergency and overtime tracking,TBD
+BVF aligned template for Utilities,Distribution,Job tracking,TBD
+BVF aligned template for Utilities,Distribution,Compliance to contracts,TBD
+BVF aligned template for Utilities,Distribution,Rework,TBD
+BVF aligned template for Utilities,Distribution,# of disputes,TBD
+BVF aligned template for Utilities,Distribution,# of contractors,TBD
+BVF aligned template for Utilities,Distribution,Work backlog,TBD
+BVF aligned template for Utilities,Distribution,Payables,TBD
+BVF aligned template for Utilities,Distribution,Regulatory compliance,TBD
+BVF aligned template for Utilities,Distribution,Long term trades,TBD
+BVF aligned template for Utilities,Distribution,Short term trades,TBD
+BVF aligned template for Utilities,Retail,Receivables,TBD
+BVF aligned template for Utilities,Retail,Service quality,TBD
+BVF aligned template for Utilities,Retail,Product/ service mix,TBD
+BVF aligned template for Utilities,Retail,Marketing effectiveness,TBD
+BVF aligned template for Utilities,Retail,Pricing effectiveness,TBD
+BVF aligned template for Utilities,Retail,Channel revenue,TBD
+BVF aligned template for Utilities,Retail,Business exceptions,TBD
+BVF aligned template for Utilities,Retail,NPS,TBD
+BVF aligned template for Utilities,Retail,# Personalized propositions,TBD
+BVF aligned template for Utilities,Retail,# Localized grids ,TBD
+BVF aligned template for Utilities,Retail,Omni-channel support,TBD
+BVF aligned template for Utilities,Retail,# customer call,TBD
+BVF aligned template for Utilities,Retail,Retention rate,TBD
+BVF aligned template for Utilities,Retail,Fault rates,TBD
+BVF aligned template for Utilities,Retail,# Vendor switch,TBD
+BVF aligned template for Utilities,Retail,Wait time,TBD
+BVF aligned template for Utilities,Administration,% outsourced,TBD
+BVF aligned template for Utilities,Administration,IT utilization,TBD
+BVF aligned template for Utilities,Administration,Implementation on time & budget,TBD
+BVF aligned template for Utilities,Administration,# employees,TBD

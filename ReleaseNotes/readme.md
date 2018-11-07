@@ -1,6 +1,6 @@
-Trends|Solutions|Agendas|Workspaces|Explorer
+Trends|Solutions|Roadmaps|Workspaces|Explorer
 |----|----|----|----|----
-|DXC 2.0.1|DXC 3.0.1|DXC 2.0.1|DXC 2.0.1|
+|DXC 2.0.1|DXC 3.0.1|DXC 2.0.2|DXC 2.0.2|
 
 ### Release date : 
 
@@ -10,18 +10,21 @@ Trends|Solutions|Agendas|Workspaces|Explorer
 
 
 **Minor**
-- 
+- Solutions : Fully aligned Solution datasheet to AO Canvas
+- Roadmaps : Improved layout of the roadmap summary
 
 **Fixes**
--
+- Roadmaps : corrected filter when selecting a template for a new roadmap
+- Roadmaps : fixed UI crash when selecting/changing template
+- Roadmaps : fixed "no goals defined" error within the summary view
 
 ----
 
-Trends|Solutions|Agendas|Workspaces|Explorer
+Trends|Solutions|Roadmaps|Workspaces|Explorer
 |----|----|----|----|----
-|DXC 2.0.1|DXC 3.0.1|DXC 2.0.1|DXC 2.0.1|
+|DXC 2.0.2|DXC 3.0.2|DXC 2.0.2|DXC 2.0.1|
 
-### Release date : Nov 1st 2018
+### Release date : Nov 2nd 2018
 
 #### New
 **Major**
