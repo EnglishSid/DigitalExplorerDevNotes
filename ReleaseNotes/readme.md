@@ -1,28 +1,75 @@
 Trends|Solutions|Roadmaps|Workspaces|Explorer
 |----|----|----|----|----
-|DXC 2.0.1|DXC 3.0.1|DXC 2.0.2|DXC 2.0.2|
+|DXC 2.0.4|DXC 3.0.3|DXC 2.0.3|DXC 2.0.2|
 
 ### Release date : 
 
 #### New
 **Major**
-- 
+- Solutions : Improved solution search
+- Roadmaps : Capture global KPI's
 
 
 **Minor**
-- Solutions : Fully aligned Solution datasheet to AO Canvas
-- Roadmaps : Improved layout of the roadmap summary
+- Platform - update to user role manager to support Delivery Leadership team
+
 
 **Fixes**
-- Roadmaps : corrected filter when selecting a template for a new roadmap
-- Roadmaps : fixed UI crash when selecting/changing template
-- Roadmaps : fixed "no goals defined" error within the summary view
+- Platform : removed option for DXC employees to change their passwords
+- Solutions : Solution ratings shown in search results
+- Solutions : Modification date filter fix
+- Roadmaps : Idea manager UI fix
+- Roadmaps : fixed trend lookup for solutions (add/edit)
+- Roadmaps : Canvas fix for higher resolution screens
+
 
 ----
 
 Trends|Solutions|Roadmaps|Workspaces|Explorer
 |----|----|----|----|----
-|DXC 2.0.2|DXC 3.0.2|DXC 2.0.2|DXC 2.0.1|
+|DXC 2.0.4|DXC 3.0.3|DXC 2.0.3|DXC 2.0.2|
+
+### Release date : 19th Nov 2018
+
+#### New
+**Major**
+- Solutions : simplified the solution `feature` information collection
+- Solutions : New industry overview dashboard
+- Roadmaps : Allow users to view and created solutions directly from the Summary view (`ideas` tab)
+
+**Minor**
+- Solutions : Fully aligned Solution datasheet to AO Canvas
+- Solutions : removed the tour
+- Roadmaps : Improved layout of the roadmap summary
+- Roadmaps : Allow users to add suggested solutions to a `workspace`
+- Roadmaps : renamed tabs to align with roadmap type
+- Roadmaps : allow users to delete `ideas` within the summary view
+
+**Fixes**
+- Roadmaps : corrected filter when selecting a template for a new roadmap
+- Roadmaps : fixed UI crash when selecting/changing template
+- Roadmaps : fixed links from Insights module
+- Roadmaps : fixed "no goals defined" error within the summary view
+- Trends : technology trend layout fixes
+
+----
+
+Trends|Solutions|Roadmaps|Workspaces|Explorer
+|----|----|----|----|----
+|DXC 2.0.3|DXC 3.0.2|DXC 2.0.2|DXC 2.0.2|
+
+### Release date : 13th Nov 2018
+
+#### New
+
+**Fixes**
+- Trends : unblock access to the Approve trends page
+
+----
+
+Trends|Solutions|Roadmaps|Workspaces|Explorer
+|----|----|----|----|----
+|DXC 2.0.2|DXC 3.0.2|DXC 2.0.2|DXC 2.0.2|
 
 ### Release date : Nov 2nd 2018
 

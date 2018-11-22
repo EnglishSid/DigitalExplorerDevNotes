@@ -1,4 +1,4 @@
-# Feature refactoring 2018
+# Feature refactoring NOv 2018
 
 Relates to : https://jira.csc.com/browse/DE-339
 
@@ -36,7 +36,7 @@ return f,nft
 
 ~~~
 LOAD csv with headers from "file:///features.csv" AS featuresCSV
-match (f:Feature {name:featuresCSV.fname)-[r]-(ft:FeatureCategory)
+match (f:Feature {name:featuresCSV.fname})-[r]-(ft:FeatureCategory)
 delete r
 with featuresCSV,f
 merge (f)-[r2:OFCATEGORY]->(nft:FeatureCategory{name:featuresCSV.type})
@@ -45,6 +45,12 @@ set f.description=featuresCSV.fdescription
 with featuresCSV,f
 match (f)-[r3]-(:TechnologyGroup)
 delete r3
-match (tg:TechnologyGroup {name:featuresCSV.tgname}
+match (tg:TechnologyGroup {name:featuresCSV.tgname})
 merge (f)-[r4:REALIZEDBY]->(tg)
+return f,tg
 ~~~
+
+---
+
+# Find features within a category
+
