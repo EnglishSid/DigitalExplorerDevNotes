@@ -10,15 +10,20 @@ Dedicated playlist on video.dxc and posted into workplace
 | # | Description
 |---|---|
 | 1 | Export trends to a PDF
-| 2 | edit trends via the viewer
-| 3 | create a roadmap template
-| 4 | learn more about a trend
+| 2 | Edit trends via the viewer
+| 3 | Create a roadmap template
+| 4 | Learn more about a trend
 | 5 | Manage your accounts
 | 6 | Add colleagues to your account
-| 7 | client access to roadmaps
+| 7 | Client access to roadmaps
 | 8 | Achievements
 | 9 | Idea 2 Solution 
 | 10 | Roadmap insights
+| 11 | Roadmap Solutions ideas to workspaces
+| 12 | Roadmap configuration options
+| 13 | Roadmap Account BVF
+
+
 
 
 
@@ -73,3 +78,19 @@ https://video.dxc.com/media/t/1_u3qfkxt0
 # #DigitalExplorer #DidYouKnow #10
 **Roadmap insights**
 https://video.dxc.com/media/t/1_u7at1fqs
+
+
+
+# #DigitalExplorer #DidYouKnow #11
+
+**Capture solutions suggestions from your digital blueprint into your DE Workspace**
+
+https://video.dxc.com/media/t/1_bbtkay56
+
+# #DigitalExplorer #DidYouKnow #12
+**Roadmap configuration options**
+https://video.dxc.com/media/t/1_bgcje539
+
+# #DigitalExplorer #DidYouKnow #13
+**Data driven account BVF**
+https://video.dxc.com/media/t/1_inm45y24
