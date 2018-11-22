@@ -3,29 +3,28 @@
 
 
 match (c:Company{name:'DXC Technology'}) 
-merge (p:Person {name:'Khoa Dang Do', email:'kdo6@csc.com>'})
+merge (p:Person {name:'Kory Hubbard', email:'kory.hubbard@dxc.com'})
 merge (p)-[:REGISTERED_TO]->(c)
 with count(*) as dummy
 match (c:Company{name:'DXC Technology'}) 
-merge (p:Person {name:'Liem Trung Huynh', email:'lhuynh24@csc.com'})
+merge (p:Person {name:'Carrie Rangeen', email:'carrie.rangeen@dxc.com'})
 merge (p)-[:REGISTERED_TO]->(c)
 with count(*) as dummy
 match (c:Company{name:'DXC Technology'}) 
-merge (p:Person {name:'', email:'qnguyen35@csc.com'})
+merge (p:Person {name:'Vishal Kamalakaran', email:'vishal.kamalakaran@dxc.com'})
 merge (p)-[:REGISTERED_TO]->(c)
 with count(*) as dummy
 match (c:Company{name:'DXC Technology'}) 
-merge (p:Person {name:'Minh Ly', email:'mly2@csc.com'})
+merge (p:Person {name:'Chris Janssen', email:'chris.janssen@dxc.com'})
 merge (p)-[:REGISTERED_TO]->(c)
 with count(*) as dummy
 match (c:Company{name:'DXC Technology'}) 
-merge (p:Person {name:'Huu Pham ', email:'hpham21@csc.com'})
+merge (p:Person {name:'Troy Curtis', email:'tcurtis3@csc.com'})
+merge (p)-[:REGISTERED_TO]->(c)
+with count(*) as dummy
+match (c:Company{name:'DXC Technology'}) 
+merge (p:Person {name:'Charles Braden', email:'charles.braden@dxc.com'})
 merge (p)-[:REGISTERED_TO]->(c)
 
 
-
- <;
- <>;
- <>;
- <>; 
-<>
+Hubbard, Kory <>; ,  <>; ,  <>; ,  <>; ,  <>; ,  <>

@@ -86,3 +86,57 @@ match (a:Achievement {name:'TechnicalExcellence2019Winner'})
 MERGE (p)-[r:HAS  {creationDate:s.creationDate}]->(a)
 return p,a
 ~~~
+
+
+---
+
+Workplace posts
+
+
+# Congratulations to the Personas solution team!
+**DXC Technical Excellence 2019 winners**
+View the details of this great solution [here](https://digitalexplorer.dxc.com/se/solutions/414772)
+
+posts into DE, HLS
+
+# Congratulations to the DXC Cyber Reference Architecture team!
+**DXC Technical Excellence 2019 winners**
+View the details of this great solution [here](https://digitalexplorer.dxc.com/se/solutions/377617)
+
+posts into DE, Security
+
+
+# Congratulations to the DXC Disruption Management solution team!
+**DXC Technical Excellence 2019 winners**
+View the details of this great solution [here](https://digitalexplorer.dxc.com/se/solutions/14370)
+
+posts into DE, T&T
+
+
+# Congratulations to the Platform DXC team!
+**DXC Technical Excellence 2019 winners**
+View the details of this great solution [here](https://digitalexplorer.dxc.com/se/solutions/432351)
+
+posts into DE, pDXC
+
+
+# Congratulations to the Essential Energy Smart AR Checklist solution team!
+**DXC Technical Excellence 2019 winners**
+View the details of this great solution [here](https://digitalexplorer.dxc.com/se/solutions/404676)
+
+posts into DE, Energy
+
+
+# Congratulations to the R&D Platform for Fully Autonomous Driving solution team!
+**DXC Technical Excellence 2019 winners**
+View the details of this great solution [here](https://digitalexplorer.dxc.com/se/solutions/416543)
+
+posts into DE, Automotive, Manufacturing
+
+# Congratulations to the India Post Bank Countrywide Banking solution team!
+**DXC Technical Excellence 2019 winners**
+View the details of this great solution [here](https://digitalexplorer.dxc.com/se/solutions/413320)
+
+posts into DE, Banking
+
+
