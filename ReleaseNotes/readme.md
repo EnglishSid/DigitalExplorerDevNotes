@@ -12,6 +12,7 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer
 
 **Minor**
 - Platform - update to user role manager to support Delivery Leadership team
+- Trends : Markdown presentations within the trends overview pages.
 
 
 **Fixes**
