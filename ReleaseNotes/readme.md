@@ -53,6 +53,9 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer
 **Fixes**
 - Explorer : Solutions and configuration plans
 - Roadmaps : fixed "Multiple programs names listed for accounts"
+- Roadmaps : non-admins can save account details
+- Roadmaps : show KPI's when only global ones are defined
+- Solutions : fixed solution model within datasheet when no groups are defined
 
 ---
 #### Scripts
