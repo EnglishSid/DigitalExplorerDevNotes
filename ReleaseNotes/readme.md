@@ -18,6 +18,7 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer|Playbooks
 ---
 #### Scripts
 https://github.dxc.com/DigitalExplorer/DeveloperNotes/blob/master/Modules/Platform/Achievements/Playbooks/createNodes.cql
+https://github.dxc.com/DigitalExplorer/DeveloperNotes/blob/master/Modules/Playbooks/metrics/DXCMetrics.md 
 
 
 #### Builds
