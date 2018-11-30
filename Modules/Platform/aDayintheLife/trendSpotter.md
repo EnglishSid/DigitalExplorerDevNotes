@@ -2,6 +2,9 @@
 
 ![trendSpotter](images/trendSpotter.png)
 
+## Target
+Posts and shares the impact technology is having to our clients
+
 **Typical profile/role**
 * Regional CTO
 * Offering CTO
@@ -10,12 +13,12 @@
 * Industry Leader
 * AGM
 * Account Architect
-* Anyone with knowledge/interest
+* **Anyone with knowledge/interest**
 
 ### Activities
 * Discovers
     * Reads industry articles\tweets\blogs
-    * Discusses "thing" with client, colleagues, 3rd parties
+    * Discusses "things" with client, colleagues, 3rd parties
 
 * Shares
     * Tweet\Retweets (low effort)

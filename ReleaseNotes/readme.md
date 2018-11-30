@@ -1,8 +1,79 @@
+Trends|Solutions|Roadmaps|Workspaces|Explorer|Playbooks
+|----|----|----|----|----|---
+|DXC 2.0.4|DXC 3.0.3|DXC 2.0.3|DXC 2.0.2|1.0.1
+
+### Release date : 
+
+#### New
+**Major** 
+- Playbooks : New module
+
+
+**Minor**
+
+
+**Fixes**
+
+
+---
+#### Scripts
+https://github.dxc.com/DigitalExplorer/DeveloperNotes/blob/master/Modules/Platform/Achievements/Playbooks/createNodes.cql
+
+
+#### Builds
+
+- [x] DE-CORE
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [ ] dxc-digitalexplorer-trends
+- [ ] dxc-digitalexplorer-workspaces
+- [ ] dxc-digitalexplorer-playbooks
+- [ ] dxc-digitalexplorer-graph-explorer
+
+----
+
 Trends|Solutions|Roadmaps|Workspaces|Explorer
 |----|----|----|----|----
 |DXC 2.0.4|DXC 3.0.3|DXC 2.0.3|DXC 2.0.2|
 
 ### Release date : 
+
+#### New
+**Major** 
+- Roadmaps : Allow accounts to upload any attachment into their digital roadmaps
+- Solutions : Copy an existing solution from an `Idea`
+
+
+**Minor**
+- Roadmaps : Compact view and zoom options within the roadmap summary
+- Roadmaps : Improved the layout within the canvas when resizing the browser window.
+- Solution WWSSync : Alignment with new technology groups
+
+
+**Fixes**
+- Explorer : Solutions and configuration plans
+- Roadmaps : fixed "Multiple programs names listed for accounts"
+
+---
+#### Scripts
+None
+
+#### Builds
+
+- [x] DE-CORE
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [ ] dxc-digitalexplorer-trends
+- [ ] dxc-digitalexplorer-workspaces
+- [ ] dxc-digitalexplorer-graph-explorer
+
+----
+
+Trends|Solutions|Roadmaps|Workspaces|Explorer
+|----|----|----|----|----
+|DXC 2.0.4|DXC 3.0.3|DXC 2.0.3|DXC 2.0.2|
+
+### Release date : 27th Nov 2018
 
 #### New
 **Major**
@@ -23,6 +94,18 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer
 - Roadmaps : fixed trend lookup for solutions (add/edit)
 - Roadmaps : Canvas fix for higher resolution screens
 
+---
+#### Scripts
+None
+
+#### Builds
+
+- [x] DE-CORE
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-trends
+- [na] dxc-digitalexplorer-workspaces
+- [na] dxc-digitalexplorer-graph-explorer
 
 ----
 
