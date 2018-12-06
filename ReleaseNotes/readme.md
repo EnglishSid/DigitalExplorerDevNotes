@@ -1,6 +1,6 @@
 Trends|Solutions|Roadmaps|Workspaces|Explorer|Playbooks
 |----|----|----|----|----|---
-|DXC 2.0.4|DXC 3.0.3|DXC 2.0.3|DXC 2.0.2|1.0.1
+|DXC 2.0.4|DXC 3.0.3|DXC 2.0.3|DXC 2.0.2|1.0.0
 
 ### Release date : 
 
@@ -24,20 +24,20 @@ https://github.dxc.com/DigitalExplorer/DeveloperNotes/blob/master/Modules/Playbo
 #### Builds
 
 - [x] DE-CORE
-- [x] dxc-digitalexplorer-roadmaps
-- [x] dxc-digitalexplorer-solutions
+- [ ] dxc-digitalexplorer-roadmaps
+- [ ] dxc-digitalexplorer-solutions
 - [ ] dxc-digitalexplorer-trends
 - [ ] dxc-digitalexplorer-workspaces
-- [ ] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-playbooks
 - [ ] dxc-digitalexplorer-graph-explorer
 
 ----
 
 Trends|Solutions|Roadmaps|Workspaces|Explorer
 |----|----|----|----|----
-|DXC 2.0.4|DXC 3.0.3|DXC 2.0.3|DXC 2.0.2|
+|DXC 2.0.4|DXC 3.0.4|DXC 2.0.4|DXC 2.0.2|--
 
-### Release date : 
+### Release date : Dec 5th 2018
 
 #### New
 **Major** 
@@ -48,7 +48,10 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer
 **Minor**
 - Roadmaps : Compact view and zoom options within the roadmap summary
 - Roadmaps : Improved the layout within the canvas when resizing the browser window.
+- Roadmaps : Full description text when viewing an idea
+- Roadmaps : Session timer improvements
 - Solution WWSSync : Alignment with new technology groups
+- Solutions : Character counter on add/edit forms
 
 
 **Fixes**
@@ -60,7 +63,7 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer
 
 ---
 #### Scripts
-None
+roadmapAttachments.md
 
 #### Builds
 
@@ -69,7 +72,7 @@ None
 - [x] dxc-digitalexplorer-solutions
 - [ ] dxc-digitalexplorer-trends
 - [ ] dxc-digitalexplorer-workspaces
-- [ ] dxc-digitalexplorer-graph-explorer
+- [x] dxc-digitalexplorer-graph-explorer
 
 ----
 
