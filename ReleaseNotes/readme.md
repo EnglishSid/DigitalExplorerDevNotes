@@ -7,13 +7,13 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer|Playbooks
 #### New
 **Major** 
 - Playbooks : New module
-
+- Roadmaps : Any DXC Employee can view any other accounts roadmap
 
 **Minor**
 
 
 **Fixes**
-
+tst
 
 ---
 #### Scripts
