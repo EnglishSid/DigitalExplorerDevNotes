@@ -7,10 +7,11 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer|Playbooks
 #### New
 **Major** 
 - Playbooks : New module
-- Roadmaps : Any DXC Employee can view any other accounts roadmap
+- Platform : Submission timeline report (available within the solutions module)
+- Roadmaps : Any DXC Employee can view any other account roadmap
 
 **Minor**
-
+- Roadmaps : removed attachments from templates
 
 **Fixes**
 
