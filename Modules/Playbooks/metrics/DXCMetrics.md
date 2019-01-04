@@ -20,7 +20,7 @@ iconURI:'cup.png'
 })
 with count(*) as dummy
 MERGE (m:DXCMetric {
-order:'2',
+order:'4',
 title:'60+',
 subtext:'years of innovation',
 iconURI:'innovation.png'
@@ -28,14 +28,14 @@ iconURI:'innovation.png'
 with count(*) as dummy
 
 MERGE (m:DXCMetric {
-order:'3',
+order:'7',
 title:'#19',
 subtext:'of CR Magazine’s 100 Best Corporate Citizens for 2018',
 iconURI:'corporateresponsibility.png'
 })
 with count(*) as dummy
 MERGE (m:DXCMetric {
-order:'4',
+order:'2',
 title:'250+',
 subtext:'partner network with best-of-breed partners, 16 strategic partners',
 iconURI:'alliances.png'
@@ -49,7 +49,7 @@ iconURI:'employees.png'
 })
 with count(*) as dummy
 MERGE (m:DXCMetric {
-order:'6',
+order:'8',
 title:'70+',
 subtext:'countries',
 iconURI:'global.png'
@@ -57,14 +57,14 @@ iconURI:'global.png'
 with count(*) as dummy
 
 MERGE (m:DXCMetric {
-order:'7',
+order:'3',
 title:'~6,000',
 subtext:'clients, 200+ Fortune 500 companies',
 iconURI:'communities.png '
 })
 with count(*) as dummy
 MERGE (m:DXCMetric {
-order:'8',
+order:'6',
 title:'9',
 subtext:'streamlined offering families',
 iconURI:'offerings.png'
