@@ -11,10 +11,11 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer|Playbooks
 - Roadmaps : Any DXC Employee can view any other account roadmap
 
 **Minor**
-- Roadmaps : removed attachments from templates
+- Roadmaps : Removed attachments from templates
+- Roadmaps : UI revisions to Program Manager
 
 **Fixes**
-
+- Solutions : Removed Category from the Offering submission form
 
 ---
 #### Scripts
