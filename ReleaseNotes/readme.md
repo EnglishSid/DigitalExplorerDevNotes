@@ -1,8 +1,8 @@
 Trends|Solutions|Roadmaps|Workspaces|Explorer|Playbooks
 |----|----|----|----|----|---
-|DXC 2.0.4|DXC 3.0.3|DXC 2.0.3|DXC 2.0.2|1.0.0
+|DXC 2.0.6|DXC 3.0.6|DXC 2.0.5|DXC 2.0.2|1.0.0
 
-### Release date : 
+### Release date : 14th Jan 2019
 
 #### New
 **Major** 
@@ -26,9 +26,9 @@ https://github.dxc.com/DigitalExplorer/DeveloperNotes/blob/master/Modules/Playbo
 #### Builds
 
 - [x] DE-CORE
-- [ ] dxc-digitalexplorer-roadmaps
-- [ ] dxc-digitalexplorer-solutions
-- [ ] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-trends
 - [ ] dxc-digitalexplorer-workspaces
 - [x] dxc-digitalexplorer-playbooks
 - [ ] dxc-digitalexplorer-graph-explorer
