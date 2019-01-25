@@ -1,6 +1,51 @@
 Trends|Solutions|Roadmaps|Workspaces|Explorer|Playbooks
 |----|----|----|----|----|---
-|DXC 2.0.6|DXC 3.0.6|DXC 2.0.5|DXC 2.0.2|1.0.0
+|DXC 2.0.6|DXC 3.0.6|DXC 2.0.5|DXC 2.0.2| |1.0.0
+
+### Release date : 
+
+#### New
+**Major** 
+- Workspaces : Document reader
+- Platform metrics : dedicated module to view the contributions and usage across the full DE platform
+
+**Minor**
+- Playbooks : sort order options for trends and solutions
+- Playbooks : allow author to edit playbook from viewer
+- Playbooks : group users roles into one Contact area
+- Playbooks : smart image uploading (any images and crop)
+- Playbooks : markdown preview in creator
+- Playbooks : ensure only DXC Employees can view playbooks with restricted solutions
+- Playbooks : make it clear when a DXC employee that a playbook has restricted solutions
+- Roadmaps : removed footer from working canvas
+- Solutions : Solution Model viewer improvements
+- Workspaces : removed footer from working canvas
+- Workspaces : general UI improvements (clear colours on each card/learn more link position, refresh of workspace after window re-sizing)
+
+**Fixes**
+- Stories - fix filter and share issue
+- Roadmaps - Roadmap type  correctly shown within summary title
+
+---
+#### Scripts
+
+
+
+#### Builds
+
+- [ ] DE-CORE
+- [ ] dxc-digitalexplorer-roadmaps
+- [ ] dxc-digitalexplorer-solutions
+- [ ] dxc-digitalexplorer-trends
+- [ ] dxc-digitalexplorer-workspaces
+- [ ] dxc-digitalexplorer-playbooks
+- [ ] dxc-digitalexplorer-graph-explorer
+
+----
+
+Trends|Solutions|Roadmaps|Workspaces|Explorer|Playbooks
+|----|----|----|----|----|---
+|DXC 2.0.6|DXC 3.0.6|DXC 2.0.5|DXC 2.0.2| |1.0.0
 
 ### Release date : 14th Jan 2019
 
