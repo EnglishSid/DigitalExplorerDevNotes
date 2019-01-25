@@ -67,4 +67,5 @@ needs more work, as there is no clear owner of the capability, every solution ha
 
 
 #### Open points
-- Would prefer a full "drawing" UI
+- Would prefer a full "drawing" UI for add/edit
+- solution datasheet model view needs to be developed to show the L3 details - expand the `plus` symbols
