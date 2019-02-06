@@ -16,7 +16,7 @@
 - Ownership and usage of lower level components 
 
 
-[**Blackboard images**](wall.md)
+[**Blackboard images**](walls.md)
 
 
 ### Revised Solution Model (Draft)
