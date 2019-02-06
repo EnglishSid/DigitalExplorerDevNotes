@@ -16,7 +16,7 @@
 - Ownership and usage of lower level components 
 
 
-![chalkboard](images/wall.jpg)
+[**Blackboard images**](wall.md)
 
 
 ### Revised Solution Model (Draft)
