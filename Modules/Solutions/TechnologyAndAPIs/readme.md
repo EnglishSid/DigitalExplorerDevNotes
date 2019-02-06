@@ -13,6 +13,10 @@
 ### Challenges
 - The UI needs to be carefully considered 
 - Performance of saving solutions model 
+- Ownership and usage of lower level components 
+
+
+![chalkboard](images/wall.jpg)
 
 
 ### Revised Solution Model (Draft)
