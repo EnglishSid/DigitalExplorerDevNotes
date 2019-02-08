@@ -11,6 +11,9 @@
 |Infrastructure|Devices,Cloud Infrastructure and Hosting,Structured and Unstructured Data,Network and Telecom
 |System Management & Operations|Self Service,Integration Monitoring,Automation,SIAM / ITSM
 
+
+![image](canvas.png)
+
 ~~~
 ///UX
 MATCH (tg:TechnologyGroup {name:'UX'})
