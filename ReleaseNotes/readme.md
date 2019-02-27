@@ -1,8 +1,202 @@
-Trends|Solutions|Roadmaps|Workspaces|Explorer|Playbooks
-|----|----|----|----|----|---
-|DXC 2.0.6|DXC 3.0.6|DXC 2.0.5|DXC 2.0.2| |1.0.0
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.0|DXC 3.0.9|DXC 2.1.0|DXC 3.0.3|1.0.1|1.0.1|1.0.0|-
 
 ### Release date : 
+
+#### New
+**Major** 
+- Platform : New landing page
+- Solutions : Solution Champion Achievement
+- Workspaces : Read don't store documents 
+- Workspaces : Option to read a remote URL
+
+
+**Minor**
+- Solutions : no longer connecting `Person` to `WordNet`
+- Trends : Trend to Solution search - improved the Solutions error message when no solutions are found
+
+**Fixes**
+- Platform : fix to manage the CSC account migrations 
+- Roadmaps : alignment fix for ideas UI
+- Solutions : First implementation date - allows for past dates
+- Solutions : show labels on Graph view within solution datasheet
+
+
+### Overview video 
+- none
+
+#### Scripts
+
+- [Remove `Person` to `WordNet`](BackendReleaseScripts/RemovePersonfromWordNet.md)
+- [Solution Champion Achievement](SolutionChampion.md)
+
+#### Builds
+
+- [x] DE-CORE
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-playbooks
+- [] dxc-digitalexplorer-graph-explorer
+- [] dxc-digitalexplorer-stats
+
+----
+
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Explorer
+|----|----|----|----|----|---|---
+|DXC 2.1.0|DXC 3.0.9|DXC 2.1.0|DXC 3.0.3|1.0.1|1.0.1||
+
+### Release date : Feb 22nd
+
+#### New
+**Major** 
+- **Roadmaps : Open Accounts - any user can request to join or create new accounts**
+- Solutions : Architecture Guild Shareathon Landing page and dashboard.
+- Trends - Default view switched to "In Demand" trends
+
+**Minor**
+- Workspaces : Industry filters applied within the full catalog dock
+- Trends : reordered Trend detail page
+
+**Fixes**
+- Roadmaps : Allow Agenda managers to edit any roadmap
+
+### Overview video 
+- none
+
+#### Scripts
+
+- none
+
+#### Builds
+
+- [x] DE-CORE
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-playbooks
+- [] dxc-digitalexplorer-graph-explorer
+- [] dxc-digitalexplorer-stats
+
+----
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Explorer
+|----|----|----|----|----|---|---
+|DXC 2.0.9|DXC 3.0.8|DXC 2.0.9|DXC 3.0.2|1.0.1|1.0.1||
+
+### Release date : Feb 20th 2019
+
+- Trends : Smart lookup fix for industry trends
+
+### Overview video 
+- none
+
+#### Scripts
+
+- none
+
+#### Builds
+
+- [x] DE-CORE
+- [] dxc-digitalexplorer-roadmaps
+- [] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-trends
+- [] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-playbooks
+- [] dxc-digitalexplorer-graph-explorer
+- [] dxc-digitalexplorer-stats
+
+
+---
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Explorer
+|----|----|----|----|----|---|---
+|DXC 2.0.8|DXC 3.0.8|DXC 2.0.9|DXC 3.0.2|1.0.1|1.0.1||
+
+### Release date : 
+
+#### New
+**Major** 
+- Platform : Stats module - combined usage and contribution into a single viewpoint
+
+**Minor**
+- Workspaces : UI refinement (DE-587)
+
+**Fixes**
+- Playbooks : direct link to playbooks
+- Playbooks :Adding new solutions to existing playbooks
+- Workspaces : search within standard dock
+- Platform : changes to replace hammer.js
+
+### Overview video 
+- none
+
+#### Scripts
+
+- none
+
+#### Builds
+
+- [x] dxc-digitalexplorer-stats
+- [x] DE-CORE
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [x] dxc-digitalexplorer-playbooks
+- [ ] dxc-digitalexplorer-graph-explorer
+
+
+---
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Explorer
+|----|----|----|----|----|---|---
+|DXC 2.0.7|DXC 3.0.7|DXC 2.0.7|DXC 3.0.1|1.0.1|1.0.0||
+
+### Release date : 
+
+#### New
+**Major** 
+- Playbooks : Includes the solution model within the solution pages
+- Platform : New site usage module
+- Workspaces : Recommendation engine for matched content
+
+**Minor**
+- Workspaces : show `matching` count within the workspace card
+- Workspaces : card sort and group by options based on `match` counts
+- Workspaces : size by matching counts
+
+**Fixes**
+- Workspaces : Resolution fixes for X2 tablets
+- Roadmaps : Resolution fixes for X2 tablets
+- Roadmaps : Filters within various pages (ensure regions with a comma are filtered correctly)
+
+#### Scripts
+
+- none
+
+#### Builds
+
+- [x] DE-CORE
+- [x] dxc-digitalexplorer-roadmaps
+- [ ] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [x] dxc-digitalexplorer-playbooks
+- [ ] dxc-digitalexplorer-graph-explorer
+
+---
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Explorer
+|----|----|----|----|----|---
+|DXC 2.0.7|DXC 3.0.7|DXC 2.0.7|DXC 3.0.0|1.0.1|
+
+### Release date : 30th Jan 2019
 
 #### New
 **Major** 
@@ -24,21 +218,22 @@ Trends|Solutions|Roadmaps|Workspaces|Explorer|Playbooks
 
 **Fixes**
 - Stories - fix filter and share issue
-- Roadmaps - Roadmap type  correctly shown within summary title
+- Roadmaps - Correct roadmap type shown in title
+
 
 ---
 #### Scripts
 
-
+- none
 
 #### Builds
 
-- [ ] DE-CORE
-- [ ] dxc-digitalexplorer-roadmaps
-- [ ] dxc-digitalexplorer-solutions
-- [ ] dxc-digitalexplorer-trends
-- [ ] dxc-digitalexplorer-workspaces
-- [ ] dxc-digitalexplorer-playbooks
+- [x] DE-CORE
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [x] dxc-digitalexplorer-playbooks
 - [ ] dxc-digitalexplorer-graph-explorer
 
 ----
