@@ -1,9 +1,95 @@
 
 Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 |----|----|----|----|----|---|---|---
-|DXC 2.1.0|DXC 3.0.9|DXC 2.1.0|DXC 3.0.3|1.0.1|1.0.1|1.0.0|-
+|DXC 2.1.0|DXC 3.0.9|DXC 2.1.1|DXC 3.0.3|1.0.1|1.0.1|1.0.0|-
 
 ### Release date : 
+
+#### New
+**Major** 
+- Upgrade to Neo4j 3.5.3
+- Workspaces : **SEND TO**
+
+**Minor**
+- Roadmaps : New Client Journey Map
+- Workspaces : Download to CSV
+- Workspaces : View as a Graph
+
+**Fixes**
+- Trends : Stats information page fixes
+- Trends : Add technology trend to workspace
+- Trends : Add new use case to existing trends - correction on save workflow
+- Roadmaps : Fixed PDF export icon
+- Workspaces : fixes to the header
+- Playbooks : Broken image icon on new playbooks
+- Playbooks : Direct link fixes
+
+### Overview video 
+- none
+
+#### Scripts
+
+- none
+
+#### Builds
+
+- [x] DE-CORE
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [x] dxc-digitalexplorer-playbooks
+- [ ] dxc-digitalexplorer-graph-explorer
+- [ ] dxc-digitalexplorer-stats
+- [ ] dxc-digitalexplorer-assets
+
+----
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.0|DXC 3.0.9|DXC 2.1.1|DXC 3.0.3|1.0.1|1.0.1|1.0.0|-
+
+### Release date : 4th March 2019
+
+#### New
+**Major** 
+- Upgrade to Neo4j 3.3.9
+
+
+**Minor**
+- Roadmaps : `Request to Join` included on mange account manager page
+
+**Fixes**
+- none
+
+
+### Overview video 
+- none
+
+#### Scripts
+
+- none
+
+#### Builds
+
+- [x] DE-CORE
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [x] dxc-digitalexplorer-playbooks
+- [] dxc-digitalexplorer-graph-explorer
+- [x] dxc-digitalexplorer-stats
+- [x] dxc-digitalexplorer-assets
+
+----
+
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.0|DXC 3.0.9|DXC 2.1.0|DXC 3.0.3|1.0.1|1.0.1|1.0.0|-
+
+### Release date : 28th Feb 2019
 
 #### New
 **Major** 
@@ -39,9 +125,10 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 - [x] dxc-digitalexplorer-solutions
 - [x] dxc-digitalexplorer-trends
 - [x] dxc-digitalexplorer-workspaces
-- [] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-playbooks
 - [] dxc-digitalexplorer-graph-explorer
-- [] dxc-digitalexplorer-stats
+- [x] dxc-digitalexplorer-stats
+- [x] dxc-digitalexplorer-assets
 
 ----
 
@@ -1052,3 +1139,4 @@ Release date : 24/08/2017
 * BVR : Interactive table to present innovation and risk levels – mix and match dimensions.
 * BVR : Edit from summary 
 * DE : Added source & reference properties to trends 
+* 
