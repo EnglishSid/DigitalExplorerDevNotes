@@ -1,17 +1,59 @@
 
 Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 |----|----|----|----|----|---|---|---
-|DXC 2.1.0|DXC 3.0.9|DXC 2.1.1|DXC 3.0.3|1.0.1|1.0.1|1.0.0|-
+|DXC 2.1.2|DXC 3.1.0|DXC 2.1.3|DXC 3.1.2|1.0.3|1.0.3|1.0.3|-
+
+### Release date : 
+
+#### New
+**Major** 
+
+
+**Minor**
+- Roadmaps : New Client Journey Map
+- Roadmaps : Idea Voting
+
+**Fixes**
+- Playbooks - view playbook from Profile
+- Roadmaps - new roadmap with no value chains fix
+- Solutions - data model view is refreshed on load
+
+### Overview video 
+- 
+
+#### Scripts
+- [Search Indexes](BackendReleaseScripts/March2019NewSearchIndexes.md)
+
+#### Builds
+
+- [x] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [x] dxc-digitalexplorer-home
+- [x] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-stats
+- [x] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [ ] dxc-digitalexplorer-graph-explorer
+
+
+
+---
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.2|DXC 3.1.0|DXC 2.1.3|DXC 3.1.2|1.0.3|1.0.3|1.0.3|-
 
 ### Release date : 
 
 #### New
 **Major** 
 - Upgrade to Neo4j 3.5.3
-- Workspaces : **SEND TO**
+- Workspaces : **Send To..**
+- Workspaces : **Compare**
 
 **Minor**
-- Roadmaps : New Client Journey Map
 - Workspaces : Download to CSV
 - Workspaces : View as a Graph
 
@@ -23,25 +65,29 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 - Workspaces : fixes to the header
 - Playbooks : Broken image icon on new playbooks
 - Playbooks : Direct link fixes
+- Playbooks : Banner text colour
 
 ### Overview video 
-- none
+- 
 
 #### Scripts
-
-- none
+- [Search Indexes](BackendReleaseScripts/March2019NewSearchIndexes.md)
 
 #### Builds
 
-- [x] DE-CORE
+- [x] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [x] dxc-digitalexplorer-home
+- [x] dxc-digitalexplorer-playbooks
 - [x] dxc-digitalexplorer-roadmaps
 - [x] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-stats
 - [x] dxc-digitalexplorer-trends
 - [x] dxc-digitalexplorer-workspaces
-- [x] dxc-digitalexplorer-playbooks
 - [ ] dxc-digitalexplorer-graph-explorer
-- [ ] dxc-digitalexplorer-stats
-- [ ] dxc-digitalexplorer-assets
+
+
+
 
 ----
 
