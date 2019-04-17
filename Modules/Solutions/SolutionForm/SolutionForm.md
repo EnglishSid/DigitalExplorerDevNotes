@@ -7,31 +7,31 @@
 ---
 
 ## Motivations
-_Provide details of the key business and digital transformation trends related to the solution_
-_If an existing trend within Digital Explorer you only need to provide the nam
-|Name | Description
+_Provide details of the key business and digital transformation trends related to the solution_<br>
+_If an existing trend within Digital Explorer you only need to provide the name
+|Name | Description|
 |---|---|
-<name>|<description>
+|<name>|<description>|
 
 ## Functional Capabilities
-_Provide details of the key functional capabilities related to the solution_
+_Provide details of the key functional capabilities related to the solution_<br>
 _If an existing capabilities within Digital Explorer you only need to provide the name_
-Name | Description
----|---|
-<name>|<description>
+|Name | Description|
+|---|---|
+|<name>|<description>|
 
 ## Contacts
-| Name | email address
+| Name | email address|
 |---|---|
-<Name>|<email address>
+|<Name>|<email address>|
 
 ## Links
 | Link | Description
 |---|---|
-<Link>|<description>
+|<Link>|<description>|
 
 ## Industry
-_Place an `x` in the industry segments the solutions addresses_
+_Place an `x` in the industry segments the solutions addresses_<br>
 
 - [ ] Banking & Capital Markets
 - [ ] Communications, Media & Entertainment
