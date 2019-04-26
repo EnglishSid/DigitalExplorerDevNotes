@@ -1,28 +1,37 @@
 
 Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 |----|----|----|----|----|---|---|---
-|DXC 2.1.2|DXC 3.1.0|DXC 2.1.3|DXC 3.1.2|1.0.3|1.0.3|1.0.3|-
+|DXC 2.1.3|DXC 3.1.1|DXC 2.1.4|DXC 3.1.3|1.0.4|1.0.4|1.0.4|-
 
-### Release date : 
+### Release date : Apri
 
 #### New
 **Major** 
-
+- Solutions : Performance improvements 
+  - (Full springdata integration and removal of WordNet)
+- Roadmaps : drag and drop support for risk table
 
 **Minor**
-- Roadmaps : New Client Journey Map
-- Roadmaps : Idea Voting
+
+- Playbooks : improve page turn experience
+- Playbooks : Industry related achievements
+- Platform : Revised the order of the modules on the homepage
+- Trends : added breadcrumbs to industry trends to improvement user navigation
+- Workspaces : "hide the dock" option
+- Workspaces : show industry references for business trends in the info panel
+- Workspaces : highlight relationships in Graph view
+- Workspaces : Size by options within Graph view
+- Workspaces : Slider option to hide nodes below a given relationship count
 
 **Fixes**
-- Playbooks - view playbook from Profile
-- Roadmaps - new roadmap with no value chains fix
-- Solutions - data model view is refreshed on load
+- Platform : issue with roles for @csc.com accounts
+
 
 ### Overview video 
-- 
+- https://dxc.mediaplatform.com/#!/video/3515/DXC+Digital+Explorer+Release+View+:+April+29th
 
 #### Scripts
-- [Search Indexes](BackendReleaseScripts/March2019NewSearchIndexes.md)
+- [Goodbye WordNet](BackendReleaseScripts/goodByeWordNet.md)
 
 #### Builds
 
@@ -35,8 +44,51 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 - [x] dxc-digitalexplorer-stats
 - [x] dxc-digitalexplorer-trends
 - [x] dxc-digitalexplorer-workspaces
-- [ ] dxc-digitalexplorer-graph-explorer
+- [x] dxc-digitalexplorer-graph-explorer
 
+
+---
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.3|DXC 3.1.1|DXC 2.1.4|DXC 3.1.3|1.0.4|1.0.4|1.0.4|-
+
+### Release date : 
+
+#### New
+**Major** 
+- Roadmaps : Idea voting, status & owners
+- Playbooks : Add more pages
+
+**Minor**
+- Roadmaps : New Client Journey Map
+- Roadmaps : Save and close on all forms during edit
+- Training videos : new landing page
+- Workspaces : Secure content - ensure non-DXC users can not view people and non-reference solutions
+
+**Fixes**
+- Playbooks - view playbook from Profile
+- Roadmaps - new roadmap with no value chains fix
+- Solutions - data model view is refreshed on load
+
+### Overview video 
+- 
+
+#### Scripts
+- [Playbook Achievements](https://github.dxc.com/DigitalExplorer/DeveloperNotes/tree/master/Modules/Platform/Achievements/Playbooks/IndustryBadges)
+
+#### Builds
+
+- [x] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [x] dxc-digitalexplorer-home
+- [x] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-stats
+- [x] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [x] dxc-digitalexplorer-graph-explorer
 
 
 ---

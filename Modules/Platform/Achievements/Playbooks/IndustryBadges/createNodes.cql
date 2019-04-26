@@ -13,9 +13,9 @@ MERGE (a:Achievement {name:'PlaybooksIndustrialistInsurance', shortName:'Playboo
 with count(*) as dummy
 MERGE (a:Achievement {name:'PlaybooksIndustrialistManufacturing', shortName:'Playbooks Industrialist: Manufacturing' , description:'Submitted your first Manufacturing Industry Playbook', badgeImageURL:'assets/images/badges/Playbookindustrialistmanufacturing.png', industry:'Manufacturing', module:'playbooks', order:'10'})
 with count(*) as dummy
-MERGE (a:Achievement {name:'PlaybooksIndustrialistPanIndustry', shortName:'Playbooks Industrialist: Pan Industry' , description:'Submitted your first Pan Industry Playbook', badgeImageURL:'assets/images/badges/Playbookindustrialistpanindustry.png', industry:'Public Sector', module:'playbooks', order:'10'})
+MERGE (a:Achievement {name:'PlaybooksIndustrialistPanIndustry', shortName:'Playbooks Industrialist: Pan Industry' , description:'Submitted your first Pan Industry Playbook', badgeImageURL:'assets/images/badges/Playbookindustrialistpanindustry.png', industry:'Pan Industry', module:'playbooks', order:'10'})
 with count(*) as dummy
-MERGE (a:Achievement {name:'PlaybooksIndustrialistPublicSector', shortName:'Playbooks Industrialist: Public Sector' , description:'Submitted your first Public Sector Industry Playbook', badgeImageURL:'assets/images/badges/Playbookindustrialistpublicsector.png', industry:'Pan Industry', module:'playbooks', order:'10'})
+MERGE (a:Achievement {name:'PlaybooksIndustrialistPublicSector', shortName:'Playbooks Industrialist: Public Sector' , description:'Submitted your first Public Sector Industry Playbook', badgeImageURL:'assets/images/badges/Playbookindustrialistpublicsector.png', industry:'Public Sector', module:'playbooks', order:'10'})
 with count(*) as dummy
 MERGE (a:Achievement {name:'PlaybooksIndustrialistTravel', shortName:'Playbooks Industrialist: Travel' , description:'Submitted your first Travel & Transportation Industry Playbook', badgeImageURL:'assets/images/badges/Playbookindustrialisttravel.png', industry:'Travel & Transportation', module:'playbooks', order:'10'})
 
@@ -32,3 +32,8 @@ MERGE (a)<-[r:INCLUDES]-(i)
 RETURN a,i
 
 
+
+
+
+
+(p)-[:HAS {creationDate:pb.creationDate counter:1}]->(a)

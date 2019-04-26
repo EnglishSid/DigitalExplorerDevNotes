@@ -28,3 +28,4 @@ Ensure an the offering family information is aligned with the master dataset on 
 
 - [Data Sync](dataSync.md)
 - [sample calls and data](calls&Data.md)
+- [Retrieve data from DE post load](DEWWSQuery.md)

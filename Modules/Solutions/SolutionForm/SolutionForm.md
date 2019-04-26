@@ -8,7 +8,7 @@
 
 ## Motivations
 _Provide details of the key business and digital transformation trends related to the solution_<br>
-_If an existing trend within Digital Explorer you only need to provide the name
+_If an existing trend within Digital Explorer you only need to provide the name_
 |Name | Description|
 |---|---|
 |name|description|
