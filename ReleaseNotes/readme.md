@@ -1,9 +1,9 @@
 
 Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 |----|----|----|----|----|---|---|---
-|DXC 2.1.3|DXC 3.1.1|DXC 2.1.4|DXC 3.1.3|1.0.4|1.0.4|1.0.4|-
+|DXC 2.1.4|DXC 3.1.2|DXC 2.1.4|DXC 3.1.4|1.0.5|1.0.5|1.0.5|-
 
-### Release date : Apri
+### Release date : May 7th 2019
 
 #### New
 **Major** 
@@ -13,9 +13,11 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 
 **Minor**
 
+- Explorer : Improved the performance 
 - Playbooks : improve page turn experience
 - Playbooks : Industry related achievements
 - Platform : Revised the order of the modules on the homepage
+- Roadmaps : Improve the position of cards to minimize vertical scrolling 
 - Trends : added breadcrumbs to industry trends to improvement user navigation
 - Workspaces : "hide the dock" option
 - Workspaces : show industry references for business trends in the info panel
@@ -43,7 +45,7 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 - [x] dxc-digitalexplorer-solutions
 - [x] dxc-digitalexplorer-stats
 - [x] dxc-digitalexplorer-trends
-- [x] dxc-digitalexplorer-workspaces
+- [ ] dxc-digitalexplorer-workspaces
 - [x] dxc-digitalexplorer-graph-explorer
 
 
