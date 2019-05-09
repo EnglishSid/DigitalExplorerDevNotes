@@ -3,6 +3,44 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 |----|----|----|----|----|---|---|---
 |DXC 2.1.4|DXC 3.1.2|DXC 2.1.4|DXC 3.1.4|1.0.5|1.0.5|1.0.5|-
 
+### Release date : 
+
+#### New
+**Major** 
+
+**Minor**
+- Workspaces : restrictions for non-DXC employees (download and sendto)
+- Workspaces : Improved scrolling within the canvas area
+
+**Fixes**
+- Solutions : Motivation lookup
+
+
+### Overview video 
+- 
+
+#### Scripts
+-
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-home
+- [] dxc-digitalexplorer-playbooks
+- [] dxc-digitalexplorer-roadmaps
+- [] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [ ] dxc-digitalexplorer-workspaces
+- [ ] dxc-digitalexplorer-graph-explorer
+
+---
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.4|DXC 3.1.2|DXC 2.1.4|DXC 3.1.4|1.0.5|1.0.5|1.0.5|-
+
 ### Release date : May 7th 2019
 
 #### New
