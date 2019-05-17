@@ -17,6 +17,7 @@ _If an existing trend within Digital Explorer you only need to provide the name_
 ## Functional Capabilities
 _Provide details of the key functional capabilities related to the solution_<br>
 _If an existing capabilities within Digital Explorer you only need to provide the name_<br>
+
 |Name | Description|
 |---|---|
 |name|description|
