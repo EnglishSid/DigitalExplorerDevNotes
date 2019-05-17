@@ -35,12 +35,12 @@ A playbook can be marked as **Published** or **Private**
 
 | | Shelf Owner|Shelf Member|Playbook Contact|DXC employee|Non-dxc user
 |---|---|---|---|---|---|---|---|
-Private Open book|X|X|X|Error shown|Error shown
-Private Closed book|X|X|X|Error shown|Error shown
-Private DXC only book|X|X|X|Error shown|Error shown
-Published Open book|X|X|X|Error shown|Error shown
-Published Closed book|X|X|X|Error shown|Error shown
-Published DXC only book|X|X|X|Error shown|Error shown
+|Private Open book|X|X|X|Error shown|Error shown
+|Private Closed book|X|X|X|Error shown|Error shown
+|Private DXC only book|X|X|X|Error shown|Error shown
+|Published Open book|X|X|X|Error shown|Error shown
+|Published Closed book|X|X|X|Error shown|Error shown
+|Published DXC only book|X|X|X|Error shown|Error shown
 
 
 ### Public Shelf
@@ -49,12 +49,12 @@ Published DXC only book|X|X|X|Error shown|Error shown
 
 | | Shelf Owner|Shelf Member|Playbook Contact|DXC employee|Non-dxc user
 |---|---|---|---|---|---|---|---|
-Private Open book|X|X|X|X*|X*
-Private Closed book|X|X|X|X*|Error shown
-Private DXC only book|X|X|X|X*|Error shown
-Published Open book|X|X|X|X|X
-Published Closed book|X|X|X|X|Error shown
-Published DXC only book|X|X|X|X|Error shown
+|Private Open book|X|X|X|X*|X*
+|Private Closed book|X|X|X|X*|Error shown
+|Private DXC only book|X|X|X|X*|Error shown
+|Published Open book|X|X|X|X|X
+|Published Closed book|X|X|X|X|Error shown
+|Published DXC only book|X|X|X|X|Error shown
 
 `* Accessible via Direct URL
 
