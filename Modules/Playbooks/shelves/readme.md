@@ -33,8 +33,8 @@ A playbook can be marked as **Published** or **Private**
 
 ![image](images/Private.png)
 
-| | Shelf Owner|Shelf Member|Playbook Contact|DXC employee|Non-dxc user|
-|---|---|---|---|---|---|
+| | Shelf Owner|Shelf Member|Playbook Contact|DXC employee|Non-dxc user
+|---|---|---|---|---|---|---|---|
 |Private Open book|X|X|X|Error shown|Error shown
 |Private Closed book|X|X|X|Error shown|Error shown
 |Private DXC only book|X|X|X|Error shown|Error shown
@@ -47,8 +47,8 @@ A playbook can be marked as **Published** or **Private**
 
 ![image](images/Public.png)
 
-| | Shelf Owner|Shelf Member|Playbook Contact|DXC employee|Non-dxc user|
-|---|---|---|---|---|---|
+| | Shelf Owner|Shelf Member|Playbook Contact|DXC employee|Non-dxc user
+|---|---|---|---|---|---|---|---|
 |Private Open book|X|X|X|X*|X*
 |Private Closed book|X|X|X|X*|Error shown
 |Private DXC only book|X|X|X|X*|Error shown

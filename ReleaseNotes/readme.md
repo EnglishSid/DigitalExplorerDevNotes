@@ -1,38 +1,82 @@
 
 Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 |----|----|----|----|----|---|---|---
-|DXC 2.1.4|DXC 3.1.2|DXC 2.1.4|DXC 3.1.4|1.0.5|1.0.5|1.0.5|-
+|DXC 2.1.4|DXC 3.1.3|DXC 2.1.5|DXC 3.1.5|1.0.6|1.0.5|1.0.5|-
 
 ### Release date : 
 
-#### New
-**Major** 
+**Major**
+- Playbooks : Book Shelves
+- Workspaces : Workspace Groups
 
 **Minor**
-- Workspaces : restrictions for non-DXC employees (download and sendto)
-- Workspaces : Improved scrolling within the canvas area
+- Playbooks : Show industry use cases for trends
 
 **Fixes**
-- Solutions : Motivation lookup
-
-
-### Overview video 
 - 
 
+### Overview video 
+- NONE
+
 #### Scripts
--
+-  WorkspaceGroups.md
+-  PlaybooksShelves.md
 
 #### Builds
 
 - [] dxc-digitalexplorer-assets
-- [] dxc-digitalexplorer-core
+- [x] dxc-digitalexplorer-core
 - [] dxc-digitalexplorer-home
-- [] dxc-digitalexplorer-playbooks
-- [] dxc-digitalexplorer-roadmaps
-- [] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
 - [] dxc-digitalexplorer-stats
 - [] dxc-digitalexplorer-trends
-- [ ] dxc-digitalexplorer-workspaces
+- [x] dxc-digitalexplorer-workspaces
+- [ ] dxc-digitalexplorer-graph-explorer
+
+---
+
+
+Trends|**Solutions**|**Roadmaps**|**Workspaces**|**Playbooks**|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.4|**DXC 3.1.3**|**DXC 2.1.5**|**DXC 3.1.5**|**1.0.6**|1.0.5|1.0.5|-
+
+### Release date : 
+
+**Minor**
+- Workspaces : restrictions for non-DXC employees (download and sendto)
+- Workspaces : Improved scrolling within the canvas area
+- Workspaces : Keep Alive Service - 10 minute check to revalidate authentication token
+- Playbooks : Option to make a playbook restricted DXC employees only
+
+**Fixes**
+- Solutions : Motivation lookup
+- Roadmaps : Fixed filters within various views
+- Roadmaps : Ensure industry is correctly shown when selecting an account (create and manager)
+- Roadmaps : Show solutions against ideas.
+- Roadmaps : Send to Solution fix when description is blank
+- Playbooks : right alignment and scrolling fix for solution capabilities
+- Workspaces : refactor Workspace node label to remove the space
+
+
+### Overview video 
+- NONE
+
+#### Scripts
+- [release script](BackendReleaseScripts/playbooksDXCOnly.md)
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-home
+- [x] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
 - [ ] dxc-digitalexplorer-graph-explorer
 
 ---
