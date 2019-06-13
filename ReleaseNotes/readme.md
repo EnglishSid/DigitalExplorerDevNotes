@@ -1,9 +1,45 @@
 
-Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
+Trends|Solutions|Roadmaps|Workspaces**|**Playbooks|Stats|Landing Page|Explorer
 |----|----|----|----|----|---|---|---
-|DXC 2.1.4|DXC 3.1.3|DXC 2.1.5|DXC 3.1.5|1.0.6|1.0.5|1.0.5|-
+|DXC 2.1.4|DXC 3.1.3|DXC 2.1.5|DXC 3.1.6**|**1.0.7|1.0.5|1.0.5|-
 
 ### Release date : 
+
+**Major**
+- 
+
+**Minor**
+- 
+
+**Fixes**
+- 
+
+### Overview video 
+- NONE
+
+#### Scripts
+-  
+
+#### Builds
+
+- [ ] dxc-digitalexplorer-assets
+- [] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-home
+- [] dxc-digitalexplorer-playbooks
+- [] dxc-digitalexplorer-roadmaps
+- [ ] dxc-digitalexplorer-solutions
+- [ ] dxc-digitalexplorer-stats
+- [ ] dxc-digitalexplorer-trends
+- [ ] dxc-digitalexplorer-workspaces
+- [ ] dxc-digitalexplorer-graph-explorer
+
+---
+
+Trends|Solutions|Roadmaps|**Workspaces**|**Playbooks**|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.4|DXC 3.1.3|DXC 2.1.5|**DXC 3.1.6**|**1.0.7**|1.0.5|1.0.5|-
+
+### Release date : June 7th
 
 **Major**
 - Playbooks : Book Shelves
@@ -13,7 +49,7 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 - Playbooks : Show industry use cases for trends
 
 **Fixes**
-- 
+- PDF export fixes
 
 ### Overview video 
 - NONE
@@ -24,15 +60,15 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 
 #### Builds
 
-- [] dxc-digitalexplorer-assets
+- [ ] dxc-digitalexplorer-assets
 - [x] dxc-digitalexplorer-core
 - [] dxc-digitalexplorer-home
 - [x] dxc-digitalexplorer-playbooks
 - [x] dxc-digitalexplorer-roadmaps
-- [x] dxc-digitalexplorer-solutions
-- [] dxc-digitalexplorer-stats
-- [] dxc-digitalexplorer-trends
-- [x] dxc-digitalexplorer-workspaces
+- [ ] dxc-digitalexplorer-solutions
+- [ ] dxc-digitalexplorer-stats
+- [ ] dxc-digitalexplorer-trends
+- [ ] dxc-digitalexplorer-workspaces
 - [ ] dxc-digitalexplorer-graph-explorer
 
 ---

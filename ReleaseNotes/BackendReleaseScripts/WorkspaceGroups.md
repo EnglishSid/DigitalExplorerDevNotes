@@ -26,3 +26,17 @@ DXC Digital Papers
 DXC Industry primers
 
 
+
+---
+
+moving workspaces
+
+
+~~~
+match (ws:Workspace {name:'Leoni AG 2018'})-[r]-(wsg:WorkspaceGroup),
+(wsg2:WorkspaceGroup {name:'Aptiv'})
+//MERGE (ws)-[:MEMBER_OF]->(wsg2)
+//DELETE r
+return ws,wsg,wsg2
+~~~
+
