@@ -10,7 +10,9 @@ Synchronize solution information from GitHub repositories into the Digital Explo
 - Solution is set as Read-Only with Digital Explorer
 - Digital Explorer ratings and comments are enabled via the solution dataset
 - GitHub repositories to be identified based on a common GitHub `topic` : **`Digital Explorer Solution Sync`**
-- Synchronization to be automated based on updates to the master branch of the associated repository 
+- Synchronization to be automated based on updates to the master branch of the associated repository
+- Business Trends, Technology Trends and Features should reuse existing matching nodes
+- DXC offerings **MUST** match based on the named sub-offering
 - Master (template) repository to be provided with fork and general usage instructions 
   - Empty template and guidelines
   - Example solution documents
@@ -43,3 +45,8 @@ The following template files are required
 
 
 ---
+### Related Digital Explorer enhancement requests
+
+- [Solution alignment with GitHub Content](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues/309)
+- [GitHub Solution Reader](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues/304)
+- [RA-Solution-Model-JSON-GitHub](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues/272)
