@@ -24,6 +24,9 @@ Synchronize solution information from GitHub repositories into the Digital Explo
 
 ![image](InformationFlow.png)
 
+---
+## Solution MetaModel
+The Solution metamodel is documented [here](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/MetaModels/SolutionMetaModel.md)
 
 ---
 ## Template Files
