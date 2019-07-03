@@ -6,13 +6,18 @@ Trends|Solutions|Roadmaps|Workspaces**|**Playbooks|Stats|Landing Page|Explorer
 ### Release date : 
 
 **Major**
-- 
+- Playbooks : interactive pages based on DE dataviews
+- Token based access to the APIs
 
 **Minor**
-- 
+- revised copyright notice on the footer
+- revised link to github repo in footer
+- Workspaces : improved breadcrumbs
 
 **Fixes**
-- 
+- Platform : manage user roles
+- Technology group filters within collaboration module
+- Workspaces : Adjusted work length |(2 characters) for matching content  
 
 ### Overview video 
 - NONE
