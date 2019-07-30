@@ -8,5 +8,8 @@ Allow account team members to find other matching ideas and potential solutions 
 - identify common ideas for joint development/investment
 - reduce duplication
 
+<br>
 
 - [Mock-up Walkthrough](mocks/1.md)
+- [Data model](datamodel.md)
+- [Scoring Logic](Scoring.md)

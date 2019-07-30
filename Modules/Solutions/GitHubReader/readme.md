@@ -18,6 +18,10 @@ Synchronize solution information from GitHub repositories into the Digital Explo
   - Example solution documents
   - Integration with Jenkins instructions (requires request to PDXC Jenkins teams)
   - How to view and validate data sync results
+- Users
+  - DXC Employees
+  - External Partners - need to also manage the registration of new external users in case the partner haven't registered a system account
+- Contacts : there must be at least one DXC employee as a contact for all solutions, including partner content.
 
 ---
 ## Information Flow
