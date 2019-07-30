@@ -13,3 +13,4 @@ Allow account team members to find other matching ideas and potential solutions 
 - [Mock-up Walkthrough](mocks/1.md)
 - [Data model](datamodel.md)
 - [Scoring Logic](Scoring.md)
+- [Big Ideas](bigIdeas.md)

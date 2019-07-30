@@ -16,7 +16,9 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 - Playbooks - Ensure playbook contacts can edit even if they are not a member of the shelf
 - Solutions - Status filter
 - Solutions - Contact look-up fix 
+- Solutions - changes to technology group are saved
 - Trends - Demand curve fix (DE-862)
+- Roadmaps - Fixed paging and filters on the account manager
 - Workspaces - Matching count correction
 
 
@@ -29,14 +31,14 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 #### Builds
 
 - [] dxc-digitalexplorer-assets
-- [x] dxc-digitalexplorer-core
-- [x] dxc-digitalexplorer-home
-- [x] dxc-digitalexplorer-playbooks
-- [x] dxc-digitalexplorer-roadmaps
+- [] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-home
+- [] dxc-digitalexplorer-playbooks
+- [] dxc-digitalexplorer-roadmaps
 - [] dxc-digitalexplorer-solutions
 - [] dxc-digitalexplorer-stats
 - [] dxc-digitalexplorer-trends
-- [x] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-workspaces
 - [] dxc-digitalexplorer-graph-explorer
 
 ---
