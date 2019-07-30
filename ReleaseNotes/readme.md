@@ -1,9 +1,92 @@
 
-Trends|Solutions|Roadmaps|Workspaces**|**Playbooks|Stats|Landing Page|Explorer
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 |----|----|----|----|----|---|---|---
-|DXC 2.1.4|DXC 3.1.3|DXC 2.1.5|DXC 3.1.6**|**1.0.7|1.0.5|1.0.5|-
+|DXC 2.1.6|DXC 3.1.4|DXC 2.1.7|DXC 3.1.8|1.0.9|1.0.5|1.0.6|-
 
 ### Release date : 
+
+**Major**
+- Technical Excellence 2020 - landing page, dashboard and peoples vote.
+
+**Minor**
+- Solutions : added Region filter
+- Playbooks - various UX improvements (DE-880,DE879,DE-885,DE-883)
+
+**Fixes**
+- Playbooks - Ensure playbook contacts can edit even if they are not a member of the shelf
+- Solutions - Status filter
+- Solutions - Contact look-up fix 
+- Trends - Demand curve fix (DE-862)
+- Workspaces - Matching count correction
+
+
+### Overview video 
+- 
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [x] dxc-digitalexplorer-home
+- [x] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-roadmaps
+- [] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+**Trends**|Solutions|**Roadmaps**|**Workspaces**|**Playbooks**|Stats|**Landing Page**|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.6|DXC 3.1.4|DXC 2.1.7|DXC 3.1.8|1.0.9|1.0.5|1.0.6|-
+
+### Release date : 
+
+**Major**
+- 
+
+**Minor**
+- Playbooks - Exit full screen icon on screen
+- Playbooks - Improved `Private` and `DXC Only` banner icons
+- Workspaces - Option to associate a workspace group with one or more accounts
+- Workspace - SendTo playbook: List of trends ordered by occurrence 
+- Workspace - Filter recommended solutions based on solution
+
+**Fixes**
+- Timeout issue impacting workspaces and playbooks
+
+
+### Overview video 
+- 
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [x] dxc-digitalexplorer-home
+- [x] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-roadmaps
+- [] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+**Trends**|**Solutions**|**Roadmaps**|**Workspaces**|**Playbooks**|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|**DXC 2.1.5**|**DXC 3.1.4**|**DXC 2.1.6**|**DXC 3.1.7**|**1.0.8**|1.0.5|1.0.5|-
+
+### Release date : July 4th 2019
 
 **Major**
 - Playbooks : interactive pages based on DE dataviews
@@ -16,27 +99,30 @@ Trends|Solutions|Roadmaps|Workspaces**|**Playbooks|Stats|Landing Page|Explorer
 
 **Fixes**
 - Platform : manage user roles
-- Technology group filters within collaboration module
-- Workspaces : Adjusted work length |(2 characters) for matching content  
+- Trends : Technology group filters within collaboration module
+- Trends : Export to PDF
+- Workspaces : Adjusted work length |(2 characters) for matching content 
+- Roadmaps : Export to PDF
+
 
 ### Overview video 
-- NONE
+- https://dxc.mediaplatform.com/#!/video/3970/digital-explorer-release-video-july-4th?t=0
 
 #### Scripts
--  
+-  NONE
 
 #### Builds
 
-- [ ] dxc-digitalexplorer-assets
-- [] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
 - [] dxc-digitalexplorer-home
-- [] dxc-digitalexplorer-playbooks
-- [] dxc-digitalexplorer-roadmaps
-- [ ] dxc-digitalexplorer-solutions
-- [ ] dxc-digitalexplorer-stats
-- [ ] dxc-digitalexplorer-trends
-- [ ] dxc-digitalexplorer-workspaces
-- [ ] dxc-digitalexplorer-graph-explorer
+- [x] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [x] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
 
 ---
 
