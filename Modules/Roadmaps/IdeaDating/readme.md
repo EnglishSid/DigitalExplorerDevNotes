@@ -10,7 +10,9 @@ Allow account team members to find other matching ideas and potential solutions 
 
 
 ![image](images/AccountFlow.png)<br>
-![image](images/rCTOFlow.png)
+_the account flow_<br><br>
+![image](images/rCTOFlow.png)<br>
+_the regional CTO flow_
 
 
 <br>
