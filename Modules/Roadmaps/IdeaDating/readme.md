@@ -8,6 +8,11 @@ Allow account team members to find other matching ideas and potential solutions 
 - identify common ideas for joint development/investment
 - reduce duplication
 
+
+![image](images/AccountFlow.png)<br>
+![image](images/rCTOFlow.png)
+
+
 <br>
 
 - [Mock-up Walkthrough](mocks/1.md)
