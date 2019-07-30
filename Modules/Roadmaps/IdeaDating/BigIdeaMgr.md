@@ -19,3 +19,4 @@ Single viewpoint for rCTO's and Innovation leads to review current Big Ideas.<br
 
 
 ![](mocks/images/BigIdeaMgr.png)<br>
+

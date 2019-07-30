@@ -19,3 +19,5 @@ a group of related ideas can be used to generate a big idea<br>
 ![](mocks/images/BigIdea3.png)<br>
 
 
+
+## [NEXT](BigIdeaMgr.md)
