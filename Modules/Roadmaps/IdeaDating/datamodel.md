@@ -1,9 +1,41 @@
 # Idea Dating
+
+![](images/BigIdeaModel.png)<br>
+
+## Information captured within Ideas
+
+
+- Name
+- Description
+- Business Value
+- SFDC ID
+- Revenue Forecast values (by ASD stage)
+- Estimated Completion Dates (by ASD stage)
+- Business Goals
+- Business KPI's
+- Trends
+- Owner
+- Status (Approved/Rejected)
+
+## Big Idea Information
+
+- Name
+- Description
+- Business Value
+- SFDC ID
+- Region
+- Sub Industry
+- Owner
+- Business Goals
+- Business KPI's
+- Trends
+
+
 ## Cloning an existing solution
 
 When a user selects an existing solution to be copied a relationship should be created between both the `idea` and the source `solution`<br>
 
-![](images/dataModel.png)<br>
+
 
 ### Retained source solution information
 
