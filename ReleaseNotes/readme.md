@@ -1,4 +1,90 @@
 
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.6|DXC 3.1.5|DXC 2.1.8|DXC 3.1.8|1.0.10|1.0.5|1.0.6|-
+
+### Release date : Aug 2nd 2019
+
+**Major**
+- 
+
+**Minor**
+- 
+
+**Fixes**
+- 
+- 
+
+
+### Overview video 
+- 
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-home
+- [x] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.6|DXC 3.1.5|DXC 2.1.8|DXC 3.1.8|1.0.10|1.0.5|1.0.6|-
+
+### Release date : Aug 2nd 2019
+
+**Major**
+- Solutions 
+  - Revised form layout
+  - Markdown toolbar
+  - Keep alive during edit
+
+**Minor**
+- Roadmaps : SFDC ID moved to a dedicated data node
+
+**Fixes**
+- Roadmaps : Account manager (DE-953)
+- Graphview fixed (DE-949)
+- 
+
+
+### Overview video 
+- 
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-home
+- [x] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+
+
+
 Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 |----|----|----|----|----|---|---|---
 |DXC 2.1.6|DXC 3.1.4|DXC 2.1.7|DXC 3.1.8|1.0.9|1.0.5|1.0.6|-
