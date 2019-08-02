@@ -38,7 +38,7 @@ merge (p)-[:REGISTERED_TO]->(c)
 #### 1
 ~~~ 
 match (p:Person)--(c:Company {name:'DXC Technology'})
-set p.empl_status="na"
+set p.employeeStatus="na"
 ~~~
 
 #### 2
@@ -50,12 +50,12 @@ match (p:Person)-[r:REPORTS_TO]-(p2:Person) delete r
 ~~~
 LOAD csv with headers from "file:///HRDD.csv" as DEHRDD
 MERGE (p:Person {email:DEHRDD.EMAIL_ADDR})
-set p.emplid=DEHRDD.EMPLID
-set p.empl_status='A' 
+set p.employeeId=DEHRDD.EMPLID
+set p.employeeStatus='A' 
 set p.name=DEHRDD.NAME2+' '+DEHRDD.NAME
 MERGE (p)-[:REGISTERED_TO]->(c:Company {name:'DXC Technology'})
-return p,c
 ~~~
+
 
 
 #### 4
