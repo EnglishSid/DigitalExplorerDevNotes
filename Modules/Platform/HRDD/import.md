@@ -29,7 +29,7 @@ merge (p)-[:REGISTERED_TO]->(c)
 ~~~
 
 
-1. make all dxc employees as empl_status=na
+1. Set all dxc employees empl_status as null
 2. remove reporting relationship
 3. merge in new records and set empl_status
 4. reset reporting relationship
@@ -38,7 +38,7 @@ merge (p)-[:REGISTERED_TO]->(c)
 #### 1
 ~~~ 
 match (p:Person)--(c:Company {name:'DXC Technology'})
-set p.employeeStatus="na"
+set p.employeeStatus=null
 ~~~
 
 #### 2
@@ -49,11 +49,13 @@ match (p:Person)-[r:REPORTS_TO]-(p2:Person) delete r
 
 ~~~
 LOAD csv with headers from "file:///HRDD.csv" as DEHRDD
+MATCH (c:Company {name:'DXC Technology'})
+WITH DEHRDD,c
 MERGE (p:Person {email:DEHRDD.EMAIL_ADDR})
 set p.employeeId=DEHRDD.EMPLID
 set p.employeeStatus='A' 
 set p.name=DEHRDD.NAME2+' '+DEHRDD.NAME
-MERGE (p)-[:REGISTERED_TO]->(c:Company {name:'DXC Technology'})
+MERGE (p)-[:REGISTERED_TO]->(c)
 ~~~
 
 
