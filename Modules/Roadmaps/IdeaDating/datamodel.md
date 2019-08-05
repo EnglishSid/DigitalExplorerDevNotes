@@ -1,6 +1,6 @@
 # Idea Dating
 
-![](images/BigIdeaModel.png)<br>
+![](images/dataModel.png)<br>
 
 ## Information captured within Ideas
 
