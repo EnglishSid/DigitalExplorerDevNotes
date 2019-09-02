@@ -1,11 +1,12 @@
 # DXC Digital Explorer ~ New release just deployed
 
-- **Solutions : Technical Excellence 2020** (landing page, submissions dashboard, people vote)
-- **Solutions : Improved Capture forms (markdown tool, accounts and industry, keep alive service)
+- **Playbooks** : Analytics (DE-933)
+- **Roadmaps** : Capture revenue forecast information for ideas (DE-922)
+- **Solutions** - Allow a solution to be related to a business area (DE-898)
 
 _Various minor fixes_
 
-#### [Release notes](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2019.07.31.md)
-#### [Release notes](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2019.08.02.md)
+#### [Release notes](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2019.09.02.md)
+#### [Overview Video](https://dxc.mediaplatform.com/#!/video/4347/Digital+Explorer+-+September+2nd+Release+Video)
 
 #DigitalExplorer #Accelerate2Digital

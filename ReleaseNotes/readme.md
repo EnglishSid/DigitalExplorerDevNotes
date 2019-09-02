@@ -2,26 +2,42 @@
 
 Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 |----|----|----|----|----|---|---|---
-|DXC 2.1.6|DXC 3.1.5|DXC 2.1.8|DXC 3.1.8|1.0.10|1.0.5|1.0.6|-
+|DXC 2.1.6|DXC 3.1.10|DXC 2.1.10|DXC 3.1.10|1.1.0|1.0.6|1.0.6|-
 
-### Release date : Aug 2nd 2019
+### Release date : 
 
 **Major**
-- 
+- Roadmaps : Capture revenue forecast information for ideas (DE-922)
+- Playbooks : Analytics (DE-933)
+- Solutions - Allow a solution to be related to a business area (DE-898)
 
 **Minor**
-- 
+- Playbooks UX improvements 
+  - Summary view - show approved/all ideas (DE-884)
+  - Compare view - do not show attachments (DE-882)
+  - Compare and Graph views - tooltips (DE-881 & DE879)
+  - Markdown toolbar (DE-905)
+  
+
+- Solutions - Revised Solution datasheet and forms to present account and industry information
+
+- Workspaces UX improvements
+  - Tooltips within Graph view (DE-920)
+  - Node legend (DE-919 & DE-917)
+  - Tooltips within Compare view (DE-918)
+  - 
 
 **Fixes**
-- 
-- 
+- Playbooks - risk table - toggle fix
+- Playbooks - changes to compare view
+- Solutions - Industry, Category, Account save fixes
 
 
 ### Overview video 
-- 
+- https://dxc.mediaplatform.com/#!/video/4347/Digital+Explorer+-+September+2nd+Release+Video
 
 #### Scripts
--  
+-  None
 
 #### Builds
 
@@ -33,11 +49,43 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 - [x] dxc-digitalexplorer-solutions
 - [] dxc-digitalexplorer-stats
 - [] dxc-digitalexplorer-trends
-- [] dxc-digitalexplorer-workspaces
+- [x] dxc-digitalexplorer-workspaces
 - [] dxc-digitalexplorer-graph-explorer
 
 ---
 
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.6|DXC 3.1.5|DXC 2.1.9|DXC 3.1.9|1.0.10|1.0.5|1.0.6|-
+
+### Release date : Aug 22nd 2019
+
+**Fixes**
+- Workspaces - Ensure region node is not duplicated
+- Roadmaps - Ensure training account doesn't create duplicate region nodes.
+
+
+### Overview video 
+- None
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-home
+- [x] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-roadmaps
+- [] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
 
 
 Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
