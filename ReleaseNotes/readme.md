@@ -2,7 +2,45 @@
 
 Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 |----|----|----|----|----|---|---|---
-|DXC 2.1.8|DXC 3.1.13|DXC 3.0.0|DXC 3.1.11|1.1.2|1.0.6|1.0.6|-
+|DXC 2.1.8|DXC 3.1.13|DXC 3.0.0|DXC 3.1.12|1.1.2|1.0.6|1.0.6|-
+
+### Release date : 
+
+**Major**
+- 
+
+**Minor**
+- 
+
+**Fixes**
+- 
+
+
+### Overview video 
+- None
+
+#### Scripts
+-  None
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-home
+- [] dxc-digitalexplorer-playbooks
+- [] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+
+Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
+|----|----|----|----|----|---|---|---
+|DXC 2.1.8|DXC 3.1.13|DXC 3.0.0|DXC 3.1.12|1.1.2|1.0.6|1.0.6|-
 
 ### Release date : Sept 19th 2019
 
