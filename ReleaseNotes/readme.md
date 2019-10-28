@@ -1,8 +1,14 @@
 
+|Module|Version|
+|---|---|
+|Trends | 2.1.8
+|Solutions | 3.1.14
+|Roadmaps | 3.0.1
+|Workspaces | 3.1.12
+|Playbooks |1.1.4
+|Stats| 1.0.6
+|Landing Page | 1.0.6
 
-Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
-|----|----|----|----|----|---|---|---
-|DXC 2.1.8|DXC 3.1.13|DXC 3.0.0|DXC 3.1.12|1.1.2|1.0.6|1.0.6|-
 
 ### Release date : 
 
@@ -13,7 +19,66 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 - 
 
 **Fixes**
+- Solutions : Show categories in search results (DE-1025)
+- Solutions : Ensure markdown format changes are saved (DE-1062)
+- Solutions : Fixed motivation description validations (DE-1035)
+
+
+### Overview video 
+- None
+
+#### Scripts
+-  None
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-home
+- [] dxc-digitalexplorer-playbooks
+- [] dxc-digitalexplorer-roadmaps
+- [] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+|Module|Version|
+|---|---|
+|Trends | 2.1.8
+|Solutions | 3.1.14
+|Roadmaps | 3.0.1
+|Workspaces | 3.1.12
+|Playbooks |1.1.4
+|Stats| 1.0.6
+|Landing Page | 1.0.6
+
+
+### Release date : 
+
+**Major**
 - 
+
+**Minor**
+- Playbooks
+  - Shelf and Playbook tooltips (DE-1029)
+  - Shelf and playbook sort order (DE-1034)
+  - New Page Position (DE-1026) 
+  - Custom Page titles (DE-1039)
+  - Page titles shown in sorter (DE-1040)
+  - Resize text forms (DE-1044)
+  - Default values for risk table (DE-1007)
+  - Improve placement of Save & Cancel buttons (DE-1009)
+  - Improve image compression option (DE-1053)
+  - Added active session validation within the editor (DE-1033)
+  - Warn on cancel (DE-1074)
+  - Search by name on Graph and Compare pages (DE-1024)
+
+**Fixes**
+- Playbooks Stats - corrected wording on charts (DE-1016)
+- Playbooks - Transparent image fix (DE-1037)
 
 
 ### Overview video 
@@ -27,12 +92,59 @@ Trends|Solutions|Roadmaps|Workspaces|Playbooks|Stats|Landing Page|Explorer
 - [] dxc-digitalexplorer-assets
 - [x] dxc-digitalexplorer-core
 - [] dxc-digitalexplorer-home
-- [] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-playbooks
 - [] dxc-digitalexplorer-roadmaps
+- [] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+
+|Module|Version|
+|---|---|
+|Trends | 2.1.8
+|Solutions | 3.1.14
+|Roadmaps | 3.0.1
+|Workspaces | 3.1.12
+|Playbooks |1.1.3
+|Stats| 1.0.6
+|Landing Page | 1.0.6
+
+
+### Release date : Oct 8th 2019
+
+**Major**
+- 
+
+**Minor**
+- Solutions : Origin and Usage graph view (DE-1019)
+- Playbooks : Improvements to the t-map diagram
+
+**Fixes**
+- WWSSync - reset service
+- Idea analyzer - ensure results are correctly managed with the user is not assigned to any account (DE-1031)
+
+
+### Overview video 
+- None
+
+#### Scripts
+-  None
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-home
+- [x] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-roadmaps
 - [x] dxc-digitalexplorer-solutions
 - [] dxc-digitalexplorer-stats
 - [] dxc-digitalexplorer-trends
-- [x] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-workspaces
 - [] dxc-digitalexplorer-graph-explorer
 
 ---
