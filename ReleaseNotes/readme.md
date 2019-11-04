@@ -2,10 +2,10 @@
 |Module|Version|
 |---|---|
 |Trends | 2.1.8
-|Solutions | 3.1.14
+|Solutions | 3.1.15
 |Roadmaps | 3.0.1
-|Workspaces | 3.1.12
-|Playbooks |1.1.4
+|Workspaces | 3.1.13
+|Playbooks |1.1.5
 |Stats| 1.0.6
 |Landing Page | 1.0.6
 
@@ -16,31 +16,36 @@
 - 
 
 **Minor**
-- 
+- Solutions : Create a master reference for the first occurrence of a feature (DE-1063)
+_requires release script_
 
 **Fixes**
 - Solutions : Show categories in search results (DE-1025)
 - Solutions : Ensure markdown format changes are saved (DE-1062)
 - Solutions : Fixed motivation description validations (DE-1035)
+- Trends : Add trend to playbook (DE-1067)
+- Solutions : My Profile / Recent Submissions (DE-1066)
+- Playbooks : Timeout on retrieving shelves (DE-1073)
+- Workspace : Timeout on retrieving groups (DE-1072)
 
 
 ### Overview video 
 - None
 
 #### Scripts
--  None
+-  October2019.md
 
 #### Builds
 
 - [] dxc-digitalexplorer-assets
-- [] dxc-digitalexplorer-core
+- [x] dxc-digitalexplorer-core
 - [] dxc-digitalexplorer-home
-- [] dxc-digitalexplorer-playbooks
+- [x] dxc-digitalexplorer-playbooks
 - [] dxc-digitalexplorer-roadmaps
-- [] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-solutions
 - [] dxc-digitalexplorer-stats
 - [] dxc-digitalexplorer-trends
-- [] dxc-digitalexplorer-workspaces
+- [x] dxc-digitalexplorer-workspaces
 - [] dxc-digitalexplorer-graph-explorer
 
 ---
