@@ -16,6 +16,51 @@
 - 
 
 **Minor**
+- Solutions : Option to make a solution private (DE-813)
+
+**Fixes**
+- Solutions : Depth checks against meta data (DE-1068)
+
+
+### Overview video 
+- None
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core
+- [] dxc-digitalexplorer-home
+- [x] dxc-digitalexplorer-playbooks
+- [] dxc-digitalexplorer-roadmaps
+- [x] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+
+|Module|Version|
+|---|---|
+|Trends | 2.1.8
+|Solutions | 3.1.15
+|Roadmaps | 3.0.1
+|Workspaces | 3.1.13
+|Playbooks |1.1.5
+|Stats| 1.0.6
+|Landing Page | 1.0.6
+
+
+### Release date : 
+
+**Major**
+- 
+
+**Minor**
 - Solutions : Create a master reference for the first occurrence of a feature (DE-1063)
 _requires release script_
 
