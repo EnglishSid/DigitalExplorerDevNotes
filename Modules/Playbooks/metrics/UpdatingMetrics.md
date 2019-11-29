@@ -10,10 +10,9 @@ update the required title and or subtext
 
 ~~~
 MATCH (dm:DXCMetric)
-WHERE dm.title='$21+B'
-SET dm.title='$21B'
+WHERE dm.title='$20+B'
+SET dm.title='~$20B'
 RETURN dm
-
 
 
 
