@@ -33,6 +33,14 @@
 
 ----
 
+![image](images/CanvasFlow.png)
+
+- Canvas will be created from within the Workgroup
+- No dedicated homepage 
+
+
+----
+
 - [Mock-ups](canvasMocks.md)
 - [Data Model](Canvasdatamodel.md)
 
