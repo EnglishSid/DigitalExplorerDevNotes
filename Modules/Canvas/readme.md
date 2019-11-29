@@ -1,5 +1,7 @@
 # Canvas
 
+- Relates to enhancement request: [#427](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues/427)
+
 **N.B. The pains and gains below are not attempting to outline the pains and gains of the VPC/BMC methods, the focus here is on why we potentially need a canvas model within Digital Explorer**
 
 ## Customer Jobs
