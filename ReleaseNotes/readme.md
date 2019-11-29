@@ -13,20 +13,29 @@
 ### Release date : 
 
 **Major**
-- 
+- Workgroups : Workgroups R2 (DE-991)
 
 **Minor**
 - Solutions : Option to make a solution private (DE-813)
+- Playbooks 
+  - Improved contents page (DE-986)
+  - Solution types shown & Scrollbar (DE-983 & DE-1088)
+  - Improved breadcrumbs (DE-992, DE-1006)
+  - Improve the text layout (DE-1038)
+  - Dropped the header (DE-1059)
+  - Support markdown formatting from Trends module (DE-1120)
+  - Autofit/scale for summary table (DE-1043)
+
 
 **Fixes**
-- Solutions : Depth checks against meta data (DE-1068)
+- Solutions : Depth checks against meta data (DE-1065)
 
 
 ### Overview video 
 - None
 
 #### Scripts
--  
+-  [Set existing solutions to public](scripts/Nov2019.md)
 
 #### Builds
 
