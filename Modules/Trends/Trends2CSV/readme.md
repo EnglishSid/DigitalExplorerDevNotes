@@ -12,3 +12,10 @@ Required parameters
 ## JSON 2 CSV
 
 https://json-csv.com/
+
+---
+
+## Worked examples
+
+- [TT](travel/readme.md)
+- [Healthcare](healthcare/readme.md)

@@ -31,6 +31,7 @@
 ## Product
 
 - Canvas add-on within Digital Explorer
+- Support to include Canvas views within DE-Playbooks
 
 
 ----
