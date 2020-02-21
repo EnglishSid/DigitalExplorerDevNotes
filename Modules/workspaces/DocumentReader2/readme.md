@@ -53,6 +53,11 @@ Users can select 1 or more of the matched terms within the viewer.
 ![image](images/documentViewer.png)<br><br>
 
 
+#### Related enhancement requests
+
+- [#294 : Highlight matches](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues/294)
+
+
 ----
 
 ## Release 2
@@ -108,6 +113,10 @@ _not sure yet on final selected card style_
   - Following users relate to the created node
 
 
+#### Related enhancement requests
+
+- [#251 : Key Themes](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues/251)
+
 ----
 
 ## Release 4
@@ -139,8 +148,9 @@ As within the Roadmaps module `Signals` form a key insight into potential future
 `Translated from 'language' to English during analyse`
 
 
+#### Related enhancement requests
 
-
+- [#307 : Language Translation](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/issues/307)
 
 ----
 
