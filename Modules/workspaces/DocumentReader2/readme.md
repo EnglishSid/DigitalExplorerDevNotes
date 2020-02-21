@@ -132,7 +132,7 @@ As within the Roadmaps module `Signals` form a key insight into potential future
 ## Release 5
 ### **Translation**
 
-- Question : Is this visable to user?
+- Question : Is this visible to user?
 
 - Is the detected language just added as a note during the analyse?
 
