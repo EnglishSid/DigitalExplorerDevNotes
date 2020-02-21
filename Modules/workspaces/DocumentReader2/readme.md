@@ -73,11 +73,58 @@ The resync reprocess would remove all existing relationships between the selecte
 ## Release 3
 ### **Highlight key themes**
 
+- disables `Show Matches` and removes the `select matches` dropdown
+- Key theme information card shows number of occurrences
+- Cards ordered highest first
+- selected card triggers highlights within the text window
+- users can step `up` and `down` through matches
+- Option to discard theme (removes from view)
+- Option to add theme as a `Theme` card to Workspace (new card\node type)
+  - Adding the theme to the Workspace also includes the automated `note` detailed the origin of the theme
+
+
+#### Card style
+![image](images/ThemeCard.png)<br>
+
+- Line colour : #DEAFFE
+
+#### Key themes window
+
+![image](images/KeyThemes.png)<br>
+
+Highlights are triggered by single click/touch of the theme card<br>
+
+![image](images/State1.gif) ![image](images/State2.gif)<br>
+_not sure yet on final selected card style_
+
+
+#### Data Model
+
+![image](images/datamodel.png)<br>
+
+- A new `KeyTheme` node is created.
+- Nodes are shared across the Digital Explorer Graph
+  - First user to add creates the nodes
+  - Following users relate to the created node
+
 
 ----
 
 ## Release 4
-### ***Add themes to Signals**
+### **Add themes to Signals**
+
+As within the Roadmaps module `Signals` form a key insight into potential future trends or submissions into the industry taxonomies.
+
+- Allow users to transfer a general `KeyTheme` 
+
+#### Card style
+![image](images/Signal.png)<br>
+
+- Line colour : #009900
+
+#### Info Panel
+
+![image](images/ThemePanel.png)<br>
 
 
 ----
@@ -85,12 +132,22 @@ The resync reprocess would remove all existing relationships between the selecte
 ## Release 5
 ### **Translation**
 
+- Question : Is this visable to user?
+
+- Is the detected language just added as a note during the analyse?
+
+`Translated from 'language' to English during analyse`
+
+
+
+
+
 ----
 
 
 ## Other platform consideration
 
-- Need to also double label "Signal" nodes within Roadmaps to create a single collection
-- Signal to trend is outside of the scope of work here
+- Need to also double label "Signal" nodes within Roadmaps to create a single collection point
+- **Signal to trend is outside of the scope of work here**
 
 
