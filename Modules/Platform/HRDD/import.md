@@ -25,6 +25,8 @@ Include only EMPL_STATUS=A - removes 140,000 rows.
 
 Split the name (B) into 2 columns, using `,` - this is required to change the order from `last, first` to `first, last` when uploading into DE<br>
 
+
+
 ~~~
 
 - Insert new column (C)
@@ -34,6 +36,11 @@ Split the name (B) into 2 columns, using `,` - this is required to change the or
 - In the Convert Text to Columns Wizard, select Delimited > Next.
 
 - **RENAME COLUMN C to NAME2
+
+search and remove any blanks in columns B and C
+
+
+
 ~~~
 
 

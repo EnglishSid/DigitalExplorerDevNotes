@@ -4,6 +4,18 @@ If installing for the first time, please download the latest Neo4j Bloom Server 
 
 ---
 
+
+Development : http://dxcdedev2.centralus.cloudapp.azure.com:7474/browser/bloom/
+Integration : 
+Production : 
+
+dev and int users
+
+Bloom
+Bl00mUs3r!
+
+---
+
 ## Post installation set-up
 
 ### issues
@@ -30,7 +42,9 @@ need to look at connection/password prompts - integrate with existing SAML2 toke
 ### Top trends in a named industry
 
 
-### top trends in workspaces
+### top trends in Workgroup
+
+
 
 
 ### top trends in roadmaps
@@ -40,6 +54,16 @@ need to look at connection/password prompts - integrate with existing SAML2 toke
 
 
 ### top trends in ideas
+
+~~~
+//find common trends in Ideas
+match (wsg:WorkspaceGroup {name:'Smart Cities'})
+optional match (wsg)-[*1..2]->(ia:InnovationAgenda)-[r]-(cvc:ClientValueChain)-[r2]-(cd:ClientDisruptor)-[r3]-(ci:ClientIdea)
+//optional match (wsg)-[:TRIGGERED]-(ia:InnovationAgenda)--(cvc:ClientValueChain)--(cd:ClientDisruptor)--(ci:ClientIdea)
+optional match (ci)-[r4]-(n)
+return wsg,ia,cvc,cd,ci,n,r,r2,r3,r4
+~~~
+
 
 
 

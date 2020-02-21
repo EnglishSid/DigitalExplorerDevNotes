@@ -1,11 +1,12 @@
 # DXC Digital Explorer ~ New release just deployed
 
-**Workgroups** : Workgroups R3 - Comments and References (DE-1078)
-**Solutions** : New "My Solutions" view (DE-1101)
-**Playbooks** : New page layouts (video, references, solutions) (DE-1057)
-    
-_Various UX improvements and fixes_
+**Playbooks** : New page layouts (heatmap, text only page)
+**Workgroups** :Export to image 
+**Solutions** : Improved solution type selector
 
-#### [Release notes](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2020.01.23.md)
+   
+_Plus various UX improvements and fixes_
+
+#### [Release notes](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2020.02.12.md)
 
 #DigitalExplorer

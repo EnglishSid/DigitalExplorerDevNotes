@@ -132,9 +132,9 @@ As within the Roadmaps module `Signals` form a key insight into potential future
 ## Release 5
 ### **Translation**
 
-- Question : Is this visible to user?
+- Question : Is this visible to the users?
 
-- Is the detected language just added as a note during the analyse?
+- Add an automated `Note` to the attachment card within the workspace.
 
 `Translated from 'language' to English during analyse`
 

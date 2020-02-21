@@ -10,6 +10,133 @@
 |Landing Page | 1.0.8
 
 
+### Release date : 
+
+**Major**
+
+
+**Minor**
+- Solutions UX
+  - DXC Only icon (DE-1203)
+  - Extend the character limit for key fields (DE-1237)
+  - Allow for zero features (DE-1236)
+  - Improved "back" button in banner (DE-1071)
+  - Update media/link icons to latest FontAwesome release (DE-990)
+  - Show creation and last modified date on the solution datasheet (DE-1079)
+  - Add/Edit solution cancelation warning (DE-1070)
+  - Improved contacts page layout (DE-997)
+  - Search within Delivery centers (DE-1087)
+  - Close tab validation check during add/edit (DE-1069)
+
+- Roadmaps UX
+  - Suggested solution order based on trend count (DE-1207)
+  - Tooltips for risk/ambition profile table (DE-1200)
+  - Fast edit to Canvas (DE-1201)
+  - Ideas Capture : Improved UI (DE-980)
+  - Improve menu descriptions (DE-1218)
+  - Show description in Summary view (DE-1222)
+  - Rename stakeholder tab (DE-1049)
+
+
+- Playbooks UX
+  - Style of "About DXC" page (DE-1242)
+  - Renamed "DXC Showcase solutions" to "Showcase solutions" (DE-1227)
+  - 
+  
+
+**Fixes**
+- Solutions
+  - DXC Offerings added as feature type `Offering` (DE-1086)
+- Workspaces
+  - Ensure copied roadmaps are shown within the Workgroup (DE-1240)
+
+
+### Overview video 
+- None
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [] dxc-digitalexplorer-core 
+- [] dxc-digitalexplorer-home 
+- [] dxc-digitalexplorer-playbooks 
+- [] dxc-digitalexplorer-roadmaps 
+- [] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.0
+|Solutions | 3.3.0
+|Roadmaps | 3.0.3
+|Workspaces | 4.1.0
+|Playbooks |1.3.0
+|Stats| 1.0.8
+|Landing Page | 1.0.8
+
+
+### Release date : 
+
+**Major**
+- Workspaces
+  - Export Workspace Graph and Compare views as images (DE-1186)
+- Playbooks
+  - Improved image import and cropping (DE-1177)
+  - Page of just text (DE-1181)
+  - Transfer playbook owner to another user (DE-1189)
+  - Zero pages (DE-984)
+  - Heatmaps (DE-1001)
+
+**Minor**
+- Digital Stories - Removed (DE-1028)
+- Solutions - Improved solution selector (DE-1191)
+
+**Fixes**
+- Workspaces : Ensure Graph view represents current canvas view (DE-790)
+- Workspaces : Show ideas created in related Roadmaps (DE-1220)
+- Solutions : Ensure new SubTypes are correctly created (DE-1134)
+- Trends : dropping lifecycle stages on approval (DE-1127)
+
+### Overview video 
+- None
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [] dxc-digitalexplorer-core 
+- [] dxc-digitalexplorer-home 
+- [] dxc-digitalexplorer-playbooks 
+- [] dxc-digitalexplorer-roadmaps 
+- [] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.0
+|Solutions | 3.3.0
+|Roadmaps | 3.0.3
+|Workspaces | 4.1.0
+|Playbooks |1.3.0
+|Stats| 1.0.8
+|Landing Page | 1.0.8
+
+
 ### Release date : Jan 22nd 2020
 
 **Major**
