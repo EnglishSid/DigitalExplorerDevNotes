@@ -76,20 +76,30 @@ The resync reprocess would remove all existing relationships between the selecte
 ----
 
 ## Release 3
-### **Highlight key themes**
+### **Highlight key Themes & Signals**
 
 - disables `Show Matches` and removes the `select matches` dropdown
 - Key theme information card shows number of occurrences
+- Signals card show document themes, which have already been highlighted as a Signal by other users.
 - Cards ordered highest first
 - selected card triggers highlights within the text window
 - users can step `up` and `down` through matches
-- Option to discard theme (removes from view)
+- Option to discard theme (removes from view ~ would be shown again if user relaunches this view)
 - Option to add theme as a `Theme` card to Workspace (new card\node type)
   - Adding the theme to the Workspace also includes the automated `note` detailed the origin of the theme
 
 
 #### Card style
+
+**New Theme**<br>
 ![image](images/ThemeCard.png)<br>
+
+**Existing Theme**<br>
+![image](images/ExistingTheme.png)
+
+**Selected Theme card**<br>
+
+![image](images/SelectedTheme.png)<br>
 
 - Line colour : #DEAFFE
 
@@ -97,10 +107,11 @@ The resync reprocess would remove all existing relationships between the selecte
 
 ![image](images/KeyThemes.png)<br>
 
-Highlights are triggered by single click/touch of the theme card<br>
+- Themes are sorted based on their
+  - 1. Occurrence value
+  - 2. Existing theme created within Digital Explorer
 
-![image](images/State1.gif) ![image](images/State2.gif)<br>
-_not sure yet on final selected card style_
+- Highlights are triggered by single click/touch of the theme card<br>
 
 
 #### Data Model
@@ -109,7 +120,7 @@ _not sure yet on final selected card style_
 
 - A new `KeyTheme` node is created.
 - Nodes are shared across the Digital Explorer Graph
-  - First user to add creates the nodes
+  - First user to add creates the nodes (Person)-[:CREATED {creationDate:}]->(Theme)
   - Following users relate to the created node
 
 
@@ -127,14 +138,51 @@ As within the Roadmaps module `Signals` form a key insight into potential future
 - Allow users to transfer a general `KeyTheme` 
 
 #### Card style
+**New Signal**<br>
+
 ![image](images/Signal.png)<br>
+
+
+**Existing\Shared Signal**<br>
+
+![image](images/ExistingSignal.png)<br>
+
+**Existing\Shared with occurrence count**<br>
+
+![image](images/ExistingSignalOccurrence.png)<br>
+
+**Selected Cards**
+
+![image](images/SignalSelected.png)<br>
+![image](images/SignalSelectedExisting.png)<br>
+
 
 - Line colour : #009900
 
 #### Info Panel
 
+**Theme Panel with option to convert to a signal**<br>
 ![image](images/ThemePanel.png)<br>
 
+**Theme Panel with option to convert to a signal - includes shared theme icon**<br>
+![image](images/ThemePanel2.png)<br>
+
+
+**Signal Information Panel**<br>
+![image](images/SignalPanel.png)<br>
+
+
+
+
+
+#### Data Model
+
+![image](images/SignalModel.png)<br>
+
+- A new `Signal` node is created.
+- Nodes are shared across the Digital Explorer Graph
+  - First user to add creates the nodes (Person)-[:CREATED {creationDate:}]->(Signal)
+  - Following users relate to the created node
 
 ----
 
