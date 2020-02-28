@@ -1,0 +1,1010 @@
+@import "~nouislider/distribute/nouislider.min.css";
+@import "~@ng-select/ng-select/themes/default.theme.css";
+
+@font-face {
+  font-family: "WalsheimProBold";
+  src: url("assets/fonts/GT-Walsheim-Pro-Bold.eot") format('eot');
+  src: url("assets/fonts/GT-Walsheim-Pro-Bold.eot?#iefix") format('embedded-opentype'), url("assets/fonts/GT-Walsheim-Pro-Bold.woff") format('woff');
+}
+
+@font-face {
+  font-family: "WalsheimProRegular";
+  src: url("assets/fonts/GT-Walsheim-Pro-Regular.eot") format('eot');
+  src: url("assets/fonts/GT-Walsheim-Pro-Regular.eot?#iefix") format('embedded-opentype'), url("assets/fonts/GT-Walsheim-Pro-Regular.woff") format('woff');
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: WalsheimProRegular;
+  background-image: url("assets/images/background.jpg");
+  background-size: cover;
+  position: absolute;
+  z-index: -2;
+}
+
+h1 {
+  font-family: "WalsheimProBold";
+  font-size: 48px;
+}
+
+h2 {
+  font-family: "WalsheimProBold";
+  font-size: 32px;
+}
+
+h3 {
+  font-family: "WalsheimProBold";
+  font-size: 24px;
+}
+
+h4 {
+  font-family: "WalsheimProBold";
+  font-size: 18px;
+}
+
+h5 {
+  font-family: "WalsheimProRegular";
+  font-size: 16px;
+}
+
+h6 {
+  font-family: "WalsheimProRegular";
+  font-size: 12px;
+}
+
+h1.light, h2.light, h3.light, h4.light {
+  font-family: "WalsheimProRegular";
+}
+
+h5.bold, h6.bold {
+  font-family: "WalsheimProBold";
+}
+
+h1.underline, h2.underline, h3.underline, h4.underline, h5.underline, h6.underline {
+  text-decoration: underline;
+}
+
+h1.inline, h2.inline, h3.inline, h4.inline, h5.inline, h6.inline {
+  display: inline-block;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+a {
+  color: #000;
+}
+
+.black-text {
+  color: #000000 !important;
+}
+
+.action-bar {
+  position: absolute;
+  top: 0;
+  right: 15px;
+  z-index: 3;
+  background: #000;
+}
+
+.action-bar .separator {
+  position: absolute;
+  display: inline-block;
+  top: 2px;
+  height: 36px;
+  width: 1px;
+  background: #fff;
+}
+
+.action-bar .fa-btn img {
+  filter: invert(100%) sepia(97%) saturate(12%) hue-rotate(197deg) brightness(105%) contrast(104%);
+}
+
+.action-bar .fa-btn:hover img, .action-bar .fa-btn.active img {
+  filter: invert(77%) sepia(100%) saturate(473%) hue-rotate(357deg) brightness(101%) contrast(105%);
+}
+
+.action-bar .fa-btn:hover, .action-bar .fa-btn.active, .action-bar .fa-btn:hover .description, .action-bar .fa-btn.active .description {
+  color: #ffed00;
+}
+
+/** NAVBAR **/
+
+.navbar {
+  border: none;
+  background: #000;
+}
+
+.navbar i {
+  color: #000;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.dropdown-menu.open {
+  display: block;
+}
+
+.dropdown-menu {
+  padding: 0;
+  box-shadow: none;
+  background: #ffffff;
+  border-radius: 0;
+  margin-top: -1px;
+}
+
+.dropdown-menu .dropdown-link {
+  line-height: 40px;
+  height: 100%;
+  cursor: pointer;
+  color: #000000;
+}
+
+.dropdown-menu>li>a {
+  border-bottom: 5px solid #ffffff;
+}
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+  color: #000000;
+  border-bottom: 5px solid #ffed00;
+  background: #ffffff;
+}
+
+/** FORMS **/
+
+.form-control {
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.form-row {
+  border: 1px solid #A9A9A9;
+  padding-bottom: 10px;
+  margin: 15px !important;
+}
+
+label>h6 {
+  margin-bottom: 0;
+}
+
+.alert-danger {
+  background: none;
+  border: none;
+  color: #000000;
+  font-family: "WalsheimProBold";
+  padding: 5px 0 0;
+  margin: 0;
+}
+
+label {
+  margin: 5px 0 0 0;
+  user-select: none;
+}
+
+input.ng-touched.ng-invalid, select.ng-touched.ng-invalid, textarea.ng-touched.ng-invalid {
+  border: 1px solid #000000;
+}
+
+.required:after {
+  content: " *";
+}
+
+.locked {
+  opacity: 0.2;
+  pointer-events: none;
+}
+
+textarea, input, select, .form-control, .uneditable-input {
+  border: 1px solid #A9A9A9;
+  border-radius: 0 !important;
+  box-shadow: none;
+}
+
+input {
+  height: 24px;
+}
+
+table input, table input:focus, input.dropdown-toggle, input.dropdown-toggle:focus {
+  border: none;
+  border-bottom: 1px solid #000000;
+}
+
+textarea:focus, input:focus, select:focus, .form-control:focus, .uneditable-input:focus {
+  box-shadow: none;
+  outline: 0 none;
+  border-color: #000;
+}
+
+input[disabled], .form-control[disabled] {
+  cursor: default;
+  border: 0;
+  background: none;
+  box-shadow: none;
+}
+
+select[disabled] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+select[disabled]::-ms-expand {
+  display: none;
+}
+
+select[disabled]::-ms-expand {
+  display: none;
+}
+
+textarea {
+  resize: none;
+  display: block;
+}
+
+input[type=checkbox], input[type=radio] {
+  display: none;
+}
+
+input[type=checkbox]+label, input[type=radio]+label {
+  cursor: pointer;
+  font-size: 1em;
+}
+
+input[type=checkbox][disabled]+label, input[type=radio][disabled]+label {
+  cursor: default;
+}
+
+input[type=checkbox]+label:before, input[type=radio]+label:before {
+  font-family: FontAwesome;
+  color: #cccccc;
+  font-size: 1.5em;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+input[type=checkbox]+label:before, input[type=radio]+label:before {
+  letter-spacing: 10px;
+}
+
+input[type=checkbox]:checked+label:before, input[type=radio]:checked+label:before {
+  color: #000000;
+  letter-spacing: 10px;
+}
+
+input[type=checkbox]+label:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f0c8";
+  font-weight: 400;
+  vertical-align: bottom;
+  font-size: 1.4em;
+  width: 28px;
+}
+
+input[type=checkbox].check-before+label:before {
+  position: absolute;
+}
+
+input[type=checkbox].check-before+label>* {
+  margin-left: 20px;
+}
+
+input[type=checkbox]:checked+label:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f14a";
+  font-weight: 900;
+  font-size: 1.4em;
+  vertical-align: bottom;
+  width: 28px;
+}
+
+input[type=radio]+label:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f111";
+  font-weight: 400;
+  vertical-align: bottom;
+}
+
+input[type=radio]:checked+label:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f058";
+  font-weight: 900;
+  vertical-align: bottom;
+}
+
+button:focus {
+  outline: none !important;
+}
+
+button[disabled] {
+  cursor: not-allowed;
+}
+
+.btn {
+  border: none;
+  border-radius: 0;
+  font-family: "WalsheimProBold";
+  font-size: 1.2em;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.btn-primary {
+  background: #000000;
+  color: #ffffff;
+  padding: 12px 17px 5px 17px;
+  border-color: #000000;
+  border-bottom: 5px solid #000000;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:hover, .btn-primary:focus:hover, .btn-primary.active:hover {
+  background: #000000;
+  border-color: #000000;
+  border-bottom: 5px solid #ffed00;
+  color: #ffffff;
+  outline: none;
+}
+
+.btn-primary.disabled:hover, .btn-primary[disabled]:hover, .btn-primary.disabled:focus, .btn-primary[disabled]:focus, .btn-primary.focus, .btn-primary:focus {
+  cursor: not-allowed;
+  color: #ffffff;
+  border-color: #000000;
+  border-bottom: 5px solid #ffed00;
+  background-color: #000000;
+  outline: none;
+}
+
+.btn-cancel {
+  background: #ffffff;
+  color: #000000;
+  border: 5px solid #000000;
+}
+
+.btn-cancel:hover, .btn-cancel:focus, .btn-cancel:active, .btn-cancel.active, .btn-cancel:active:hover, .btn-cancel:focus:hover, .btn-cancel.active:hover {
+  border-color: #ffed00;
+  color: #000000;
+}
+
+.btn-icon, .btn-icon-text {
+  color: #000000;
+  font-size: 1.4em;
+  font-family: "WalsheimProBold";
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.btn-icon-text {
+  border-bottom: 5px solid #ffffff;
+}
+
+.btn-icon .fa:hover, .btn-icon .fa:focus {
+  color: #ffed00;
+}
+
+.btn-icon-text:hover, .btn-icon-text:focus {
+  color: #000000;
+  outline: none;
+  border-bottom: 5px solid #ffed00;
+}
+
+.fa-btn[disabled] .btn-icon[disabled], .btn-icon-text[disabled] {
+  cursor: not-allowed;
+}
+
+.fa-btn {
+  cursor: pointer;
+  color: #000000;
+}
+
+.fa-btn:hover, .fa-btn.active {
+  color: #ffed00;
+}
+
+.fa-btn.disabled, .btn-icon-text.disabled {
+  color: #ccc;
+  pointer-events: none;
+}
+
+a:hover, a:focus {
+  color: #000000;
+  text-decoration: none;
+  border-bottom: 5px solid #ffed00;
+}
+
+.link {
+  display: inline-block;
+  cursor: pointer;
+  border-bottom: 5px solid transparent;
+}
+
+.link:hover {
+  border-bottom: 5px solid #ffed00;
+}
+
+.link.slim {
+  border-bottom: 2px solid transparent;
+}
+
+.link.slim:hover {
+  border-bottom: 2px solid #ffed00;
+}
+
+.link-circle {
+  width: 35px;
+}
+
+.link-circle.small {
+  width: 25px;
+  margin-top: -8px;
+  margin-right: 5px;
+}
+
+.text-link-bold {
+  font-family: WalsheimProBold;
+  color: #000000;
+  cursor: pointer;
+  display: block;
+  margin-top: 5px;
+  text-align: center;
+  border-bottom: 5px solid transparent;
+}
+
+.text-link-bold:hover {
+  color: #000000;
+  border-bottom: 5px solid #ffed00;
+}
+
+.text-link-black {
+  color: #000000;
+  cursor: pointer;
+  border-bottom: 5px solid transparent;
+}
+
+.text-link-black:hover {
+  border-bottom: 5px solid #ffed00;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+  border-bottom: 1px solid #d9d9d9;
+  padding: 8px 8px 0 8px;
+}
+
+.table.even>tbody>tr>td {
+  padding: 8px;
+}
+
+.table>tbody>tr.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.table select, .table input {
+  width: 100%;
+}
+
+.action-column {
+  text-align: right;
+}
+
+.action-column button {
+  margin: 0 2px;
+}
+
+.modal-bkg {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  left: 0;
+  top: 0;
+  z-index: 10;
+}
+
+.modal-cnt {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0 1em 1em;
+  bottom: initial;
+  border-radius: 0;
+  background: #ffffff;
+  min-width: 40%;
+  max-height: 90%;
+  overflow-y: auto;
+  transition: width 2s, right 2s;
+  box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.75);
+}
+
+.modal-cnt .btn {
+  width: 150px;
+  display: inline-block;
+  margin: 19px auto auto;
+}
+
+.modal-title {
+  background: #000;
+  margin: 0 -14px;
+  color: #fff;
+  padding: 15px;
+}
+
+/** APP STYLE **/
+
+.row {
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  background: #ffffff;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #000;
+}
+
+.title-container {
+  position: relative;
+  left: 0;
+  margin: 0 0 2%;
+  padding: 30px 130px 30px 30px;
+  border-radius: 0 300px 300px 0;
+  background: #000;
+  color: #fff;
+  width: 50%;
+}
+
+.page-content {
+  position: relative;
+  padding: 3%;
+  min-height: calc(100% - 85px);
+}
+
+.max-width {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.not-selectable {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+hr {
+  margin: 0;
+}
+
+.loading-container {
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  z-index: 999;
+  text-align: center;
+  color: #fff;
+  background: #000;
+}
+
+.loading-spinner {
+  width: 100%;
+  text-align: center;
+  padding: 10%;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+#cards-list .card.disabled {
+  pointer-events: auto;
+  cursor: default;
+}
+
+/** Workspace Creator **/
+
+.background {
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: #000000;
+  z-index: -1;
+}
+
+#creator-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  height: 100%;
+}
+
+#creator {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.card {
+  cursor: move;
+  cursor: -webkit-grab;
+}
+
+.BusinessTrend .tile-top-bar {
+  fill: #64FF00;
+}
+
+.TechnologyTrend .tile-top-bar {
+  fill: #00C9FF;
+}
+
+.Solution .tile-top-bar {
+  fill: #ffed00;
+}
+
+.person, .Person .tile-top-bar {
+  fill: #D9D9D9;
+}
+
+.note, .Note .tile-top-bar {
+  fill: #DEDEDE;
+}
+
+.attachment, .Attachment .tile-top-bar {
+  fill: #666666;
+}
+
+.industry, .Industry .tile-top-bar {
+  fill: #835AA2;
+}
+
+.subindustry, .SubIndustry .tile-top-bar {
+  fill: #BF92DF;
+}
+
+.businessarea, .BusinessArea .tile-top-bar {
+  fill: #FDCEFF;
+}
+
+.instance.filtered {
+  display: none;
+}
+
+.card-title {
+  font-family: "WalsheimProBold";
+  user-select: none;
+  fill: #333;
+}
+
+.disabled .card-title {
+  fill: #ccc;
+}
+
+.card.saving {
+  color: #d9d9d9;
+  opacity: 0.75;
+  pointer-events: none;
+}
+
+.card #card-saving {
+  display: none;
+}
+
+.card.saving #card-saving {
+  display: block;
+}
+
+.card.highlighted .card-bkg {
+  fill: #ffed00 !important;
+}
+
+.workspace-area {
+  stroke: white;
+  stroke-width: 2px;
+  fill: transparent;
+}
+
+.info-block {
+  padding: 5px 10px;
+  overflow-y: auto;
+  border-top: 5px solid #fff;
+}
+
+.card ::-webkit-scrollbar-button {
+  display: none;
+}
+
+.card ::-webkit-scrollbar-thumb {
+  background-color: #000;
+}
+
+.card ::-webkit-scrollbar-thumb:hover {
+  background-color: #000;
+}
+
+.card ::-webkit-scrollbar-track {
+  background-color: #d7d7d7;
+}
+
+.card ::-webkit-scrollbar-track:hover {
+  background-color: #d7d7d7;
+}
+
+.card ::-webkit-scrollbar {
+  width: 2px;
+}
+
+.info-block::-webkit-scrollbar-button {
+  display: none;
+}
+
+.info-block::-webkit-scrollbar-thumb {
+  background-color: #666666;
+}
+
+.info-block::-webkit-scrollbar-thumb:hover {
+  background-color: #666666;
+}
+
+.info-block::-webkit-scrollbar-track {
+  background-color: #d9d9d9;
+}
+
+.info-block::-webkit-scrollbar-track:hover {
+  background-color: #d9d9d9;
+}
+
+.info-block::-webkit-scrollbar {
+  width: 5px;
+}
+
+.gray-scroll::-webkit-scrollbar-button {
+  display: none;
+}
+
+.gray-scroll::-webkit-scrollbar-thumb {
+  background-color: #666666;
+}
+
+.gray-scroll::-webkit-scrollbar-thumb:hover {
+  background-color: #666666;
+}
+
+.gray-scroll::-webkit-scrollbar-track {
+  background-color: #d9d9d9;
+}
+
+.gray-scroll::-webkit-scrollbar-track:hover {
+  background-color: #d9d9d9;
+}
+
+.gray-scroll::-webkit-scrollbar {
+  width: 5px;
+}
+
+/** File Uploader **/
+
+.file-uploader {
+  float: left;
+  overflow: hidden;
+  position: relative;
+  margin-top: 1em;
+  padding: 0;
+  font-size: 1.5em;
+  color: #000000;
+  border-bottom: 5px solid #ffffff;
+  font-family: "WalsheimProBold";
+}
+
+.file-uploader:hover {
+  color: #000000;
+  border-bottom: 5px solid #ffed00;
+}
+
+.file-uploader i {
+  margin: 0 0.2em;
+}
+
+.file-uploader [type=file] {
+  position: absolute;
+  opacity: 0;
+  right: 0;
+  top: 0;
+  cursor: pointer;
+}
+
+.file-uploader-text {
+  float: left;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  margin-left: 1%;
+  margin-top: 1.5em;
+  font-size: 1.2em;
+  color: #ccc;
+}
+
+.file-uploader-text:focus {
+  border: none;
+  border-bottom: 1px solid #ffed00;
+  color: #666;
+}
+
+/** Table fixes **/
+
+.eq-height-col-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.centered-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+}
+
+.div-at-bottom {
+  position: absolute;
+  bottom: 0;
+}
+
+.title {
+  text-align: center;
+}
+
+.title h2, .title h3 {
+  margin-bottom: 15px;
+}
+
+.tooltip {
+  font-family: "WalsheimProRegular" !important;
+  opacity: 1 !important;
+  width: 500px;
+  text-align: center;
+}
+
+.tooltip-inner {
+  display: block;
+  margin: 0 auto;
+  background-color: rgb(000, 201, 255) !important;
+  color: black !important;
+}
+
+.tooltip-arrow {
+  border-bottom-color: rgb(000, 201, 255) !important;
+}
+
+.tooltip-inner>h6 {
+  font-size: 14px;
+}
+
+/** Scroll **/
+
+.dxc-scroll ::-webkit-scrollbar {
+  width: 10px;
+}
+
+.dxc-scroll ::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+.dxc-scroll ::-webkit-scrollbar-thumb {
+  background: #000000;
+  border: 2px solid #fff;
+}
+
+.dxc-scroll-achievement ::-webkit-scrollbar-thumb {
+  background: #333;
+  border: 2px solid #fff;
+  border-radius: 5px;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.circle {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  font-size: 20px;
+  color: #000;
+  line-height: 30px;
+  text-align: center;
+  display: inline-block;
+}
+
+.fa-trash-alt, .fa-pencil-alt {
+  font-size: 0.8em;
+  vertical-align: sub;
+}
+
+.overflow-hidden {
+  overflow: hidden !important;
+}
+
+.workspace-card-icon {
+  width: 40px;
+  height: auto;
+  position: absolute;
+  right: 0px;
+  bottom: 5px;
+}
+
+h1.infoIcon, h2.infoIcon, h3.infoIcon, h4.infoIcon {
+  float: left;
+  font-size: 100px;
+  margin: 10px 10px 0 0;
+  font-weight: bolder;
+}
+
+/** Pagination **/
+
+.pagination-nav {
+  text-align: center;
+  font-family: "WalsheimProBold";
+}
+
+.pagination i {
+  margin: 0 10px;
+}
+
+.pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover, .pagination>.disabled>span, .pagination>.disabled>span:focus, .pagination>.disabled>span:hover, .pagination>li>span, .pagination>li>span:focus, .pagination>li>span:hover {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.pagination>li.disabled>span.pagination-control, .pagination>li.disabled>span:hover.pagination-control {
+  color: #CCCCCC;
+  cursor: not-allowed;
+}
+
+.pagination>li>span.pagination-control {
+  color: #000000;
+  border-bottom: 2px solid #ffffff;
+  margin: 0 20px;
+}
+
+.pagination>li>span:hover.pagination-control {
+  color: #000000;
+  border-bottom: 2px solid #ffed00;
+  background: none;
+}
+
+.pagination>li>span {
+  color: #000000;
+}
+
+.pagination>li>span:hover {
+  background: #ffffff;
+  color: #000000;
+}
+
+.pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+  background: none;
+  color: #000000;
+  box-shadow: inset 0 0 0 2px #000000;
+}

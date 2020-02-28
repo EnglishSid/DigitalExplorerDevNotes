@@ -1,0 +1,1 @@
+![image](images/style_guide.png)<br>
