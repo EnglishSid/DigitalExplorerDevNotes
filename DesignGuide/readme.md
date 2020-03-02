@@ -1,5 +1,8 @@
 # Digital Explorer Design Guidelines
 
+All sizes are 100% em values
+
+
 - [Page Layouts](pagelayouts/PageLayout.md)
   - [Landing Page](pagelayouts/landingpages.md)
   - [Trends](pagelayouts/TrendsPages.md)
@@ -10,4 +13,4 @@
 
 
 - [Style Sheet](StyleSheet.md)
-
+- [Typography](Typography.md)

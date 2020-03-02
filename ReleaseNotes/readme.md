@@ -27,28 +27,43 @@
   - Improved contacts page layout (DE-997)
   - Search within Delivery centers (DE-1087)
   - Close tab validation check during add/edit (DE-1069)
+  - Inline images scale within datasheet (DE-989)
+  - Media - allow users to preview during solution add/edit (DE-1002)
+  - Improved Error reporting (DE-993)
 
 - Roadmaps UX
   - Suggested solution order based on trend count (DE-1207)
+  - Improved filter options for matching solutions (DE-1208)
   - Tooltips for risk/ambition profile table (DE-1200)
   - Fast edit to Canvas (DE-1201)
   - Ideas Capture : Improved UI (DE-980)
   - Improve menu descriptions (DE-1218)
   - Show description in Summary view (DE-1222)
   - Rename stakeholder tab (DE-1049)
-
+  - Add Workspace improved for Suggested solutions (DE-1209)
 
 - Playbooks UX
   - Style of "About DXC" page (DE-1242)
   - Renamed "DXC Showcase solutions" to "Showcase solutions" (DE-1227)
   - 
-  
+
+- Workgroups UX
+  - Warn users when making Workgroups Public (DE-1048)
+  - Support .CSV and .TXT files for document reader (DE-987)
+  - Deleting a Workspace returns user to Workgroup, not homepage (DE-1235)
+  - Improved breadcrumb links (DE-1211)
+  - Support .CSV and .TXT files (DE-)
+  - 
+
+
 
 **Fixes**
 - Solutions
   - DXC Offerings added as feature type `Offering` (DE-1086)
 - Workspaces
   - Ensure copied roadmaps are shown within the Workgroup (DE-1240)
+- Playbooks
+  - Fixed link to "About DXC" Page (DE-1261)
 
 
 ### Overview video 
