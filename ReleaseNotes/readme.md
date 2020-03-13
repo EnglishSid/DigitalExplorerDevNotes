@@ -3,7 +3,7 @@
 |---|---|
 |Trends | 2.2.0
 |Solutions | 3.3.0
-|Roadmaps | 3.0.3
+|Roadmaps | 3.0.5
 |Workspaces | 4.1.0
 |Playbooks |1.3.0
 |Stats| 1.0.8
@@ -45,7 +45,6 @@
 - Playbooks UX
   - Style of "About DXC" page (DE-1242)
   - Renamed "DXC Showcase solutions" to "Showcase solutions" (DE-1227)
-  - 
 
 - Workgroups UX
   - Warn users when making Workgroups Public (DE-1048)
@@ -53,8 +52,15 @@
   - Deleting a Workspace returns user to Workgroup, not homepage (DE-1235)
   - Improved breadcrumb links (DE-1211)
   - Support .CSV and .TXT files (DE-)
-  - 
-
+  - Improved highlight style for Workspace cards (DE-1262)
+  - Sort ideas based on votes (DE-1283)
+  - Suggested Solutions include matching score (DE-1224)
+  - Option to fully expand or collapse a given group (DE-1254)
+  - Move Workspaces between Workgroups (DE-1223)
+  - Layout improvements within Graph View (DE-1212)
+  - Send To Roadmap - improved help information for transferred trends (DE-1239)
+  - Improved the format of the downloaded CSV (DE-1228)
+  - Graph View text size changes when viewing "Size by" (DE-1245)
 
 
 **Fixes**
@@ -64,6 +70,8 @@
   - Ensure copied roadmaps are shown within the Workgroup (DE-1240)
 - Playbooks
   - Fixed link to "About DXC" Page (DE-1261)
+  - Delete fix for playbooks with Solutions (DE-1243)
+  - Playbooks open at correct size in browser window (DE-1244)
 
 
 ### Overview video 
@@ -85,13 +93,57 @@
 - [] dxc-digitalexplorer-workspaces
 - [] dxc-digitalexplorer-graph-explorer
 
+
 ---
 
 |Module|Version|
 |---|---|
 |Trends | 2.2.0
 |Solutions | 3.3.0
-|Roadmaps | 3.0.3
+|Roadmaps | 3.0.5
+|Workspaces | 4.1.0
+|Playbooks |1.3.0
+|Stats| 1.0.8
+|Landing Page | 1.0.8
+
+
+### Release date : March 6th 2020
+
+**Major**
+
+
+**Minor**
+
+
+**Fixes**
+- Roadmaps : Program Groups (DE-1294)
+
+### Overview video 
+- None
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [] dxc-digitalexplorer-core 
+- [] dxc-digitalexplorer-home 
+- [] dxc-digitalexplorer-playbooks 
+- [x] dxc-digitalexplorer-roadmaps 
+- [] dxc-digitalexplorer-solutions
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-trends
+- [] dxc-digitalexplorer-workspaces
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.0
+|Solutions | 3.3.0
+|Roadmaps | 3.0.4
 |Workspaces | 4.1.0
 |Playbooks |1.3.0
 |Stats| 1.0.8
