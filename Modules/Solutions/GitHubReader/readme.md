@@ -26,7 +26,7 @@ Synchronize solution information from GitHub repositories into the Digital Explo
 ---
 ## Information Flow
 
-![image](InformationFlow.png)
+![image](images/InformationFlow.png)
 
 ---
 ## Solution MetaModel
