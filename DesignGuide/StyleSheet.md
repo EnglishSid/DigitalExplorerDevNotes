@@ -7,7 +7,7 @@ H2|GT Walsheim Bold|24px/1.5em|Sentence
 H3|GT Walsheim Bold|18px/1.125em|Sentence
 H4|GT Walsheim Bold|16px/1em|Sentence
 H5|GT Walsheim Regular|14.4px/0.90em|Sentence
-H6|GT Walsheim Regular|13,6/0.85em|Sentence
+H6|GT Walsheim Regular|13.6px/0.85em|Sentence
 SubTitle 1|GT Walsheim Regular|16|Sentence
 SubTitle 2|GT Walsheim Regular|14|Sentence
 Body 1|GT Walsheim Regular|16px/1em|Sentence
