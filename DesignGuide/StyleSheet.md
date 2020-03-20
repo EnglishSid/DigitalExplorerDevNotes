@@ -15,6 +15,7 @@ Body 2|GT Walsheim Regular|14|Sentence
 Button|GT Walsheim Bold|14|All Caps
 Caption|GT Walsheim Regular|12|All Caps
 Caption 2|GT Walsheim Regular|12|Sentence
+Caption 3|GT Walsheim Regular|10|Sentence
 Checkboxes, …|GT Walsheim Regular|14|Sentence
 Dialog 1|GT Walsheim Regular|14|Sentence
 Dialog 2|GT Walsheim Bold|14|Sentence
