@@ -2,21 +2,20 @@
 |Module|Version|
 |---|---|
 |Trends | 2.2.0
-|Solutions | 3.3.0
-|Roadmaps | 3.0.5
-|Workspaces | 4.1.0
-|Playbooks |1.3.0
+|Solutions | 3.5.0
+|Roadmaps | 3.1.0
+|Workspaces | 4.3.0
+|Playbooks |1.5.0
 |Stats| 1.0.8
-|Landing Page | 1.0.8
+|Landing Page | 2.0.0
 
 
 ### Release date : 
 
 **Major**
+- Playbooks : Page of ideas (DE-1076)
 
-
-**Minor**
-- Solutions UX
+- **Solutions UX (DE-988)**
   - DXC Only icon (DE-1203)
   - Extend the character limit for key fields (DE-1237)
   - Allow for zero features (DE-1236)
@@ -31,7 +30,7 @@
   - Media - allow users to preview during solution add/edit (DE-1002)
   - Improved Error reporting (DE-993)
 
-- Roadmaps UX
+- **Roadmaps UX (DE-1206)**
   - Suggested solution order based on trend count (DE-1207)
   - Improved filter options for matching solutions (DE-1208)
   - Tooltips for risk/ambition profile table (DE-1200)
@@ -42,16 +41,22 @@
   - Rename stakeholder tab (DE-1049)
   - Add Workspace improved for Suggested solutions (DE-1209)
 
-- Playbooks UX
+- **Playbooks UX DE-1151)**
   - Style of "About DXC" page (DE-1242)
   - Renamed "DXC Showcase solutions" to "Showcase solutions" (DE-1227)
+  - Confirm before deleting a page (DE-1215)
+  - Improved the Contacts page layout (DE-1171)
+  - Page Control (Pg Up/Pg Down Right Arrow/Left Arrow) (DE-1172)
+  - Allow playbooks to be deleted within shelf view (DE-1223)
+  - Improved Contents Page (DE-1152)
+  - Resize Risk Table based on selected  (DE-1153)
 
-- Workgroups UX
+- **Workgroups UX (DE-979)**
   - Warn users when making Workgroups Public (DE-1048)
   - Support .CSV and .TXT files for document reader (DE-987)
   - Deleting a Workspace returns user to Workgroup, not homepage (DE-1235)
   - Improved breadcrumb links (DE-1211)
-  - Support .CSV and .TXT files (DE-)
+  - Support .CSV and .TXT files (DE-987)
   - Improved highlight style for Workspace cards (DE-1262)
   - Sort ideas based on votes (DE-1283)
   - Suggested Solutions include matching score (DE-1224)
@@ -61,21 +66,27 @@
   - Send To Roadmap - improved help information for transferred trends (DE-1239)
   - Improved the format of the downloaded CSV (DE-1228)
   - Graph View text size changes when viewing "Size by" (DE-1245)
+  - Improved the presentation of "Ideas" (DE-1256)
+  - Show the occurrence counts to users when creating other content (DE-1225 & DE1226)
+  - Enter to confirm on various dialogs (DE-1259)
+  - Option to "load more" within the Dock (DE-1292)
 
+- **Landing Page UX (DE-1279)**
+  - Initial Responsive refactoring work completed
 
 **Fixes**
-- Solutions
+- **Solutions**
   - DXC Offerings added as feature type `Offering` (DE-1086)
-- Workspaces
+- **Workspaces**
   - Ensure copied roadmaps are shown within the Workgroup (DE-1240)
-- Playbooks
+- **Playbooks**
   - Fixed link to "About DXC" Page (DE-1261)
   - Delete fix for playbooks with Solutions (DE-1243)
   - Playbooks open at correct size in browser window (DE-1244)
 
 
 ### Overview video 
-- None
+- https://dxc.mediaplatform.com/#!/video/5484/Digital+Explorer+Release+Video+:+March+20th+2020
 
 #### Scripts
 -  
@@ -83,14 +94,14 @@
 #### Builds
 
 - [] dxc-digitalexplorer-assets
-- [] dxc-digitalexplorer-core 
-- [] dxc-digitalexplorer-home 
-- [] dxc-digitalexplorer-playbooks 
-- [] dxc-digitalexplorer-roadmaps 
-- [] dxc-digitalexplorer-solutions
+- [x] dxc-digitalexplorer-core x
+- [x] dxc-digitalexplorer-home x
+- [x] dxc-digitalexplorer-playbooks x
+- [x] dxc-digitalexplorer-roadmaps x
+- [x] dxc-digitalexplorer-solutions x
+- [ ] dxc-digitalexplorer-trends
+- [x] dxc-digitalexplorer-workspaces x
 - [] dxc-digitalexplorer-stats
-- [] dxc-digitalexplorer-trends
-- [] dxc-digitalexplorer-workspaces
 - [] dxc-digitalexplorer-graph-explorer
 
 
