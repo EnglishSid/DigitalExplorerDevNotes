@@ -47,8 +47,8 @@ To install the Digital Explorer GitHub reader, follow these steps:
 1. Create a repository on Github.dxc.com (The repository can be left empty)
 2. Access the Digital Explorer Sync application on Github
    1. Dev : https://github.dxc.com/github-apps/solutionreaderdev
-   2. INT : 
-   3. Production : 
+   2. INT : https://github.dxc.com/github-apps/digital-explorer-githubreader-int
+   3. Production : https://github.dxc.com/github-apps/digital-explorer-githubreader
 
 ![image](https://github.dxc.com/DigitalExplorer/DeveloperNotes/blob/master/Modules/Solutions/GitHubReader/images/Installing.png)<br>
 
@@ -66,6 +66,20 @@ A confirmation message is shown<br>
 ![image](https://github.dxc.com/DigitalExplorer/DeveloperNotes/blob/master/Modules/Solutions/GitHubReader/images/Installing4.png)<br>
 
 <br>
+
+
+## First time installation
+The first time you install the application, you will need to approve the access requests for the application.
+
+1. Select `Applications` in your profile page
+
+2. for the GitHub reader you will see a request to "Review Request"
+
+![image](https://github.dxc.com/DigitalExplorer/DeveloperNotes/blob/master/Modules/Solutions/GitHubReader/images/AccessRequest1.png)<br>
+
+![image](https://github.dxc.com/DigitalExplorer/DeveloperNotes/blob/master/Modules/Solutions/GitHubReader/images/AccessRequest2.png)<br>
+
+
 
 
 ## Uninstalling
