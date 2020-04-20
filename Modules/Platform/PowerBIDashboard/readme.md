@@ -1,6 +1,7 @@
 # Digital Explorer PowerBI Dashboard
 
-Integration with PowerBI is enabled through the [DE API set-up](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/blob/master/internalContent/DEAPI's/readme.md). 
+![image](images/DE.Dashboard.PowerBI.png)<br>
+
 
 ## Top level view
 *each would drill into the details below*
@@ -13,7 +14,15 @@ Integration with PowerBI is enabled through the [DE API set-up](https://github.d
 - Business Trend insights
 - Orphans
 
-## Workspace Insights
+--- 
+
+![image](images/horizon.png)<br>
+
+## Insights into Market demands
+
+### Workspace Insights
+
+Workspaces represent an generic set of market information, from the analyse of an RFPs through to customer investor material.  Workspaces represent potentially the furthest point on the horizon away from a delivery project.
 
 - #of workgroups
 - #of workspaces
@@ -24,8 +33,9 @@ Integration with PowerBI is enabled through the [DE API set-up](https://github.d
 - Ideas captured
 - Solutions generated
 
+### Roadmap Insights
 
-## Roadmap Insights
+Roadmaps capture a proposed journey to reach a customer goal; they are split into business areas and each follow a set timeframe; Often defined as  **Near term**, **mid term** and **long term** periods.
 
 - #of Roadmaps
 - Filter by Industry or Region 
@@ -36,7 +46,14 @@ Integration with PowerBI is enabled through the [DE API set-up](https://github.d
 - Cluster of similar trends (3+ occurrence pattern?)
 
 
-## Ideas Insights
+[Existing Digital Explorer Roadmap Insights Dashboard](https://digitalexplorer.dxc.com/bvr/insights)
+
+
+### Ideas Insights
+
+Ideas or hypothesis' represent a set of proposal's to either be discussed with the customer or considered for internal review to support investment.  Ideas can be captured within either a **Roadmap** or within a **Workgroup**.  Ideas follow a common information model.
+
+![image](images/IdeaModel.png)<br>
 
 - #of Ideas
 - By region chart
@@ -45,9 +62,16 @@ Integration with PowerBI is enabled through the [DE API set-up](https://github.d
 - Most reference trends (occurrence counts) (global, region, industry)
 - Filter by status 
 - Order by votes
+- order by estimated revenue values
+- Similar Ideas (potential link out to DE idea analyser)
 
+[Existing Digital Explorer Roadmap Insights Dashboard ~ see the Ideas tab](https://digitalexplorer.dxc.com/bvr/insights)
 
-## Solution Insights
+--- 
+
+## Insights into in development and delivered solutions
+
+### Solution Insights
 - #of Solutions
 - Filter by Industry, Region , Account, Delivery Center
 - Filter by type and subType
@@ -58,7 +82,13 @@ Integration with PowerBI is enabled through the [DE API set-up](https://github.d
 - By type chart
 
 
-## Playbook Insights
+ [Existing Digital Explorer Solutions Dashboard](https://digitalexplorer.dxc.com/se/industry-dashboard)
+
+--- 
+
+## Insights into published content
+
+### Playbook Insights
 - #of Playbooks
 - Filter by Industry
 - By Page type chart
@@ -77,3 +107,6 @@ Integration with PowerBI is enabled through the [DE API set-up](https://github.d
 ## Orphans
 *Summary of trends with no or low number of relationships to main objects*
 
+---
+
+Integration with PowerBI is enabled through the [DE API set-up](https://github.dxc.com/DigitalExplorer/Digital-Explorer-Specs/blob/master/internalContent/DEAPI's/readme.md). 
