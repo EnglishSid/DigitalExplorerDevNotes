@@ -1,9 +1,11 @@
-UC1 : Rename business area
-UC2 : add new business area
-UC3 : rename sub-industry
-UC4 : rename industry
-UC5 : add sub-industry
-UC6 : add Industry
+# Managing MetaData
+
+- UC1 : Rename business area
+- UC2 : add new business area
+- UC3 : rename sub-industry
+- UC4 : rename industry
+- UC5 : add sub-industry
+- UC6 : add Industry
 
 
 | 

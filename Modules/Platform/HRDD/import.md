@@ -82,6 +82,7 @@ match (p:Person)-[r:REPORTS_TO]-(p2:Person) delete r
 
 ~~~
 LOAD csv with headers from "file:///DEHRDD.csv" as DEHRDD
+WITH DEHRDD WHERE DEHRDD.EMAIL_ADDR IS NOT NULL
 MATCH (c:Company {name:'DXC Technology'})
 WITH DEHRDD,c
 MERGE (p:Person {email:DEHRDD.EMAIL_ADDR})
@@ -110,6 +111,7 @@ MERGE (p)-[:ASSIGNED]->(r)
 
 ~~~
 LOAD csv with headers from "file:///DEHRDD.csv" as DEHRDD
+WITH DEHRDD WHERE DEHRDD.EMAIL_ADDR IS NOT NULL OR DEHRDD.MANAGER_EMAIL IS NOT NULL
 MATCH (p1:Person {email:DEHRDD.EMAIL_ADDR}),(p2:Person {email:DEHRDD.MANAGER_EMAIL})
 MERGE (p1)-[:REPORTS_TO]->(p2)
 ~~~
@@ -118,10 +120,20 @@ MERGE (p1)-[:REPORTS_TO]->(p2)
 #### 5
 remove any duplicates (from the workday dataset, keep the Global Pass records)
 
+NEEDS SOME WORK!
+
 ~~~
 match (p:Person),(p2:Person)
 where p.email=p2.email and p.name <> p2.name
 with p
 match (p) where exists(p.employeeId) 
 detach delete p
+~~~
+
+
+~~~
+MATCH (p:Person)
+WITH p.email AS email, COLLECT(p) AS nodelist, COUNT(*) AS count,p.employeeId as eid
+WHERE count > 1
+return email, count, eid
 ~~~
