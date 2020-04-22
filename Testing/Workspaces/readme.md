@@ -1,19 +1,25 @@
-UC1 : create new workspace
-UC2 : add via canvas
-UC3 : add note to card
-UC4 : add note 
-UC5  : add from DE
-UC5  : add from SE
-UC6 : add members
+# Workspaces test scenarios 
+
+
+## Primary use case
+
+- Create a new workgroup
+- Create a new workspace
+- analyse a website
+- analyse a local document 
+- view suggested content
+- create a compare view
+- view as a graph
 
 
 
-| 
+### Secondary use case
 
-| | UC1|UC2|UC3|UC4|UC5|UC6|
-|---|---|---|---|---|---|---|
-|itg.2.1.4|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:
+- add a note card to a workspace
+- send content to a playbook
+- send content to a roadmap (create)
+- send content to a solution
+- add a comment to the workgroup
+- add a reference card to the workgroup
+  
 
-
-:white_check_mark:
-:x:
