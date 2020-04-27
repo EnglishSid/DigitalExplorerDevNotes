@@ -8,3 +8,11 @@
 - [Trends](Trends/readme.md)
 
 
+---
+
+## Test Environment
+
+[Integration environment](https://deplatformint.dxc.com/)
+
+### Testing accounts
+Test accounts are available for a **standard** and **admin** users - contact David Stevens to request details
