@@ -5,6 +5,6 @@
 - [Workspaces](Workspaces/readme.md)
 - [Roadmaps](Roadmap/readme.md)
 - [Solutions](Solutions/readme.md)
-- [Trends](trends/readme.md)
+- [Trends](Trends/readme.md)
 
 
