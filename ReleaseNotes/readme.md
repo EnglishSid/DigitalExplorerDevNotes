@@ -1,11 +1,11 @@
 
 |Module|Version|
 |---|---|
-|Trends | 2.2.4
-|Solutions | 3.5.1
-|Roadmaps | 3.1.1
-|Workspaces | 4.3.1
-|Playbooks |1.5.1
+|Trends | 2.2.5
+|Solutions | 3.6.1
+|Roadmaps | 3.2.0
+|Workspaces | 4.4.0
+|Playbooks |1.5.2
 |Stats| 1.0.8
 |Landing Page | 2.0.0
 
@@ -13,6 +13,195 @@
 ### Release date : 
 
 **Major**
+- Workspaces : UX/UI update
+  - Improved homepage layout - (DE-1335)
+  - Responsive canvas (DE-1325)
+  - light/dark theme options (DE-1441)
+
+**Minor**
+
+
+**Fixes**
+- OpenIdeas :
+  -  Pass openidea through to idea analyzer (DE-1425)
+  -  Allow new solutions to be created from open ideas (DE-1407)
+- Ideas : Selected idea is carried forward to analyzer (DE-1418)
+- Playbooks : Summary page : Allow users to select roadmaps with no ideas (DE-1433)
+- 
+
+### Overview video 
+- 
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core 
+- [] dxc-digitalexplorer-home 
+- [x] dxc-digitalexplorer-playbooks 
+- [] dxc-digitalexplorer-roadmaps 
+- [x] dxc-digitalexplorer-solutions 
+- [] dxc-digitalexplorer-trends 
+- [] dxc-digitalexplorer-workspaces  
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.5
+|Solutions | 3.6.1
+|Roadmaps | 3.2.0
+|Workspaces | 4.4.0
+|Playbooks |1.5.2
+|Stats| 1.0.8
+|Landing Page | 2.0.0
+
+
+### Release date : June 8th 2020
+
+**Major**
+- Solution Patterns (DE-1388)
+  - Solution Submission text (DE-1447)
+- PowerBI Hypothesis report (DE-1422)
+
+**Minor**
+- Achievement notifications (DE-1284)
+- Link to definition to terms (DE-1300)
+- Playbooks UX Improvements (DE-1246)
+  - New playbooks set to DXC only (DE-1321)
+
+**Fixes**
+- Duplicate accounts records from ideas (DE-1435)
+- Add trends from workspace playbook (DE-1430)
+- Playbooks : Risk table layout (scrolling) (DE-1432)
+- Playbooks : Solution visibility (DE-1431)
+
+
+### Overview video 
+- 
+
+#### Scripts
+-  None
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core 
+- [] dxc-digitalexplorer-home 
+- [x] dxc-digitalexplorer-playbooks 
+- [] dxc-digitalexplorer-roadmaps 
+- [x] dxc-digitalexplorer-solutions 
+- [] dxc-digitalexplorer-trends 
+- [] dxc-digitalexplorer-workspaces  
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.5
+|Solutions | 3.6.1
+|Roadmaps | 3.2.1
+|Workspaces | 4.4.0
+|Playbooks |1.5.3
+|Stats| 1.0.8
+|Landing Page | 2.0.0
+
+
+### Release date : May 27th 2020
+
+
+**Fixes**
+- Roadmap and Playbook : Sunray layout fixes (DE-1434)
+
+### Overview video 
+- 
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [] dxc-digitalexplorer-core 
+- [] dxc-digitalexplorer-home 
+- [] dxc-digitalexplorer-playbooks 
+- [] dxc-digitalexplorer-roadmaps 
+- [] dxc-digitalexplorer-solutions 
+- [] dxc-digitalexplorer-trends 
+- [] dxc-digitalexplorer-workspaces  
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.5
+|Solutions | 3.6.1
+|Roadmaps | 3.2.0
+|Workspaces | 4.4.0
+|Playbooks |1.5.2
+|Stats| 1.0.8
+|Landing Page | 2.0.0
+
+
+### Release date : May 15th 2020
+
+**Major**
+**Open Ideas**
+- Workspaces : Ability to create an idea within a Workgroup (DE-1187)
+- Roadmaps : Removed dependency that a trend has to be made "Focus" before an idea is created (DE-1274)
+
+**Minor**
+- Trends : Download business trends as a CSV file (DE-1267)
+- Solutions : Achievement notification (DE-1287)
+
+**Fixes**
+- Solutions : IsPrivate login check (DE-1354) 
+
+### Overview video 
+- 
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core 
+- [] dxc-digitalexplorer-home 
+- [x] dxc-digitalexplorer-playbooks 
+- [x] dxc-digitalexplorer-roadmaps 
+- [x] dxc-digitalexplorer-solutions 
+- [x] dxc-digitalexplorer-trends 
+- [x] dxc-digitalexplorer-workspaces  
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-graph-explorer
+
+
+---
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.4
+|Solutions | 3.6.0
+|Roadmaps | 3.1.1
+|Workspaces | 4.3.1
+|Playbooks |1.5.2
+|Stats| 1.0.8
+|Landing Page | 2.0.0
+
+
+### Release date : 
+
+**Major**
+Solutions : Copy Solution (DE-1332)
 
 **Minor**
 
@@ -31,11 +220,11 @@
 #### Builds
 
 - [] dxc-digitalexplorer-assets
-- [] dxc-digitalexplorer-core 
+- [x] dxc-digitalexplorer-core 
 - [] dxc-digitalexplorer-home 
-- [] dxc-digitalexplorer-playbooks 
-- [] dxc-digitalexplorer-roadmaps pr
-- [] dxc-digitalexplorer-solutions 
+- [x] dxc-digitalexplorer-playbooks 
+- [] dxc-digitalexplorer-roadmaps 
+- [x] dxc-digitalexplorer-solutions 
 - [] dxc-digitalexplorer-trends 
 - [] dxc-digitalexplorer-workspaces  
 - [] dxc-digitalexplorer-stats
