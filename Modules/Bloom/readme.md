@@ -5,9 +5,9 @@ If installing for the first time, please download the latest Neo4j Bloom Server 
 ---
 
 
-Development : http://dxcdedev2.centralus.cloudapp.azure.com:7474/browser/bloom/
-Integration : 
-Production : 
+- Development : http://dxcdedev2.centralus.cloudapp.azure.com:7474/browser/bloom/
+- Integration : 
+- Production : http://dxcdeprd2.centralus.cloudapp.azure.com:7474/browser/bloom/ 
 
 dev and int users
 
