@@ -1,14 +1,15 @@
 # DXC Digital Explorer ~ New release just deployed
+## Patterns
+**Embed patterns within your solution models**
 
-**Solutions** : Save minimal Solution (DE-1318)
+## Workspaces
+**New homepage and themes** 
 
-**UX Improvements**
-- Trends **(5)** (DE-1265)
 
-- **Workspaces** - Improved landing page performance (DE-1352)
+_plus minor fixes and improvements_
 
-_plus minor fixes_
+#### [Overview Video](https://dxc.mediaplatform.com/#!/video/5838/Digital+Explorer+:+Release+Video+:+June+8th+2020)
 
-#### [Release notes](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2020.04.08.md)
+#### [Release notes](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/ReleaseNotes/2020.06.09.md)
 
 #DigitalExplorer

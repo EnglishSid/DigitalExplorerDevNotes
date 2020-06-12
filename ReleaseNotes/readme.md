@@ -4,7 +4,7 @@
 |Trends | 2.2.5
 |Solutions | 3.6.1
 |Roadmaps | 3.2.0
-|Workspaces | 4.4.0
+|Workspaces | 4.4.1
 |Playbooks |1.5.2
 |Stats| 1.0.8
 |Landing Page | 2.0.0
@@ -13,12 +13,14 @@
 ### Release date : 
 
 **Major**
-- Workspaces : UX/UI update
-  - Improved homepage layout - (DE-1335)
-  - Responsive canvas (DE-1325)
-  - light/dark theme options (DE-1441)
 
 **Minor**
+- Playbooks 
+  - Markdown support for ideas page (DE-1345)
+- Roadmaps 
+  - improve sort order for accounts in add/edit screens (DE-1308)
+  - drop the requirements for KPI's to have a measurement value (DE-1315)
+
 
 
 **Fixes**
@@ -27,7 +29,13 @@
   -  Allow new solutions to be created from open ideas (DE-1407)
 - Ideas : Selected idea is carried forward to analyzer (DE-1418)
 - Playbooks : Summary page : Allow users to select roadmaps with no ideas (DE-1433)
-- 
+- Roadmaps : Convert to template (DE-1442)
+- Workspaces
+  - Ensure cards can be removed (DE-1459)
+  - fix delete workspace dialog (DE-1458)
+  - show public icon in "my groups" (DE-1461)
+  - ensure stored theme value is applied (DE-1441)
+  - Compare list to include all groups (DE-1460)
 
 ### Overview video 
 - 
@@ -44,7 +52,7 @@
 - [] dxc-digitalexplorer-roadmaps 
 - [x] dxc-digitalexplorer-solutions 
 - [] dxc-digitalexplorer-trends 
-- [] dxc-digitalexplorer-workspaces  
+- [x] dxc-digitalexplorer-workspaces  
 - [] dxc-digitalexplorer-stats
 - [] dxc-digitalexplorer-graph-explorer
 
@@ -66,6 +74,10 @@
 **Major**
 - Solution Patterns (DE-1388)
   - Solution Submission text (DE-1447)
+- Workspaces : UX/UI update
+  - Improved homepage layout - (DE-1335)
+  - Responsive canvas (DE-1325)
+  - light/dark theme options (DE-1441)
 - PowerBI Hypothesis report (DE-1422)
 
 **Minor**
