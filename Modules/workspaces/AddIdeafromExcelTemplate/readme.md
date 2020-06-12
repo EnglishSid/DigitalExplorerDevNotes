@@ -127,7 +127,7 @@ RETURN bt,cd,ci
 ##### 4.2.2 Technology Trends within the Idea
 
 ~~~
-MATCH (wsg:WorkspaceGroup {name:'covid-19'})--(ci:ClientIdea)
+MATCH (wsg:WorkspaceGroup {name:'UKIIMEA Industry Motions'})--(ci:ClientIdea)
 MATCH (t:TechnololgyTrend)
 WHERE (tolower(ci.name)) CONTAINS tolower(t.name) OR
 (tolower(ci.description)) CONTAINS tolower(t.name) OR
@@ -140,7 +140,7 @@ RETURN t,cd,ci
 ##### 4.2.3 Business Trends within the Goal
 
 ~~~
-MATCH (wsg:WorkspaceGroup {name:'covid-19'})--(ci:ClientIdea)-[:ADDRESSES]->(g:AgendaGoal)
+MATCH (wsg:WorkspaceGroup {name:'UKIIMEA Industry Motions'})--(ci:ClientIdea)-[:ADDRESSES]->(g:AgendaGoal)
 MATCH (t:BusinessTrend)
 WHERE tolower(g.description) CONTAINS tolower(t.name) OR
 tolower(g.name) CONTAINS tolower(t.name)
@@ -151,7 +151,7 @@ return ci,g,t,cd
 ##### 4.2.4 Technology Trends within the Goal
 
 ~~~
-MATCH (wsg:WorkspaceGroup {name:'covid-19'})--(ci:ClientIdea)-[:ADDRESSES]->(g:AgendaGoal)
+MATCH (wsg:WorkspaceGroup {name:'UKIIMEA Industry Motions'})--(ci:ClientIdea)-[:ADDRESSES]->(g:AgendaGoal)
 MATCH (t:TechnologyTrend)
 WHERE tolower(g.description) CONTAINS tolower(t.name) OR
 tolower(g.name) CONTAINS tolower(t.name)
@@ -162,7 +162,7 @@ return ci,g,t,cd
 ##### 4.2.5 Business Trends within the KPI
 
 ~~~
-MATCH (wsg:WorkspaceGroup {name:'covid-19'})--(ci:ClientIdea)-[:ADDRESSES]->(k:KPI)
+MATCH (wsg:WorkspaceGroup {name:'UKIIMEA Industry Motions'})--(ci:ClientIdea)-[:ADDRESSES]->(k:KPI)
 MATCH (t:BusinessTrend)
 WHERE tolower(k.measure) CONTAINS tolower(t.name) OR
 tolower(k.name) CONTAINS tolower(t.name)
@@ -173,7 +173,7 @@ return ci,k,t,cd
 ##### 4.2.6 Technology Trends within the KPI
 
 ~~~
-MATCH (wsg:WorkspaceGroup {name:'covid-19'})--(ci:ClientIdea)-[:ADDRESSES]->(k:KPI)
+MATCH (wsg:WorkspaceGroup {name:'UKIIMEA Industry Motions'})--(ci:ClientIdea)-[:ADDRESSES]->(k:KPI)
 MATCH (t:TechnologyTrend)
 WHERE tolower(k.measure) CONTAINS tolower(t.name) OR
 tolower(k.name) CONTAINS tolower(t.name)
