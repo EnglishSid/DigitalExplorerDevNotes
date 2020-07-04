@@ -1,12 +1,12 @@
 ## Create compare view 
 
-# Prerequisities :- 
+### Prerequisities :- 
 
 - Two workspaces should be created As following 
   * Workspace 1 --> under workgroup1
   * Workspace 2 --> under workgroup2
 
-# Steps:- 
+### Steps:- 
 - Login against Digital Explorer with valid user name and password 
 - Select Workspaces Module
 - Select Workgroup1 then click on Workspace 1 inside it  
