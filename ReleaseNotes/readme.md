@@ -1,9 +1,150 @@
 
 |Module|Version|
 |---|---|
+|Trends | 2.2.6
+|Solutions | 3.7.0
+|Roadmaps | 3.3.0
+|Workspaces | 4.4.4
+|Playbooks |1.5.4
+|Stats| 1.0.8
+|Landing Page | 2.0.1
+
+
+### Release date : July 20th 2020
+
+**Major**
+- Solutions UX : 
+  -   Improved add/edit forms (breadcrumbs)(DE-1205)
+  -   Expand solution type selection (DE-1489 & DE-1255)
+  -   Partner icon placement (DE-1361)
+  -   Link to user profiles from contacts and manage users (DE-1485)
+  -   Dedicated reporting API for powerbi dashboard (DE-1495)
+  -   Documentation list dropdown (DE-1306)
+  -   Resize feature description field (DE-1405)
+  -   search on contact roles (DE-1351)
+
+- Roadmaps UX : 
+  - Improve sort order for accounts in add/edit screens (DE-1308)
+  - drop the requirements for KPI's to have a measurement value (DE-1315)
+  - Improve how goals and kpi's are added (DE-1314)
+  - Allow users to be added to accounts via name OR email (DE-1370s)
+  - Allow users to delete business area/segments within the main canvas (DE-1488)
+  - Search on roles when adding account contacts (DE-1381)
+
+- Playbooks
+-   Allow users to select open ideas within Ideas page layout (DE-1427)
+-   Allow all playbook shelf owners edit permission on all books (DE-1397)
+-   Link to playbooks stats for contacts from playbook viewer (DE-1486)
+-   Search on roles when adding account contacts (DE-1380)
+-   Allow users to order playbook within a shelf (DE-1421)
+
+
+**Minor**
+- Trends
+  - Removed `Pan Industry` from dropdown lists (DE-1483)
+
+- Landing page
+  - Dropped `Digital` from trends title (DE-1522)
+
+**Fixes**
+- Trends 
+  - Ensure pending trends alert is shown to all trend reviewers (DE-1498)
+  - Allow technology trends to be rejection by non-authors (DE-1504)
+- Solutions
+  - Show `more detail` information on features (DE-1377)
+  - Update last modification date when "is private" is changed from "my solutions" (DE-1334)
+  - Fixed `Empty Navigation point` from workspaces (DE-1373)
+- Roadmaps
+  - Duplicated person relationships when accounts are removed from program groups (DE-1298)
+  - Fix corrupted summary layout within summary view (DE-1508)
+  - ensure business areas can be updated correctly (DE-1513)
+- Workspaces
+  - Ensure URL reader align with local file reader (DE-1514)
+
+### Overview video 
+- 
+
+#### Scripts
+-  [PlaybookOrder](BackendReleaseScripts/PlaybookOrder.md)
+  
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core 
+- [x] dxc-digitalexplorer-home 
+- [x] dxc-digitalexplorer-playbooks 
+- [x] dxc-digitalexplorer-roadmaps 
+- [x] dxc-digitalexplorer-solutions 
+- [x] dxc-digitalexplorer-trends 
+- [x] dxc-digitalexplorer-workspaces 
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+|Module|Version|
+|---|---|
 |Trends | 2.2.5
 |Solutions | 3.6.1
-|Roadmaps | 3.2.0
+|Roadmaps | 3.2.4
+|Workspaces | 4.4.3
+|Playbooks |1.5.3
+|Stats| 1.0.8
+|Landing Page | 2.0.0
+
+
+### Release date : June 24th 2020
+
+**Major**
+
+**Minor**
+- Platform
+  - Updated about pages (DE-1482)
+- Playbooks 
+  - Markdown support for ideas page (DE-1345)
+  - Improved sizing of heatmap (DE-1248)
+- Workspaces
+  - Option to include external links/references within ideas (DE-1429)
+  - Load more option within Suggested Content (default to top 10)(DE-1475)
+  - Workspace trends ordered by occurrence when creating ideas (DE-1456)
+
+**Fixes**
+- Playbooks 
+  - Summary page : Allow users to select roadmaps with no ideas (DE-1433)
+  - Web Metrics fixed (DE-1310)
+- Roadmaps : Convert to template (DE-1442)
+- Workspaces
+  - Delete workgroup only when no spaces are present (DE-1474)
+  - Account selection fixes (DE-1477 & DE-1476)
+  - Ensure light/dark theme is set correctly (DE-1441)
+  - Cancel Compare view (DE-1478)
+
+### Overview video 
+- June2020.md
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core 
+- [] dxc-digitalexplorer-home 
+- [x] dxc-digitalexplorer-playbooks 
+- [] dxc-digitalexplorer-roadmaps 
+- [] dxc-digitalexplorer-solutions 
+- [] dxc-digitalexplorer-trends 
+- [x] dxc-digitalexplorer-workspaces  
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.5
+|Solutions | 3.6.1
+|Roadmaps | 3.2.4
 |Workspaces | 4.4.1
 |Playbooks |1.5.2
 |Stats| 1.0.8
@@ -15,21 +156,58 @@
 **Major**
 
 **Minor**
-- Playbooks 
-  - Markdown support for ideas page (DE-1345)
-- Roadmaps 
-  - improve sort order for accounts in add/edit screens (DE-1308)
-  - drop the requirements for KPI's to have a measurement value (DE-1315)
 
 
+
+
+**Fixes**
+- Roadmaps : Save and Close fix (DE-1481)
+
+### Overview video 
+- 
+
+#### Scripts
+-  
+
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [] dxc-digitalexplorer-core 
+- [] dxc-digitalexplorer-home 
+- [] dxc-digitalexplorer-playbooks 
+- [x] dxc-digitalexplorer-roadmaps 
+- [] dxc-digitalexplorer-solutions 
+- [] dxc-digitalexplorer-trends 
+- [] dxc-digitalexplorer-workspaces  
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.5
+|Solutions | 3.6.1
+|Roadmaps | 3.2.0
+|Workspaces | 4.4.2
+|Playbooks |1.5.2
+|Stats| 1.0.8
+|Landing Page | 2.0.0
+
+
+### Release date : June 16th 2020
+
+
+
+**Minor**
+- Workspaces
+  - Allow Idea owner and status to be set within Workgroup  (DE-1426)
 
 **Fixes**
 - OpenIdeas :
   -  Pass openidea through to idea analyzer (DE-1425)
   -  Allow new solutions to be created from open ideas (DE-1407)
 - Ideas : Selected idea is carried forward to analyzer (DE-1418)
-- Playbooks : Summary page : Allow users to select roadmaps with no ideas (DE-1433)
-- Roadmaps : Convert to template (DE-1442)
 - Workspaces
   - Ensure cards can be removed (DE-1459)
   - fix delete workspace dialog (DE-1458)
@@ -48,9 +226,9 @@
 - [] dxc-digitalexplorer-assets
 - [x] dxc-digitalexplorer-core 
 - [] dxc-digitalexplorer-home 
-- [x] dxc-digitalexplorer-playbooks 
+- [] dxc-digitalexplorer-playbooks 
 - [] dxc-digitalexplorer-roadmaps 
-- [x] dxc-digitalexplorer-solutions 
+- [] dxc-digitalexplorer-solutions 
 - [] dxc-digitalexplorer-trends 
 - [x] dxc-digitalexplorer-workspaces  
 - [] dxc-digitalexplorer-stats
