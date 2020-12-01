@@ -1,8 +1,8 @@
 # Digital Explorer - Solutions
-## Signpost API
+## Signpost entry
+### API definition 
 
-
-The signpost API creates an enriched representation of any asset within the DXC Digital Explorer Graph database; 
+The signpost API creates an enriched representation of any asset within the DXC Digital Explorer Graph database.
 
 - The signposted entry is added to the solutions dataset and available within the recommendations algorithms (Workspaces and Roadmaps)
 - The owners are provided with a summary of the matched reference points from the following DXC datasets
@@ -23,11 +23,11 @@ The signpost API creates an enriched representation of any asset within the DXC 
 
 |property|description|notes
 |---|---|---|
-|AssetType|Type of asset being added to the database, must have a corresponding solution subType defined within the Graph
+|AssetType|Type of asset being added to the database | **Must have a corresponding solution subType defined within Digital Explorer**
 |Asset Name|free text name of the asset
 |Elevator Pitch|short text description of the asset|max 240 characters
 |Description|free text description of the asset|max 5000 characters, markdown supported
-|Status|production or usage status of the asset (e.g.  `In Development`, `In Production`)
+|Status|production or usage status of the asset |(e.g.  "In Development", "In Production")
 |Contacts|list of people associated to the asset|{name, email, role}
 |Reference URL|Link to master asset location
 
@@ -36,12 +36,12 @@ The signpost API creates an enriched representation of any asset within the DXC 
 
 |property|description|notes
 |---|---|---|
-|eUID|Existing UID of asset from external source location|Optional
-|referenceable|Can the asset be shared with DXC clients (public classification)|default=no
-|searchable|Is the asset included within search and recommendation results|default=true
-|isPrivate|Is the asset marked as private and restricted to only named contacts|default=false
-|CreationDate|Set upon initial creation
-|LastModifiedDate|Updated when matching eUID is provided
+|solution.eUID|Existing UID of asset from external source location|Optional
+|solution.referenceable|Can the asset be shared with DXC clients (public classification)|default=no
+|solution.searchable|Is the asset included within search and recommendation results|default=true
+|solution.isPrivate|Is the asset marked as private and restricted to only named contacts|default=false
+|solution.CreationDate|Set upon initial creation
+|solution.LastModifiedDate|Updated when matching eUID is provided
 
 
 ### Fixed values
@@ -52,12 +52,12 @@ The signpost API creates an enriched representation of any asset within the DXC 
 |solution.source| |SignPostAPI
 |attachment.attachmentType| | REMOTE
 |attachment.docType| | WWW
-|attachment.name| | `Source Location`
+|attachment.name| | Source Location
 
 
 ## Enrichment
 
-The following text properties are analysed 
+The following input properties are analysed 
 
 - asset name
 - elevator pitch
@@ -69,7 +69,18 @@ and matched against the following data sets
 - TechnologyTrends
 - Insights
 
-The matching is run against lowercase matches from both sources
+### Pre-processing
+- text is converted to lower case
+- special characters are removed
+- html and markdown encoding is removed
+
+### processing
+- matched data points are converted to lower case
+
+
+### post-processing
+
+- none
 
 ## Store logic
 
@@ -80,13 +91,19 @@ If a matching eUID is provided, the following properties are updated and the enr
 - elevator Pitch
 - description
 - status
+- LastModifiedDate
 
 
-## Share results
+If a new eUID is provided a new entry is created within the graph database.
+
+- CreationDate & LastModifiedDate are set to the date & time the initial entry is created.
+
+
+## Output results
 
 Upon successful completion of the enrichment and storage of the asset within the graph database the following information is returned to the users
 
-- runtime
+- Runtime
 - Graph Asset ID
 - List of matched business trends
 - list of matched technology trends
