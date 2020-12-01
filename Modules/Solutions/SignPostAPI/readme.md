@@ -10,6 +10,19 @@ The signpost API creates an enriched representation of any asset within the DXC 
   - Business Trends
   - Text Analytics Insights
 
+
+## Scenarios
+
+![image](imagee/../images/Scenerios.png)<br>
+
+### Use Cases
+
+- Analyse and store (default)
+  - Content is analysed and stored within the DXC Graph database
+- Analyse only
+  - Content is passed through the analyse engine only and matched trends and insights are returned to the requestor 
+
+
 ## Input Flow
 
 ![image](images/flow.png)<br>
@@ -36,7 +49,8 @@ The signpost API creates an enriched representation of any asset within the DXC 
 
 |property|description|notes
 |---|---|---|
-|solution.eUID|Existing UID of asset from external source location|Optional
+|eUID|Existing UID of asset from external source location|Optional
+|Store|Store the simplified solution model and enrichments within the graph|default=yes
 |solution.referenceable|Can the asset be shared with DXC clients (public classification)|default=no
 |solution.searchable|Is the asset included within search and recommendation results|default=true
 |solution.isPrivate|Is the asset marked as private and restricted to only named contacts|default=false
@@ -55,7 +69,7 @@ The signpost API creates an enriched representation of any asset within the DXC 
 |attachment.name| | Source Location
 
 
-## Enrichment
+## Analyse
 
 The following input properties are analysed 
 
