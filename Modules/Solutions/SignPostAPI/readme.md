@@ -48,8 +48,11 @@ The signpost API creates an enriched representation of any asset within the DXC 
 
 |property|description|set value
 |---|---|---|
-|objectClass|Archimate object class value|ArchiMate_Product
-|source| |SignPostAPI
+|solution.objectClass|Archimate object class value|ArchiMate_Product
+|solution.source| |SignPostAPI
+|attachment.attachmentType| | REMOTE
+|attachment.docType| | WWW
+|attachment.name| | `Source Location`
 
 
 ## Enrichment
