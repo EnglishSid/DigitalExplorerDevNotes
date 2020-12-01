@@ -38,8 +38,8 @@ The signpost API creates an enriched representation of any asset within the DXC 
 |---|---|---|
 |eUID|Existing UID of asset from external source location|Optional
 |referenceable|Can the asset be shared with DXC clients (public classification)|default=no
-|searchable|Is the asset included within search and recommendation results|default=yes
-|isPrivate|Is the asset marked as private and restricted to only named contacts|default=no
+|searchable|Is the asset included within search and recommendation results|default=true
+|isPrivate|Is the asset marked as private and restricted to only named contacts|default=false
 |CreationDate|Set upon initial creation
 |LastModifiedDate|Updated when matching eUID is provided
 
@@ -48,7 +48,8 @@ The signpost API creates an enriched representation of any asset within the DXC 
 
 |property|description|set value
 |---|---|---|
-|objectClass|Archimate object class value|Product
+|objectClass|Archimate object class value|ArchiMate_Product
+|source| |SignPostAPI
 
 
 ## Enrichment
