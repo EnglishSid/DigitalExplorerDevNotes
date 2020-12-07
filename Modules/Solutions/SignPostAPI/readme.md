@@ -42,7 +42,8 @@ The signpost API creates an enriched representation of any asset within the DXC 
 |Description|free text description of the asset|max 5000 characters, markdown supported
 |Status|production or usage status of the asset |(e.g.  "In Development", "In Production")
 |Contacts|list of people associated to the asset|{name, email, role}
-|Reference URL|Link to master asset location
+|Reference URL|list of URLs | e.g. Link to master asset location
+|Tag|list of tags|
 
 
 ### Control values 
@@ -123,3 +124,19 @@ Upon successful completion of the enrichment and storage of the asset within the
 - list of matched technology trends
 - list of matched insights
 - link to asset (solution) datasheet
+
+
+----
+
+## Open points
+
+- DE badge award for initial submission - how?
+- Simple UI form to add ??
+- Would the existing edit feature work?  or enforce restrictions?
+- Show insights in datasheet
+
+----
+
+## Secondary Use Cases
+
+- Employee Fingerprint - The Knowledge Social Graph
