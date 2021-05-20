@@ -1,4 +1,193 @@
 
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.8
+|Solutions | 5.0.1
+|Roadmaps | 3.2.6
+|Workspaces | 5.1.1
+|Playbooks |2.2.0
+|Stats| 1.0.8
+|Landing Page | 3.1.0
+
+
+### Release date : 
+
+**Major**
+
+- Universal ID integration 
+
+**Minor**
+- Workspaces
+  - Improve advanced document reader dialog (DE-1721)
+- Solutions
+  - Improved cancel dialog (DE-1722)
+  - Origin and Usage graph view (DE-1673)
+
+**Fixes**
+
+
+### Overview video 
+- 
+
+#### Scripts
+
+  
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core 
+- [x] dxc-digitalexplorer-home 
+- [x] dxc-digitalexplorer-playbooks 
+- [] dxc-digitalexplorer-roadmaps 
+- [x] dxc-digitalexplorer-solutions 
+- [] dxc-digitalexplorer-trends 
+- [x] dxc-digitalexplorer-workspaces 
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-graph-explorer
+
+---
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.8
+**|Solutions | 5.0.0**
+**|Roadmaps | 3.2.6**
+**|Workspaces | 5.1.0**
+**|Playbooks |2.2.0**
+|Stats| 1.0.8
+|Landing Page | 3.1.0
+
+
+### Release date : 
+
+**Major**
+- Workspaces - Full NLP for all users
+- Workspaces - DXC Risk Taxonomy 
+- Solutions - Composition (DE-1577)
+
+**Minor**
+- Workspaces
+  - Add by email (DE-1406)
+  - Invite email includes name of person sending the invite (DE-1328)
+  - Enable enhanced document scanner for all DXC employees (DE-1714)
+  - Insights included in csv download (DE-1683)
+  - Nested circles data view (DE-1646)
+- Playbooks
+  - Improved heatmap presentation (DE-1691)
+  - Improved compare view presentation (DE-1632)
+  - Improved editor thumbnail text (DE-1636)
+- Platform 
+  - option for Announcement message on homepage (DE-1716)
+  - local installation guide (DE-1715) 
+
+**Fixes**
+- Ideas - Trends search (DE-1614)
+- Ideas - Create new ideas (DE-1719)
+- Workspaces : Cancel doesn't cancel (DE-1690)
+- Solutions - Add new solution types (DE-1658)
+- Solutions - Direct links to solutions (DE-1606)
+- Roadmaps : Ensure goals and KPIs are saved (DE-1608)
+- Trends - Ensure industry list is complete (DE-1672)
+
+### Overview video 
+- 
+
+#### Scripts
+
+- DXCRisk.md
+
+  
+#### Builds
+
+- [] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core 
+- [x] dxc-digitalexplorer-home 
+- [x] dxc-digitalexplorer-playbooks 
+- [] dxc-digitalexplorer-roadmaps 
+- [x] dxc-digitalexplorer-solutions 
+- [] dxc-digitalexplorer-trends 
+- [x] dxc-digitalexplorer-workspaces 
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-graph-explorer
+
+----
+
+|Module|Version|
+|---|---|
+|Trends | 2.2.8
+|Solutions | 4.0.0
+|Roadmaps | 3.2.5
+|Workspaces | 5.0.0
+|Playbooks |2.1.0
+|Stats| 1.0.8
+|Landing Page | 3.0.1
+
+
+### Release date : 
+
+**Major**
+- Full Text analytics within Workspace module
+
+**Minor**
+- Workspaces
+  - Added Account Manager (DE-1641)
+  - New reference icons for known sites (DE-1199)
+  - Show group settings to all users (DE-1329)
+  - Improved image export (DE-1399)
+  - Improved full light theme (DE-1623)
+  - new heatmap data visualization
+  - new nested circles data visualization
+
+- Playbooks
+  - PDF export
+  - Search
+
+- Roadmaps
+  - Taxonomy alignment for business area and innovation areas
+
+- Landing Page
+  - Revised links for personas
+
+**Fixes**
+- Workspaces 
+  - Add goals and KPIs (DE-1615 & DE-1589)
+  - Allow KPIs within Idea to have just a name (DE-1616)
+  - Manage members UI fix (DE-1612)
+  - Links to created playbooks fixed (DE-1607)
+
+- Ideas 
+  - Allow just 
+
+- Roadmaps
+  - Ensure first view after save isn't corrupted (DE-1628) 
+
+- Playbooks
+  - cancel fix (DE-1581)
+
+### Overview video 
+- 
+
+#### Scripts
+
+- Stop Words
+  
+#### Builds
+
+- [x] dxc-digitalexplorer-assets
+- [x] dxc-digitalexplorer-core 
+- [x] dxc-digitalexplorer-home 
+- [x] dxc-digitalexplorer-playbooks 
+- [x] dxc-digitalexplorer-roadmaps 
+- [x] dxc-digitalexplorer-solutions 
+- [x] dxc-digitalexplorer-trends 
+- [x] dxc-digitalexplorer-workspaces 
+- [] dxc-digitalexplorer-stats
+- [] dxc-digitalexplorer-graph-explorer
+
+----
+
+
 |Module|Version|
 |---|---|
 |Trends | 2.2.6
